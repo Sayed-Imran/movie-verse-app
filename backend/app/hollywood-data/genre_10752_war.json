@@ -1,0 +1,411 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+      "genre_ids": [
+        10752,
+        28
+      ],
+      "id": 1241436,
+      "original_language": "en",
+      "original_title": "Warfare",
+      "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+      "popularity": 379.8887,
+      "poster_path": "/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
+      "release_date": "2025-04-09",
+      "title": "Warfare",
+      "video": false,
+      "vote_average": 7.109,
+      "vote_count": 327
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        28
+      ],
+      "id": 228150,
+      "original_language": "en",
+      "original_title": "Fury",
+      "overview": "In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+      "popularity": 21.5008,
+      "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "release_date": "2014-10-15",
+      "title": "Fury",
+      "video": false,
+      "vote_average": 7.54,
+      "vote_count": 12282
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 324786,
+      "original_language": "en",
+      "original_title": "Hacksaw Ridge",
+      "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+      "popularity": 20.7595,
+      "poster_path": "/jhWbYeUNOA5zAb6ufK6pXQFXqTX.jpg",
+      "release_date": "2016-10-07",
+      "title": "Hacksaw Ridge",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 14087
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yBMGM7x8lPXUlmTNfCLZvHbpJmk.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53,
+        10752
+      ],
+      "id": 1043905,
+      "original_language": "en",
+      "original_title": "Dirty Angels",
+      "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+      "popularity": 19.4563,
+      "poster_path": "/1y3TG8N8zwwMxqh0qzdyDs3IyCq.jpg",
+      "release_date": "2024-12-11",
+      "title": "Dirty Angels",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 240
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+      "genre_ids": [
+        18,
+        878,
+        10752
+      ],
+      "id": 281338,
+      "original_language": "en",
+      "original_title": "War for the Planet of the Apes",
+      "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+      "popularity": 17.8034,
+      "poster_path": "/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
+      "release_date": "2017-07-11",
+      "title": "War for the Planet of the Apes",
+      "video": false,
+      "vote_average": 7.207,
+      "vote_count": 9244
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        53
+      ],
+      "id": 882569,
+      "original_language": "en",
+      "original_title": "Guy Ritchie's The Covenant",
+      "overview": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+      "popularity": 16.2231,
+      "poster_path": "/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+      "release_date": "2023-04-19",
+      "title": "Guy Ritchie's The Covenant",
+      "video": false,
+      "vote_average": 7.754,
+      "vote_count": 2742
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 929590,
+      "original_language": "en",
+      "original_title": "Civil War",
+      "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+      "popularity": 16.0118,
+      "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "release_date": "2024-04-10",
+      "title": "Civil War",
+      "video": false,
+      "vote_average": 6.865,
+      "vote_count": 3568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "popularity": 15.7748,
+      "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "release_date": "1993-12-15",
+      "title": "Schindler's List",
+      "video": false,
+      "vote_average": 8.565,
+      "vote_count": 16424
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jLRtQNOwA0ul2gnRoZ0QjNwMUN1.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10752
+      ],
+      "id": 799583,
+      "original_language": "en",
+      "original_title": "The Ministry of Ungentlemanly Warfare",
+      "overview": "During World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British WWII organization \u2014 the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
+      "popularity": 15.7716,
+      "poster_path": "/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg",
+      "release_date": "2024-04-18",
+      "title": "The Ministry of Ungentlemanly Warfare",
+      "video": false,
+      "vote_average": 7.082,
+      "vote_count": 1469
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+      "genre_ids": [
+        18,
+        53,
+        10752
+      ],
+      "id": 16869,
+      "original_language": "en",
+      "original_title": "Inglourious Basterds",
+      "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+      "popularity": 15.5291,
+      "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+      "release_date": "2009-08-02",
+      "title": "Inglourious Basterds",
+      "video": false,
+      "vote_average": 8.215,
+      "vote_count": 22840
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        36
+      ],
+      "id": 652,
+      "original_language": "en",
+      "original_title": "Troy",
+      "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+      "popularity": 15.4434,
+      "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+      "release_date": "2004-05-13",
+      "title": "Troy",
+      "video": false,
+      "vote_average": 7.163,
+      "vote_count": 10441
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "genre_ids": [
+        18,
+        28,
+        12,
+        36,
+        10752
+      ],
+      "id": 1495,
+      "original_language": "en",
+      "original_title": "Kingdom of Heaven",
+      "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+      "popularity": 14.723,
+      "poster_path": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "release_date": "2005-05-03",
+      "title": "Kingdom of Heaven",
+      "video": false,
+      "vote_average": 6.98,
+      "vote_count": 4469
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 857,
+      "original_language": "en",
+      "original_title": "Saving Private Ryan",
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "popularity": 14.116,
+      "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "release_date": "1998-07-24",
+      "title": "Saving Private Ryan",
+      "video": false,
+      "vote_average": 8.219,
+      "vote_count": 16277
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ye63eA7UvKDgUPcTbfQZezIA7cF.jpg",
+      "genre_ids": [
+        36,
+        10752,
+        10749
+      ],
+      "id": 753342,
+      "original_language": "en",
+      "original_title": "Napoleon",
+      "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+      "popularity": 13.4358,
+      "poster_path": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "release_date": "2023-11-22",
+      "title": "Napoleon",
+      "video": false,
+      "vote_average": 6.35,
+      "vote_count": 2736
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 197,
+      "original_language": "en",
+      "original_title": "Braveheart",
+      "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "popularity": 11.8865,
+      "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "release_date": "1995-05-24",
+      "title": "Braveheart",
+      "video": false,
+      "vote_average": 7.944,
+      "vote_count": 10405
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eIDhmgup0dxhUyqVLFfhX78N5Gq.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10752
+      ],
+      "id": 7555,
+      "original_language": "en",
+      "original_title": "Rambo",
+      "overview": "In Thailand, ex-Green Beret John James Rambo joins a group of mercenaries to venture into war-torn neighboring Myanmar to rescue a group of Christian aid workers who have been kidnapped by a ruthless local infantry unit.",
+      "popularity": 11.3093,
+      "poster_path": "/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
+      "release_date": "2008-01-24",
+      "title": "Rambo",
+      "video": false,
+      "vote_average": 6.682,
+      "vote_count": 4012
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 423,
+      "original_language": "en",
+      "original_title": "The Pianist",
+      "overview": "The true story of pianist W\u0142adys\u0142aw Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a caf\u00e9; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+      "popularity": 11.3061,
+      "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "release_date": "2002-09-17",
+      "title": "The Pianist",
+      "video": false,
+      "vote_average": 8.379,
+      "vote_count": 9515
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        36,
+        18,
+        53
+      ],
+      "id": 300671,
+      "original_language": "en",
+      "original_title": "13 Hours: The Secret Soldiers of Benghazi",
+      "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+      "popularity": 10.9948,
+      "poster_path": "/AskDcQ6Sa6jImyt2KDQbgRuPebH.jpg",
+      "release_date": "2016-01-14",
+      "title": "13 Hours: The Secret Soldiers of Benghazi",
+      "video": false,
+      "vote_average": 7.275,
+      "vote_count": 3679
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+      "genre_ids": [
+        36,
+        18,
+        53,
+        10752
+      ],
+      "id": 205596,
+      "original_language": "en",
+      "original_title": "The Imitation Game",
+      "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+      "popularity": 10.8676,
+      "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "release_date": "2014-11-14",
+      "title": "The Imitation Game",
+      "video": false,
+      "vote_average": 7.994,
+      "vote_count": 17334
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+      "genre_ids": [
+        10752,
+        28
+      ],
+      "id": 190859,
+      "original_language": "en",
+      "original_title": "American Sniper",
+      "overview": "U.S. Navy SEAL Chris Kyle takes his sole mission\u2014protect his comrades\u2014to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+      "popularity": 10.5642,
+      "poster_path": "/vJgtfUmZE5i4L12sOryAPuBa04K.jpg",
+      "release_date": "2014-12-25",
+      "title": "American Sniper",
+      "video": false,
+      "vote_average": 7.42,
+      "vote_count": 13090
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

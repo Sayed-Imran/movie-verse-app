@@ -1,0 +1,422 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        10402,
+        12
+      ],
+      "id": 354912,
+      "original_language": "en",
+      "original_title": "Coco",
+      "overview": "Despite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "popularity": 20.8657,
+      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "release_date": "2017-10-27",
+      "title": "Coco",
+      "video": false,
+      "vote_average": 8.205,
+      "vote_count": 19958
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uxezSInaPoH20CyHx4TuY1LzGly.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        10770,
+        878,
+        12,
+        28,
+        10402
+      ],
+      "id": 71689,
+      "original_language": "en",
+      "original_title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
+      "popularity": 20.3406,
+      "poster_path": "/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
+      "release_date": "2011-08-05",
+      "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 566
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 244786,
+      "original_language": "en",
+      "original_title": "Whiplash",
+      "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+      "popularity": 18.6535,
+      "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "release_date": "2014-10-10",
+      "title": "Whiplash",
+      "video": false,
+      "vote_average": 8.376,
+      "vote_count": 15623
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749,
+        10402
+      ],
+      "id": 313369,
+      "original_language": "en",
+      "original_title": "La La Land",
+      "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "popularity": 16.4217,
+      "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "release_date": "2016-12-01",
+      "title": "La La Land",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 17280
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kcCy5tKTe6WepVQ6SQaSewpmoCj.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 661539,
+      "original_language": "en",
+      "original_title": "A Complete Unknown",
+      "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
+      "popularity": 14.4031,
+      "poster_path": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "release_date": "2024-12-18",
+      "title": "A Complete Unknown",
+      "video": false,
+      "vote_average": 7.159,
+      "vote_count": 970
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        10402,
+        35
+      ],
+      "id": 438695,
+      "original_language": "en",
+      "original_title": "Sing 2",
+      "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+      "popularity": 12.8107,
+      "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+      "release_date": "2021-12-01",
+      "title": "Sing 2",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 4520
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 424694,
+      "original_language": "en",
+      "original_title": "Bohemian Rhapsody",
+      "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet \u2013 finding a way to keep the band together amid the success and excess.",
+      "popularity": 12.2521,
+      "poster_path": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "release_date": "2018-10-24",
+      "title": "Bohemian Rhapsody",
+      "video": false,
+      "vote_average": 7.975,
+      "vote_count": 17124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        10402
+      ],
+      "id": 335797,
+      "original_language": "en",
+      "original_title": "Sing",
+      "overview": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+      "popularity": 12.1935,
+      "poster_path": "/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg",
+      "release_date": "2016-11-23",
+      "title": "Sing",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 8093
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 799766,
+      "original_language": "en",
+      "original_title": "Better Man",
+      "overview": "Follow Robbie Williams' journey from childhood, to being the youngest member of chart-topping boyband Take That, through to his unparalleled achievements as a record-breaking solo artist \u2013 all the while confronting the challenges that stratospheric fame and success can bring.",
+      "popularity": 11.5569,
+      "poster_path": "/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
+      "release_date": "2024-12-06",
+      "title": "Better Man",
+      "video": false,
+      "vote_average": 7.803,
+      "vote_count": 492
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Rhs8yzMTtAcOUvJXqUg7kzljb7.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        10402
+      ],
+      "id": 1371727,
+      "original_language": "en",
+      "original_title": "Sing: Thriller",
+      "overview": "Buster Moon dreams up a star-studded spectacle set to Michael Jackson's \"Thriller\" in this animated short featuring characters from the hit \"Sing\" films.",
+      "popularity": 10.6984,
+      "poster_path": "/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+      "release_date": "2024-10-15",
+      "title": "Sing: Thriller",
+      "video": false,
+      "vote_average": 7.23,
+      "vote_count": 163
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qU7tNIMpRqkizIObXfkJY3haTqh.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 27,
+      "original_language": "en",
+      "original_title": "9 Songs",
+      "overview": "Matt, a young glaciologist, soars across the vast, silent, icebound immensities of the South Pole as he recalls his love affair with Lisa. They meet at a mobbed rock concert in a vast music hall - London's Brixton Academy. They are in bed at night's end. Together, over a period of several months, they pursue a mutual sexual passion whose inevitable stages unfold in counterpoint to nine live-concert songs.",
+      "popularity": 10.2111,
+      "poster_path": "/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg",
+      "release_date": "2004-07-16",
+      "title": "9 Songs",
+      "video": false,
+      "vote_average": 5.571,
+      "vote_count": 526
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDW6z7I6de6JbUgPOkAEZwKbg7G.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        10402,
+        14,
+        35
+      ],
+      "id": 901362,
+      "original_language": "en",
+      "original_title": "Trolls Band Together",
+      "overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+      "popularity": 10.0897,
+      "poster_path": "/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+      "release_date": "2023-10-12",
+      "title": "Trolls Band Together",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 896
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 88,
+      "original_language": "en",
+      "original_title": "Dirty Dancing",
+      "overview": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer\u2014and unexpectedly falling in love.",
+      "popularity": 9.4617,
+      "poster_path": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "release_date": "1987-08-21",
+      "title": "Dirty Dancing",
+      "video": false,
+      "vote_average": 7.331,
+      "vote_count": 6242
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 776503,
+      "original_language": "en",
+      "original_title": "CODA",
+      "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+      "popularity": 8.5395,
+      "poster_path": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "release_date": "2021-08-13",
+      "title": "CODA",
+      "video": false,
+      "vote_average": 7.92,
+      "vote_count": 2339
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pVoPfIJCVusuELtfpZzadXsKxhs.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        14,
+        12,
+        35,
+        10402
+      ],
+      "id": 136799,
+      "original_language": "en",
+      "original_title": "Trolls",
+      "overview": "After the monstrous Bergens invade Troll Village, Princess Poppy, the happiest Troll ever born, and overly-cautious, curmudgeonly outcast Branch set off on a journey to rescue her friends. Their mission is full of adventure and mishaps, as this mismatched duo try to tolerate each other long enough to get the job done.",
+      "popularity": 8.2383,
+      "poster_path": "/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
+      "release_date": "2016-10-13",
+      "title": "Trolls",
+      "video": false,
+      "vote_average": 6.636,
+      "vote_count": 3642
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y0ludgr1EvyXcT1lv2M0m621LQ6.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        14,
+        10770,
+        10402
+      ],
+      "id": 277217,
+      "original_language": "en",
+      "original_title": "Descendants",
+      "overview": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay).",
+      "popularity": 8.0982,
+      "poster_path": "/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+      "release_date": "2015-07-31",
+      "title": "Descendants",
+      "video": false,
+      "vote_average": 7.14,
+      "vote_count": 2389
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bWOfRV1Ubk9SWEDZDDjsmIUCcbZ.jpg",
+      "genre_ids": [
+        35,
+        10402
+      ],
+      "id": 254470,
+      "original_language": "en",
+      "original_title": "Pitch Perfect 2",
+      "overview": "The Bellas are back, and they are better than ever. After being humiliated in front of none other than the President of the United States of America, the Bellas are taken out of the Aca-Circuit. In order to clear their name, and regain their status, the Bellas take on a seemingly impossible task: winning an international competition no American team has ever won. In order to accomplish this monumental task, they need to strengthen the bonds of friendship and sisterhood and blow away the competition with their amazing aca-magic! With all new friends and old rivals tagging along for the trip, the Bellas can hopefully accomplish their dreams.",
+      "popularity": 7.9358,
+      "poster_path": "/oFBQUufCV4c8WZoNhtGM17p884H.jpg",
+      "release_date": "2015-05-07",
+      "title": "Pitch Perfect 2",
+      "video": false,
+      "vote_average": 6.852,
+      "vote_count": 5348
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/90kmxuSwU28dVy1ghVSHI4x1wb8.jpg",
+      "genre_ids": [
+        37,
+        35,
+        18,
+        10402,
+        9648,
+        10749
+      ],
+      "id": 537996,
+      "original_language": "en",
+      "original_title": "The Ballad of Buster Scruggs",
+      "overview": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+      "popularity": 6.7075,
+      "poster_path": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "release_date": "2018-11-09",
+      "title": "The Ballad of Buster Scruggs",
+      "video": false,
+      "vote_average": 7.137,
+      "vote_count": 4136
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/38IKiVWoqxRLpZawb6QWn1vIdLo.jpg",
+      "genre_ids": [
+        10402,
+        18,
+        10749
+      ],
+      "id": 332562,
+      "original_language": "en",
+      "original_title": "A Star Is Born",
+      "overview": "Seasoned musician Jackson Maine discovers \u2014 and falls in love with \u2014 struggling artist Ally. She has just about given up on her dream to make it big as a singer \u2014 until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "popularity": 6.6988,
+      "poster_path": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "release_date": "2018-10-03",
+      "title": "A Star Is Born",
+      "video": false,
+      "vote_average": 7.498,
+      "vote_count": 11827
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2sE6hrwfn9IV7eDlMvpIb9q1EWy.jpg",
+      "genre_ids": [
+        35,
+        10402,
+        10749
+      ],
+      "id": 114150,
+      "original_language": "en",
+      "original_title": "Pitch Perfect",
+      "overview": "College student Beca knows she does not want to be part of a clique, but that's exactly where she finds herself after arriving at her new school. Thrust in among mean gals, nice gals and just plain weird gals, Beca finds that the only thing they have in common is how well they sing together. She takes the women of the group out of their comfort zone of traditional arrangements and into a world of amazing harmonic combinations in a fight to the top of college music competitions.",
+      "popularity": 6.6427,
+      "poster_path": "/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+      "release_date": "2012-09-28",
+      "title": "Pitch Perfect",
+      "video": false,
+      "vote_average": 7.284,
+      "vote_count": 6625
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

@@ -1,0 +1,412 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 68718,
+      "original_language": "en",
+      "original_title": "Django Unchained",
+      "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "popularity": 13.9333,
+      "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "release_date": "2012-12-25",
+      "title": "Django Unchained",
+      "video": false,
+      "vote_average": 8.182,
+      "vote_count": 26750
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sGOw65ZmfgGfistCjuNsazjs6j9.jpg",
+      "genre_ids": [
+        37,
+        18,
+        12
+      ],
+      "id": 281957,
+      "original_language": "en",
+      "original_title": "The Revenant",
+      "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+      "popularity": 11.8706,
+      "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "release_date": "2015-12-25",
+      "title": "The Revenant",
+      "video": false,
+      "vote_average": 7.534,
+      "vote_count": 18433
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7dp5f7YPNBSuDJ1F2ae96eCzuSU.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        37,
+        12
+      ],
+      "id": 44896,
+      "original_language": "en",
+      "original_title": "Rango",
+      "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
+      "popularity": 9.9107,
+      "poster_path": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "release_date": "2011-03-02",
+      "title": "Rango",
+      "video": false,
+      "vote_average": 6.874,
+      "vote_count": 6667
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/teLJilYBEdBiCNwPuiJaJT0p7i8.jpg",
+      "genre_ids": [
+        37,
+        18,
+        9648
+      ],
+      "id": 11901,
+      "original_language": "en",
+      "original_title": "High Plains Drifter",
+      "overview": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+      "popularity": 9.7885,
+      "poster_path": "/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+      "release_date": "1973-04-19",
+      "title": "High Plains Drifter",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1198
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lD8dFIk9wDEvOwZw0RB47e346io.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        37
+      ],
+      "id": 698508,
+      "original_language": "en",
+      "original_title": "Redeeming Love",
+      "overview": "A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.",
+      "popularity": 9.6692,
+      "poster_path": "/mV3vomFNiCQbSowGrp2penDGRqJ.jpg",
+      "release_date": "2022-01-21",
+      "title": "Redeeming Love",
+      "video": false,
+      "vote_average": 7.822,
+      "vote_count": 621
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg",
+      "genre_ids": [
+        37,
+        27,
+        18
+      ],
+      "id": 294963,
+      "original_language": "en",
+      "original_title": "Bone Tomahawk",
+      "overview": "During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. The doctor's assistant, wife of the local foreman, tends to him in prison. That night, the town is attacked and they both disappear\u2014only the arrow of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and the foreman's wife.",
+      "popularity": 9.4189,
+      "poster_path": "/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg",
+      "release_date": "2015-10-23",
+      "title": "Bone Tomahawk",
+      "video": false,
+      "vote_average": 6.866,
+      "vote_count": 2310
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+      "genre_ids": [
+        37,
+        28
+      ],
+      "id": 11969,
+      "original_language": "en",
+      "original_title": "Tombstone",
+      "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+      "popularity": 9.1021,
+      "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+      "release_date": "1993-12-25",
+      "title": "Tombstone",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 2217
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        37
+      ],
+      "id": 273248,
+      "original_language": "en",
+      "original_title": "The Hateful Eight",
+      "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+      "popularity": 8.3091,
+      "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "release_date": "2015-12-25",
+      "title": "The Hateful Eight",
+      "video": false,
+      "vote_average": 7.755,
+      "vote_count": 14497
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        18,
+        37,
+        10749
+      ],
+      "id": 9023,
+      "original_language": "en",
+      "original_title": "Spirit: Stallion of the Cimarron",
+      "overview": "A captured mustang remains determined to return to his herd no matter what.",
+      "popularity": 8.2062,
+      "poster_path": "/cUgYrz4twiJ3QgVGpRfey984NIB.jpg",
+      "release_date": "2002-05-24",
+      "title": "Spirit: Stallion of the Cimarron",
+      "video": false,
+      "vote_average": 7.69,
+      "vote_count": 4671
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8GXri7UnwE7dVNfUAZVDn7Z8UBZ.jpg",
+      "genre_ids": [
+        12,
+        28,
+        37
+      ],
+      "id": 333484,
+      "original_language": "en",
+      "original_title": "The Magnificent Seven",
+      "overview": "Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control of the Old West town of Rose Creek. With their lives in jeopardy, Emma Cullen and other desperate residents turn to bounty hunter Sam Chisolm for help. Chisolm recruits an eclectic group of gunslingers to take on Bogue and his ruthless henchmen. With a deadly showdown on the horizon, the seven mercenaries soon find themselves fighting for more than just money once the bullets start to fly.",
+      "popularity": 7.5834,
+      "poster_path": "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
+      "release_date": "2016-09-14",
+      "title": "The Magnificent Seven",
+      "video": false,
+      "vote_average": 6.463,
+      "vote_count": 6061
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/90kmxuSwU28dVy1ghVSHI4x1wb8.jpg",
+      "genre_ids": [
+        37,
+        35,
+        18,
+        10402,
+        9648,
+        10749
+      ],
+      "id": 537996,
+      "original_language": "en",
+      "original_title": "The Ballad of Buster Scruggs",
+      "overview": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+      "popularity": 6.7075,
+      "poster_path": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "release_date": "2018-11-09",
+      "title": "The Ballad of Buster Scruggs",
+      "video": false,
+      "vote_average": 7.137,
+      "vote_count": 4136
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pOd5ZQxZEORCg39ISnqpUI0XIhg.jpg",
+      "genre_ids": [
+        18,
+        35,
+        37
+      ],
+      "id": 298382,
+      "original_language": "en",
+      "original_title": "The Dressmaker",
+      "overview": "In 1950s Australia, beautiful, talented dressmaker Tilly returns to her tiny hometown to right wrongs from her past. As she tries to reconcile with her mother, she starts to fall in love while transforming the fashion of the town.",
+      "popularity": 6.644,
+      "poster_path": "/5Loofmo5GTt1Qe2Dz5ERLVlN98T.jpg",
+      "release_date": "2015-10-29",
+      "title": "The Dressmaker",
+      "video": false,
+      "vote_average": 7.003,
+      "vote_count": 1680
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xClq7x4kE5l6NL4P0ZzD9sfJW73.jpg",
+      "genre_ids": [
+        37,
+        28,
+        12
+      ],
+      "id": 966,
+      "original_language": "en",
+      "original_title": "The Magnificent Seven",
+      "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
+      "popularity": 6.2469,
+      "poster_path": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "release_date": "1960-10-12",
+      "title": "The Magnificent Seven",
+      "video": false,
+      "vote_average": 7.509,
+      "vote_count": 1841
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6ttg6M0gJcmeEA27YvQl7d29ssD.jpg",
+      "genre_ids": [
+        18,
+        12,
+        37
+      ],
+      "id": 44264,
+      "original_language": "en",
+      "original_title": "True Grit",
+      "overview": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find\u2014a man with 'true grit'\u2014Reuben J. 'Rooster' Cogburn.",
+      "popularity": 6.1104,
+      "poster_path": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+      "release_date": "2010-12-22",
+      "title": "True Grit",
+      "video": false,
+      "vote_average": 7.307,
+      "vote_count": 5370
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 33,
+      "original_language": "en",
+      "original_title": "Unforgiven",
+      "overview": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+      "popularity": 5.9901,
+      "poster_path": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "release_date": "1992-08-07",
+      "title": "Unforgiven",
+      "video": false,
+      "vote_average": 7.909,
+      "vote_count": 4575
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fOfcbdBQBCO4Y2hy6DfLbb30klU.jpg",
+      "genre_ids": [
+        18,
+        37,
+        10749,
+        10752,
+        28
+      ],
+      "id": 4476,
+      "original_language": "en",
+      "original_title": "Legends of the Fall",
+      "overview": "In early 20th-century Montana, Col. William Ludlow lives on a ranch in the wilderness with his sons, Alfred, Tristan, and Samuel. Eventually, the unconventional but close-knit family are bound by loyalty, tested by war, and torn apart by love, as told over the course of several decades in this epic saga.",
+      "popularity": 5.7016,
+      "poster_path": "/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+      "release_date": "1994-12-23",
+      "title": "Legends of the Fall",
+      "video": false,
+      "vote_average": 7.395,
+      "vote_count": 2657
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+      "genre_ids": [
+        12,
+        18,
+        37
+      ],
+      "id": 581,
+      "original_language": "en",
+      "original_title": "Dances with Wolves",
+      "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide\u2014and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+      "popularity": 5.6812,
+      "poster_path": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "release_date": "1990-03-30",
+      "title": "Dances with Wolves",
+      "video": false,
+      "vote_average": 7.842,
+      "vote_count": 4348
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w0phfkRFdYlhYXi9d4jONxAw2XH.jpg",
+      "genre_ids": [
+        37,
+        80,
+        18
+      ],
+      "id": 338766,
+      "original_language": "en",
+      "original_title": "Hell or High Water",
+      "overview": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
+      "popularity": 4.8765,
+      "poster_path": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "release_date": "2016-08-11",
+      "title": "Hell or High Water",
+      "video": false,
+      "vote_average": 7.302,
+      "vote_count": 4568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fEI7I233M9hkw1MRSBXEgauXhRl.jpg",
+      "genre_ids": [
+        80,
+        18,
+        37
+      ],
+      "id": 82633,
+      "original_language": "en",
+      "original_title": "Lawless",
+      "overview": "In 1931, the Bondurant brothers of Franklin County, Virginia, run a multipurpose backwoods establishment that hides their true business \u2014 bootlegging. Middle brother Forrest is the brain of the operation; older Howard is the brawn, and younger Jack, the lookout. Though the local police have taken bribes and left the brothers alone, a violent war erupts when a sadistic lawman from Chicago arrives and tries to shut down the Bondurants operation.",
+      "popularity": 4.7499,
+      "poster_path": "/Ahtzwts22ayviD3LEVslfL4nRWB.jpg",
+      "release_date": "2012-08-29",
+      "title": "Lawless",
+      "video": false,
+      "vote_average": 7.058,
+      "vote_count": 3124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zJRVO9G5c7tTfDRvfC13nUDqXdH.jpg",
+      "genre_ids": [
+        35,
+        37
+      ],
+      "id": 188161,
+      "original_language": "en",
+      "original_title": "A Million Ways to Die in the West",
+      "overview": "As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.",
+      "popularity": 4.634,
+      "poster_path": "/n9SicwnoNGWBwE75le27sUhCLMm.jpg",
+      "release_date": "2014-05-22",
+      "title": "A Million Ways to Die in the West",
+      "video": false,
+      "vote_average": 6.051,
+      "vote_count": 4168
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

@@ -1,0 +1,405 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        53
+      ],
+      "id": 950396,
+      "original_language": "en",
+      "original_title": "The Gorge",
+      "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "popularity": 59.9198,
+      "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "release_date": "2025-02-13",
+      "title": "The Gorge",
+      "video": false,
+      "vote_average": 7.715,
+      "vote_count": 2568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 1064213,
+      "original_language": "en",
+      "original_title": "Anora",
+      "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "popularity": 40.3521,
+      "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+      "release_date": "2024-10-14",
+      "title": "Anora",
+      "video": false,
+      "vote_average": 7.049,
+      "vote_count": 2165
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1294203,
+      "original_language": "en",
+      "original_title": "My Fault: London",
+      "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William\u2019s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+      "popularity": 34.2349,
+      "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+      "release_date": "2025-02-12",
+      "title": "My Fault: London",
+      "video": false,
+      "vote_average": 7.467,
+      "vote_count": 391
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 597,
+      "original_language": "en",
+      "original_title": "Titanic",
+      "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+      "popularity": 33.1448,
+      "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "release_date": "1997-11-18",
+      "title": "Titanic",
+      "video": false,
+      "vote_average": 7.906,
+      "vote_count": 25980
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "id": 402431,
+      "original_language": "en",
+      "original_title": "Wicked",
+      "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+      "popularity": 32.8957,
+      "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "release_date": "2024-11-20",
+      "title": "Wicked",
+      "video": false,
+      "vote_average": 6.942,
+      "vote_count": 2114
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6GGsUgmef5MIfJnnp2fGvkFWRg6.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 1059073,
+      "original_language": "en",
+      "original_title": "Winter Spring Summer or Fall",
+      "overview": "Remi and Barnes, two very different teenagers, meet by chance in the winter of their senior year, then spend four  days together over the course of a year that will change their lives forever.",
+      "popularity": 27.0747,
+      "poster_path": "/eqtMRn27ztlRbFRvfHI9SXHSOns.jpg",
+      "release_date": "2024-12-27",
+      "title": "Winter Spring Summer or Fall",
+      "video": false,
+      "vote_average": 7.37,
+      "vote_count": 100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tlEFuIlaxRPXIYVHXbOSAMCfWqk.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 13,
+      "original_language": "en",
+      "original_title": "Forrest Gump",
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "popularity": 23.5371,
+      "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "release_date": "1994-06-23",
+      "title": "Forrest Gump",
+      "video": false,
+      "vote_average": 8.468,
+      "vote_count": 28196
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 537915,
+      "original_language": "en",
+      "original_title": "After",
+      "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
+      "popularity": 23.3877,
+      "poster_path": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+      "release_date": "2019-04-11",
+      "title": "After",
+      "video": false,
+      "vote_average": 7.122,
+      "vote_count": 8335
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10749
+      ],
+      "id": 8966,
+      "original_language": "en",
+      "original_title": "Twilight",
+      "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+      "popularity": 21.725,
+      "poster_path": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "release_date": "2008-11-20",
+      "title": "Twilight",
+      "video": false,
+      "vote_average": 6.288,
+      "vote_count": 13786
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Iz55ystlGDNlavsKnP7iaJeLma.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        53
+      ],
+      "id": 216015,
+      "original_language": "en",
+      "original_title": "Fifty Shades of Grey",
+      "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+      "popularity": 21.2554,
+      "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+      "release_date": "2015-02-11",
+      "title": "Fifty Shades of Grey",
+      "video": false,
+      "vote_average": 5.887,
+      "vote_count": 11975
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10749
+      ],
+      "id": 1226406,
+      "original_language": "en",
+      "original_title": "Love Hurts",
+      "overview": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
+      "popularity": 20.66,
+      "poster_path": "/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
+      "release_date": "2025-02-06",
+      "title": "Love Hurts",
+      "video": false,
+      "vote_average": 5.938,
+      "vote_count": 184
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rDYSuBYKR4US3A0XfuCiFzVq5CJ.jpg",
+      "genre_ids": [
+        27,
+        35,
+        10749
+      ],
+      "id": 1302916,
+      "original_language": "en",
+      "original_title": "Heart Eyes",
+      "overview": "When the \"Heart Eyes Killer\" strikes Seattle, a pair of co-workers pulling overtime on Valentine's Day are mistaken for a couple by the elusive couple-hunting killer. Now, they must spend the most romantic night of the year running for their lives.",
+      "popularity": 20.2582,
+      "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "release_date": "2025-02-06",
+      "title": "Heart Eyes",
+      "video": false,
+      "vote_average": 6.411,
+      "vote_count": 208
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6YInbRTk39ckuLYFmUgBCKcKNjb.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14,
+        10749
+      ],
+      "id": 976573,
+      "original_language": "en",
+      "original_title": "Elemental",
+      "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+      "popularity": 19.5969,
+      "poster_path": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "release_date": "2023-06-14",
+      "title": "Elemental",
+      "video": false,
+      "vote_average": 7.619,
+      "vote_count": 4798
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 337167,
+      "original_language": "en",
+      "original_title": "Fifty Shades Freed",
+      "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+      "popularity": 18.9713,
+      "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+      "release_date": "2018-01-17",
+      "title": "Fifty Shades Freed",
+      "video": false,
+      "vote_average": 6.697,
+      "vote_count": 8122
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j0Ce4AsZi34NKYUZr61lh0PBQ7G.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 11036,
+      "original_language": "en",
+      "original_title": "The Notebook",
+      "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+      "popularity": 18.9109,
+      "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "release_date": "2004-05-25",
+      "title": "The Notebook",
+      "video": false,
+      "vote_average": 7.89,
+      "vote_count": 11872
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 843527,
+      "original_language": "en",
+      "original_title": "The Idea of You",
+      "overview": "40-year-old single mom Sol\u00e8ne begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Sol\u00e8ne soon discovers that life in the glare of his spotlight might be more than she bargained for.",
+      "popularity": 18.3746,
+      "poster_path": "/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+      "release_date": "2024-05-02",
+      "title": "The Idea of You",
+      "video": false,
+      "vote_average": 7.38,
+      "vote_count": 1675
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+      "genre_ids": [
+        28,
+        35,
+        18,
+        10749
+      ],
+      "id": 746036,
+      "original_language": "en",
+      "original_title": "The Fall Guy",
+      "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+      "popularity": 18.2385,
+      "poster_path": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "release_date": "2024-04-24",
+      "title": "The Fall Guy",
+      "video": false,
+      "vote_average": 7.022,
+      "vote_count": 2968
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o67MmFburfckl6iPa4DVkranLi3.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10749
+      ],
+      "id": 297,
+      "original_language": "en",
+      "original_title": "Meet Joe Black",
+      "overview": "William Parrish, media tycoon and loving father, is about to celebrate his 65th birthday. One morning, he is contacted by the inevitable, by hallucination, as he thinks. Later, Death enters his home and his life, personified in human form as Joe Black. His intention was to take William with him, but accidentally, Joe and William's beautiful daughter Susan have already met. Joe begins to develop certain interest in life on Earth, as well as in Susan, who has no clue with whom she's flirting.",
+      "popularity": 18.1085,
+      "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+      "release_date": "1998-11-12",
+      "title": "Meet Joe Black",
+      "video": false,
+      "vote_average": 7.35,
+      "vote_count": 5376
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pp3QUzMXfP7q0ocmE1b15FH6PQ6.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10749
+      ],
+      "id": 868759,
+      "original_language": "en",
+      "original_title": "Ghosted",
+      "overview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie\u2014but then makes the shocking discovery that she's a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+      "popularity": 17.0065,
+      "poster_path": "/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+      "release_date": "2023-04-18",
+      "title": "Ghosted",
+      "video": false,
+      "vote_average": 6.94,
+      "vote_count": 1920
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nG5zmbVeYlcDhckrPAe06fArywn.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        18
+      ],
+      "id": 152601,
+      "original_language": "en",
+      "original_title": "Her",
+      "overview": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+      "popularity": 16.6999,
+      "poster_path": "/lEIaL12hSkqqe83kgADkbUqEnvk.jpg",
+      "release_date": "2013-12-18",
+      "title": "Her",
+      "video": false,
+      "vote_average": 7.85,
+      "vote_count": 14540
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

@@ -1,0 +1,395 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/s37s21YPqS7txyB0x0TRel24vgi.jpg",
+      "genre_ids": [
+        36,
+        28,
+        18
+      ],
+      "id": 1196943,
+      "original_language": "hi",
+      "original_title": "\u091b\u093e\u0935\u093e",
+      "overview": "Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
+      "popularity": 10.3983,
+      "poster_path": "/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",
+      "release_date": "2025-02-14",
+      "title": "Chhaava",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2ZmbuDNbL6YUV2r8O5AAenKx01V.jpg",
+      "genre_ids": [
+        53,
+        18
+      ],
+      "id": 1147546,
+      "original_language": "hi",
+      "original_title": "\u0930\u093e\u091c\u0928\u092f\u093f\u0915",
+      "overview": "An Indian diplomat maneuvers political and moral tensions to free a young woman claiming forced marriage in Pakistan. Based on true events.",
+      "popularity": 9.8239,
+      "poster_path": "/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg",
+      "release_date": "2025-03-07",
+      "title": "The Diplomat",
+      "video": false,
+      "vote_average": 6.222,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/okVLmXL5y18dfN2R4ufMZEGaeCd.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        18
+      ],
+      "id": 1160018,
+      "original_language": "hi",
+      "original_title": "\u0915\u093f\u0932",
+      "overview": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on, one by one.",
+      "popularity": 8.154,
+      "poster_path": "/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+      "release_date": "2024-07-03",
+      "title": "Kill",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 364
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kQ35sVT8EBlsX9yilHi1zP4jd3l.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1226572,
+      "original_language": "hi",
+      "original_title": "\u0938\u0941\u092a\u0930\u092c\u0949\u092f\u094d\u095b \u0911\u092b \u092e\u093e\u0932\u0947\u0917\u093e\u0901\u0935",
+      "overview": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town.",
+      "popularity": 7.9979,
+      "poster_path": "/l5PDjfWpC9uY5HdF5cbsJ4wjqoq.jpg",
+      "release_date": "2025-02-27",
+      "title": "Superboys of Malegaon",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/niOqGpLXfJJOSzJy23oyvymY2vD.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 11518,
+      "original_language": "hi",
+      "original_title": "\u092e\u094b\u0939\u092c\u094d\u092c\u0924\u0947\u0902",
+      "overview": "At a prestigious all-male university, three friends seek love outside of the school grounds; at the same time, a newly-hired music teacher seeks to befriend and loosen up the militantly strict headmaster.",
+      "popularity": 7.6875,
+      "poster_path": "/zB7zJQgk4pPoxsPzZP0CqUgHuXN.jpg",
+      "release_date": "2000-10-27",
+      "title": "Mohabbatein",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 251
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vcc6NDwsMwNrwHgVuI9lGdWJLB8.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 784651,
+      "original_language": "hi",
+      "original_title": "\u092b\u093e\u0907\u091f\u0930",
+      "overview": "As India faces a militant attack in Kashmir, the country\u2019s best combat aviators join forces under a reckless yet brilliant squadron leader to form 'Air Dragons', faces mortal dangers and their inner demons.",
+      "popularity": 7.6527,
+      "poster_path": "/cQ5u9RcrUEGGlnHvMnHf96rLYgD.jpg",
+      "release_date": "2024-01-24",
+      "title": "Fighter",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 132
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19404,
+      "original_language": "hi",
+      "original_title": "\u0926\u093f\u0932\u0935\u093e\u0932\u0947 \u0926\u0941\u0932\u094d\u0939\u0928\u093f\u092f\u093e \u0932\u0947 \u091c\u093e\u092f\u0947\u0902\u0917\u0947",
+      "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fianc\u00e9. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "popularity": 7.4012,
+      "poster_path": "/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+      "release_date": "1995-10-20",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 4485
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nzlO8Z6JH4JUmZ4XuwoFe52xgN1.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1306845,
+      "original_language": "hi",
+      "original_title": "\u091c\u093e\u091f",
+      "overview": "After a ruffian accidentally ruins his meal, a traveler retorts violently and demands an apology, unintentionally finding himself in a web of violence, crime and corruption spun by a feared criminal.",
+      "popularity": 7.203,
+      "poster_path": "/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+      "release_date": "2025-04-10",
+      "title": "Jaat",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 20453,
+      "original_language": "hi",
+      "original_title": "3 Idiots",
+      "overview": "Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down\u2014along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school\u2019s uptight and heartless dean. But when Rancho catches the eye of the dean's daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all.",
+      "popularity": 7.1683,
+      "poster_path": "/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "release_date": "2009-12-23",
+      "title": "3 Idiots",
+      "video": false,
+      "vote_average": 7.997,
+      "vote_count": 2474
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 781732,
+      "original_language": "hi",
+      "original_title": "Animal",
+      "overview": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+      "popularity": 7.1548,
+      "poster_path": "/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+      "release_date": "2023-12-01",
+      "title": "Animal",
+      "video": false,
+      "vote_average": 6.275,
+      "vote_count": 140
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 1227128,
+      "original_language": "hi",
+      "original_title": "\u0930\u0947\u0921 \u0968",
+      "overview": "Set 7 years after the events of the first film, it follows the return of IRS officer Amay Patnaik (Devgn), who tracks another white-collar crime.",
+      "popularity": 7.1295,
+      "poster_path": "/fzVbLi9PPKMOFtJMnVHKfcRVRTm.jpg",
+      "release_date": "2025-05-01",
+      "title": "Raid 2",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1163258,
+      "original_language": "hi",
+      "original_title": "12th Fail",
+      "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+      "popularity": 6.1841,
+      "poster_path": "/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg",
+      "release_date": "2023-08-11",
+      "title": "12th Fail",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 160
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/byB5eBTQepTAaAYHq5QbLLU9iTS.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10752
+      ],
+      "id": 554600,
+      "original_language": "hi",
+      "original_title": "Uri: The Surgical Strike",
+      "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
+      "popularity": 6.0643,
+      "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "release_date": "2019-01-11",
+      "title": "Uri: The Surgical Strike",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 436
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bPwdy3zaNnMdZ22u0WCcYu0xxgt.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 7508,
+      "original_language": "hi",
+      "original_title": "\u0924\u093e\u0930\u0947 \u091c\u093c\u092e\u0940\u0928 \u092a\u0930",
+      "overview": "Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate. Colours, fish, dogs, and kites don't seem important to the adults, who are much more interested in things like homework, marks, and neatness. Ishaan cannot seem to get anything right in class; he is then sent to boarding school, where his life changes forever.",
+      "popularity": 5.7509,
+      "poster_path": "/puHRt6Raovm5ujGCdwLWvRv4NHU.jpg",
+      "release_date": "2007-12-21",
+      "title": "Like Stars on Earth",
+      "video": false,
+      "vote_average": 7.98,
+      "vote_count": 1200
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lFz7HFWLmBVoa7kITzWEsT9tsEL.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 1216780,
+      "original_language": "hi",
+      "original_title": "\u0928\u093e\u0926\u093e\u0928\u093f\u092f\u093e\u0902",
+      "overview": "A privileged Delhi socialite hires a middle-class student to pose as her boyfriend to maintain her social status. Their pretense becomes complicated when genuine feelings develop between them.",
+      "popularity": 5.7101,
+      "poster_path": "/vQsGkLx68lmAdGwNapaaq3qqwKn.jpg",
+      "release_date": "2025-03-01",
+      "title": "Nadaaniyan",
+      "video": false,
+      "vote_average": 6.079,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
+      "genre_ids": [
+        18,
+        10751,
+        35
+      ],
+      "id": 360814,
+      "original_language": "hi",
+      "original_title": "\u0926\u0902\u0917\u0932",
+      "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+      "popularity": 4.7206,
+      "poster_path": "/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+      "release_date": "2016-12-21",
+      "title": "Dangal",
+      "video": false,
+      "vote_average": 7.894,
+      "vote_count": 1034
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hkuN8K3S3OlVtDYxTJhuhdw26jJ.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 192558,
+      "original_language": "hi",
+      "original_title": "\u0906\u0936\u093f\u0915\u0940 \u0968",
+      "overview": "A young woman meets a failing musician who launches her singing career, but their relationship is doomed when people assume he's with her for her fame and fortune.",
+      "popularity": 4.7129,
+      "poster_path": "/lMblq8xcQIRRIVdaMg1XC283gU0.jpg",
+      "release_date": "2013-04-26",
+      "title": "Aashiqui 2",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 164
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zUCDf87awNIwV5N4NQdA807dGTP.jpg",
+      "genre_ids": [
+        18,
+        28
+      ],
+      "id": 1379877,
+      "original_language": "hi",
+      "original_title": "\u0906\u091c\u093c\u093e\u0926",
+      "overview": "In 1920s India, a young stable boy bonds with a spirited horse. Amid rebellion and tyranny, his quest to ride the majestic animal becomes a journey of courage, awakening him to the country's fight for freedom.",
+      "popularity": 4.4972,
+      "poster_path": "/yWFpiJcUJfXRbm3om48kNJ0MU7A.jpg",
+      "release_date": "2025-01-17",
+      "title": "Azaad",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+      "genre_ids": [
+        35,
+        18,
+        878
+      ],
+      "id": 297222,
+      "original_language": "hi",
+      "original_title": "\u092a\u0940\u0915\u0947",
+      "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+      "popularity": 4.3277,
+      "poster_path": "/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "release_date": "2014-12-18",
+      "title": "PK",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 1031
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sPMBiyjTco4JdKojlfGIz5Wd0jC.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 10757,
+      "original_language": "hi",
+      "original_title": "\u0915\u092d\u0940 \u0916\u093c\u0941\u0936\u0940 \u0915\u092d\u0940 \u0917\u093c\u092e",
+      "overview": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.",
+      "popularity": 4.321,
+      "poster_path": "/12BvYKueY0eruZuTYIextEZaCC.jpg",
+      "release_date": "2001-12-14",
+      "title": "Kabhi Khushi Kabhie Gham",
+      "video": false,
+      "vote_average": 7.674,
+      "vote_count": 562
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

@@ -1,0 +1,415 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pwfXx2O3eFXi5dtWCV5XJPQJgqN.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10752,
+        36
+      ],
+      "id": 1143407,
+      "original_language": "hi",
+      "original_title": "\u0938\u094d\u0915\u093e\u0908 \u092b\u093c\u094b\u0930\u094d\u0938",
+      "overview": "In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes missing after a heroic solo engagement against a superior enemy jet. Ahuja spends 23 years seeking the truth and uncovering a cover-up.",
+      "popularity": 19.0834,
+      "poster_path": "/pmtev9YTlIRDo25G7lN8dzyoszn.jpg",
+      "release_date": "2025-01-24",
+      "title": "Sky Force",
+      "video": false,
+      "vote_average": 6.426,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/byB5eBTQepTAaAYHq5QbLLU9iTS.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10752
+      ],
+      "id": 554600,
+      "original_language": "hi",
+      "original_title": "Uri: The Surgical Strike",
+      "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
+      "popularity": 6.0643,
+      "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "release_date": "2019-01-11",
+      "title": "Uri: The Surgical Strike",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 436
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53,
+        10752
+      ],
+      "id": 599925,
+      "original_language": "hi",
+      "original_title": "\u0936\u0947\u0930\u0936\u093e\u0939",
+      "overview": "Inspired by the life of Captain Vikram Batra (PVC), the film celebrates his bravery, valiant spirit and honors his invaluable sacrifice during the Kargil War of 1999, at the age of 24.",
+      "popularity": 4.2494,
+      "poster_path": "/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+      "release_date": "2021-08-12",
+      "title": "Shershaah",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 97
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/notcxmT6RN93g43BnRI8GvRktZ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 498448,
+      "original_language": "hi",
+      "original_title": "\u0915\u0947\u0938\u0930\u0940",
+      "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
+      "popularity": 3.7816,
+      "poster_path": "/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+      "release_date": "2019-03-21",
+      "title": "Kesari",
+      "video": false,
+      "vote_average": 7.086,
+      "vote_count": 105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4lzfjalztSGeIwj6GIdWHfbeJUu.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 441881,
+      "original_language": "hi",
+      "original_title": "Tubelight",
+      "overview": "Laxman Singh Bisht is nicknamed tube light by his neighbours because he is feeble-minded. Despite being special, Laxman lives by one life-lesson; keep your faith alive and you can do almost anything, even stop a war.",
+      "popularity": 3.1127,
+      "poster_path": "/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg",
+      "release_date": "2017-06-22",
+      "title": "Tubelight",
+      "video": false,
+      "vote_average": 5.382,
+      "vote_count": 89
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jyGiG4wcr0BHpqIXiep5MRCQ7Kz.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        36,
+        10749,
+        10752
+      ],
+      "id": 4435,
+      "original_language": "hi",
+      "original_title": "\u0905\u0936\u094b\u0915",
+      "overview": "A young Prince Asoka works to perfect his skills in battle and also deals with family conflict. During a struggle with one of his step-brothers, his mother urges Asoka to escape to stay alive. While away, Asoka meets Kaurwaki and falls in love, but must use his skills as a warrior to protect her. A dangerous and heartbreaking web of conspiracy follows, which leads Asoka to embrace a Buddhist path.",
+      "popularity": 2.9113,
+      "poster_path": "/ckFDMqLjhsYo2kH3X5auV1NnjPM.jpg",
+      "release_date": "2001-09-13",
+      "title": "A\u015boka",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 150
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10752,
+        36
+      ],
+      "id": 590351,
+      "original_language": "hi",
+      "original_title": "72 Hours: Martyr Who Never Died",
+      "overview": "The story is based on the life of Rifleman Jaswant Singh Rawat. 55 years ago during 1962 Indo-China war , when the destiny of war was pre decided, there stood a brave soldier from 4th Garhwal Rifle against all odds and guarded our post from Nurunaang Base in Arunachal Pradesh then called NEFA border.",
+      "popularity": 2.6286,
+      "poster_path": "/hDGpgkka0QX0eMBklXY9E0Xub1W.jpg",
+      "release_date": "2019-01-19",
+      "title": "72 Hours: Martyr Who Never Died",
+      "video": false,
+      "vote_average": 4.2,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gOAQCgRvwWgu9FyYySxHQG9Wf84.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 1000438,
+      "original_language": "hi",
+      "original_title": "\u0907\u092e\u0930\u091c\u0947\u0902\u0938\u0940",
+      "overview": "Based on true events that unfolded in 1975, the film chronicles incidents that took place under the leadership of Indira Gandhi, one of the most powerful women in Indian history.",
+      "popularity": 2.5497,
+      "poster_path": "/yp5eg70g6LaZoBiApOv9oerzvvX.jpg",
+      "release_date": "2025-01-17",
+      "title": "Emergency",
+      "video": false,
+      "vote_average": 3.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/99J3jwjhmgyQdrnPnm1M2EiqRed.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18,
+        10749
+      ],
+      "id": 21175,
+      "original_language": "hi",
+      "original_title": "\u0932\u0915\u094d\u0937\u094d\u092f",
+      "overview": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.",
+      "popularity": 2.3203,
+      "poster_path": "/ctB8RWoK2LHn5skqN4eUWVSvpyM.jpg",
+      "release_date": "2004-06-18",
+      "title": "Lakshya",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 104
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bhJT9N8Z4dORg8wsb9XleD5vaah.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10752
+      ],
+      "id": 1221198,
+      "original_language": "hi",
+      "original_title": "\u0917\u094d\u0930\u093e\u0909\u0902\u0921 \u091c\u0940\u0930\u094b",
+      "overview": "An Indian army officer embarks on a mission leading to India\u2019s most successful counter-terrorism operation in history.",
+      "popularity": 2.218,
+      "poster_path": "/x5YK8MkjL1vVsXxnGWifEOK2tJl.jpg",
+      "release_date": "2025-04-25",
+      "title": "Ground Zero",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGpaa9ufi6gFJqLdDtl9mTOEIXj.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 814215,
+      "original_language": "hi",
+      "original_title": "Sam\u092c\u0939\u093e\u0926\u0941\u0930",
+      "overview": "Based on the life of Sam Manekshaw, who was the Chief of the Army Staff of the Indian Army during the Indo-Pakistani War of 1971, and the first Indian Army officer to be promoted to the rank of Field Marshal.",
+      "popularity": 1.7955,
+      "poster_path": "/nFYf3g3CObjx9ri3PMWkK1lWFhr.jpg",
+      "release_date": "2023-12-01",
+      "title": "Sam Bahadur",
+      "video": false,
+      "vote_average": 6.827,
+      "vote_count": 26
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gOz8M6u6Fwv30hz2yBqKrGskfZo.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        28
+      ],
+      "id": 540612,
+      "original_language": "hi",
+      "original_title": "\u092a\u0932\u094d\u091f\u0928",
+      "overview": "A war drama based on the Indo-China War of 1962, JP Dutta's \"PALTAN\" focuses on the hard-hitting truth of India's relations with China, and how it is important to acknowledge that China, an enormous power in world politics, poses to be a huge threat to India.",
+      "popularity": 1.7308,
+      "poster_path": "/nQ9G7JjxM2NWyOrWfhgsTA6mBM7.jpg",
+      "release_date": "2018-09-07",
+      "title": "Paltan",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g2s2oEh1eWjDXbqEOR4S3FexB6s.jpg",
+      "genre_ids": [
+        28,
+        36,
+        10752,
+        10749
+      ],
+      "id": 577332,
+      "original_language": "hi",
+      "original_title": "\u092a\u093e\u0928\u0940\u092a\u091f",
+      "overview": "During 18th century India, the Marathas emerged as the most powerful empire in the nation until the Afghan King Ahmad Shah Abdali plans to take over India. Sadashiv Rao Bhau is brought in to save the empire from the king which then leads to the third battle of Panipat.",
+      "popularity": 1.6079,
+      "poster_path": "/bI8a2UtcDqgfvDwrc0PuOS7wFtx.jpg",
+      "release_date": "2019-12-06",
+      "title": "Panipat",
+      "video": false,
+      "vote_average": 6.157,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eUiSc6AdJcWSRokq0cPMJ0q2j6M.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 33125,
+      "original_language": "hi",
+      "original_title": "Border",
+      "overview": "It's 1971, and 2000 members of the Pakistani Army\u2014armed with tanks\u2014are at war with just 120 men in a battalion of Indian soldiers based in the Longewala region of Rajasthan in India.",
+      "popularity": 1.396,
+      "poster_path": "/sFyftHJ5wXdZXHDKBhQX2mPWZLr.jpg",
+      "release_date": "1997-06-13",
+      "title": "Border",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 66
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/in5hdAhBrI4lMnVlK0Bx45rJu5g.jpg",
+      "genre_ids": [
+        36,
+        18,
+        10752
+      ],
+      "id": 656908,
+      "original_language": "hi",
+      "original_title": "\u0930\u093e\u092e\u093e\u092f\u0923",
+      "overview": "First part of the epic Ramayana Duology.",
+      "popularity": 1.3557,
+      "poster_path": "/qSb13MDWY96bZRyHdSIwjuxaXTC.jpg",
+      "release_date": "2026-11-06",
+      "title": "Ramayana: Part One",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vbzPjlUXDnhhDUGaC5bYYWeVssO.jpg",
+      "genre_ids": [
+        10752,
+        18
+      ],
+      "id": 733038,
+      "original_language": "hi",
+      "original_title": "\u092a\u093f\u092a\u094d\u092a\u093e",
+      "overview": "The story of Captain Balram Singh Mehta of India\u2019s 45 Cavalry regiment who, along with his siblings, fought on the eastern front during the Indo-Pakistani war of 1971. Named after the Russian amphibious war tank \u201cPT-76\u201d, which floats on water like an empty \u2018pippa\u2019 (tin) of ghee, the film traces Mehta's coming-of-age as he steps up to prove himself in a war to liberate Bangladesh.",
+      "popularity": 1.3482,
+      "poster_path": "/7bD664CWGigcjlT8wf2VR3KZCtK.jpg",
+      "release_date": "2023-11-10",
+      "title": "Pippa",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mQmGfyRcmLEensLsg4X8H5dC0Wx.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        36
+      ],
+      "id": 71920,
+      "original_language": "hi",
+      "original_title": "LOC: Kargil",
+      "overview": "This film dramatizes events that occurred as the hostility between India and Pakistan over Kashmir came to a head in 1999, when more than 1,000 men crossed the \"Line of Control\" that separates the two locations. Taliban and Pakistani soldiers took over the area, blocking the main road that linked the regions. Standing their ground, Indian soldier drove them away, but not without losing more than 400 of their own men first.",
+      "popularity": 0.8343,
+      "poster_path": "/8rwlGnSWgLJlveO4OoOJ2n2YZyv.jpg",
+      "release_date": "2003-12-12",
+      "title": "LOC: Kargil",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Aoq4QMrrBJcFt6WQcwj6px2LXQp.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        28,
+        18
+      ],
+      "id": 590397,
+      "original_language": "hi",
+      "original_title": "\u092d\u0941\u091c: \u0926 \u092a\u094d\u0930\u093e\u0907\u0921 \u0911\u092b \u0907\u0902\u0921\u093f\u092f\u093e",
+      "overview": "Set in the backdrop of the 1971 Indo-Pakistan War, the film tells the story of the IAF Squadron Leader Vijay Karnik, and his bravery, patriotism and determination.",
+      "popularity": 0.7479,
+      "poster_path": "/zc0OzUOF8B4x4AH4bubxw0mHCnF.jpg",
+      "release_date": "2021-08-13",
+      "title": "Bhuj: The Pride of India",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pwqsXsL1szSTDMAEYufnb77HWgc.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10752
+      ],
+      "id": 1114114,
+      "original_language": "hi",
+      "original_title": "IB 71",
+      "overview": "A two- front war between Indian intelligence agencies and the Pakistani establishment.",
+      "popularity": 0.7118,
+      "poster_path": "/n3tDKjw14Ig3suHOx8GSBtCxEX7.jpg",
+      "release_date": "2023-05-12",
+      "title": "IB 71",
+      "video": false,
+      "vote_average": 6.841,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xPqdtlmJ2EbfSxQkoyvghv3zs6F.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18,
+        10749
+      ],
+      "id": 392271,
+      "original_language": "hi",
+      "original_title": "\u0930\u0902\u0917\u0942\u0928",
+      "overview": "Julia travels to the Indo-Burma border to perform for the troops during the World War II, on the insistence of Billimoria, her lover. She finds herself in love with Jemadar Malik, a soldier there.",
+      "popularity": 0.5549,
+      "poster_path": "/dJ7N9N3zjCCsPIP8nDVPEH6fvSo.jpg",
+      "release_date": "2017-02-24",
+      "title": "Rangoon",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 32
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

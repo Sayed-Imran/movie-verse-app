@@ -1,0 +1,431 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/uxezSInaPoH20CyHx4TuY1LzGly.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        10770,
+        878,
+        12,
+        28,
+        10402
+      ],
+      "id": 71689,
+      "original_language": "en",
+      "original_title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
+      "popularity": 20.3406,
+      "poster_path": "/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
+      "release_date": "2011-08-05",
+      "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 566
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fvUmnxS9xaUUl0eWygvcA1hPdTV.jpg",
+      "genre_ids": [
+        53,
+        80,
+        10770
+      ],
+      "id": 801335,
+      "original_language": "en",
+      "original_title": "Girl in the Basement",
+      "overview": "Sara is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
+      "popularity": 15.3823,
+      "poster_path": "/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg",
+      "release_date": "2021-02-27",
+      "title": "Girl in the Basement",
+      "video": false,
+      "vote_average": 7.638,
+      "vote_count": 749
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8HUsm0xA1tEL1VMS7HuHJwJPTuH.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        10770
+      ],
+      "id": 21316,
+      "original_language": "en",
+      "original_title": "Leroy & Stitch",
+      "overview": "Lilo, Stitch, Jumba, and Pleakley have finally caught all of Jumba's genetic experiments and found the one true place where each of them belongs. Stitch, Jumba and Pleakley are offered positions in the Galactic Alliance, turning them down so they can stay on Earth with Lilo, but Lilo realizes her alien friends have places where they belong \u2013 and it's finally time to say \"aloha\".",
+      "popularity": 11.336,
+      "poster_path": "/8ddTcTllI5U1Gq2EvGYE2CBprOS.jpg",
+      "release_date": "2006-06-23",
+      "title": "Leroy & Stitch",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 542
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yCGCtDRIaEHSPd5pO8NPfTML6Jh.jpg",
+      "genre_ids": [
+        28,
+        14,
+        10770
+      ],
+      "id": 877703,
+      "original_language": "en",
+      "original_title": "Teen Wolf: The Movie",
+      "overview": "The wolves are howling once again, as a terrifying ancient evil emerges in Beacon Hills. Scott McCall, no longer a teenager yet still an Alpha, must gather new allies and reunite trusted friends to fight back against this powerful and deadly enemy.",
+      "popularity": 8.606,
+      "poster_path": "/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg",
+      "release_date": "2023-01-18",
+      "title": "Teen Wolf: The Movie",
+      "video": false,
+      "vote_average": 7.509,
+      "vote_count": 871
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y0ludgr1EvyXcT1lv2M0m621LQ6.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        14,
+        10770,
+        10402
+      ],
+      "id": 277217,
+      "original_language": "en",
+      "original_title": "Descendants",
+      "overview": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay).",
+      "popularity": 8.0982,
+      "poster_path": "/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+      "release_date": "2015-07-31",
+      "title": "Descendants",
+      "video": false,
+      "vote_average": 7.14,
+      "vote_count": 2389
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o2HR6hDdsIIXEJV7p2KulKybCvo.jpg",
+      "genre_ids": [
+        27,
+        53,
+        10770
+      ],
+      "id": 571055,
+      "original_language": "en",
+      "original_title": "Down",
+      "overview": "A pair of coworkers gets trapped in an elevator over a long weekend, but what at first promises to be a romantic connection turns nefarious as each party begins to reveal who they truly are.",
+      "popularity": 6.6732,
+      "poster_path": "/tWD5FXfXTRcYzXZLq0bg8hxmQrs.jpg",
+      "release_date": "2019-02-01",
+      "title": "Down",
+      "video": false,
+      "vote_average": 6.837,
+      "vote_count": 242
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7VSh4KRB38gs4t4Dlub8GwXNUub.jpg",
+      "genre_ids": [
+        18,
+        12,
+        10749,
+        10770
+      ],
+      "id": 115290,
+      "original_language": "en",
+      "original_title": "Blue Lagoon: The Awakening",
+      "overview": "Two high school students become stranded on a tropical island and must rely on each other for survival. They learn more about themselves and each other while falling in love.",
+      "popularity": 6.415,
+      "poster_path": "/ptsBY9Aqo4Mn0V1krI5s8WfFxzW.jpg",
+      "release_date": "2012-06-16",
+      "title": "Blue Lagoon: The Awakening",
+      "video": false,
+      "vote_average": 6.447,
+      "vote_count": 1440
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2p1nyBVSEBiCTrrZeVSV9nIsqHr.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751,
+        10402,
+        10749,
+        10770
+      ],
+      "id": 10947,
+      "original_language": "en",
+      "original_title": "High School Musical",
+      "overview": "A popular high school athlete and an academically gifted girl get roles in the school musical and develop a friendship that threatens East High's social order.",
+      "popularity": 5.963,
+      "poster_path": "/bg1eLo2OjySRYKaTO89ZDsqUcJ4.jpg",
+      "release_date": "2006-01-20",
+      "title": "High School Musical",
+      "video": false,
+      "vote_average": 6.549,
+      "vote_count": 4621
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vkBMhUSaDUk3JUCS2VUk160IXMM.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751,
+        12,
+        35,
+        10770
+      ],
+      "id": 47626,
+      "original_language": "en",
+      "original_title": "Legend of the BoneKnapper Dragon",
+      "overview": "The film follows Hiccup and his young fellows accompanying their mentor, Gobber, on a quest to kill the legendary Boneknapper Dragon. An extra that accompanies the film \"How to Train Your Dragon\".",
+      "popularity": 5.9284,
+      "poster_path": "/qSoYxWR1EFlCiEkVDQH1lpJfP6I.jpg",
+      "release_date": "2010-10-14",
+      "title": "Legend of the BoneKnapper Dragon",
+      "video": false,
+      "vote_average": 6.977,
+      "vote_count": 259
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2cn22NVt8khIUnubnB5oAUAoImF.jpg",
+      "genre_ids": [
+        12,
+        18,
+        10770
+      ],
+      "id": 2405,
+      "original_language": "en",
+      "original_title": "Joseph",
+      "overview": "Joseph, favored son of Jacob and great-grandson of Abraham, is sold into slavery by his jealous brothers. Rising to become prime minister of Egypt. Joseph governed the country during a seven year famine, during which his brothers visit Egypt seeking grain, only to encounter their brother, presumed long dead.",
+      "popularity": 5.8503,
+      "poster_path": "/lBscKQzEJY1XF2ReZT2vIGrMQ1k.jpg",
+      "release_date": "1995-04-10",
+      "title": "Joseph",
+      "video": false,
+      "vote_average": 8.222,
+      "vote_count": 209
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Sh04np6IA2shSycI9uy5xrjC6I.jpg",
+      "genre_ids": [
+        53,
+        10770
+      ],
+      "id": 375846,
+      "original_language": "en",
+      "original_title": "Bad Sister",
+      "overview": "As a top student at St. Adeline's Catholic Boarding School, Zoe senses that something is not quite right about the school's new nun-- a sense proven to be true when it is revealed the \"good' nun is an imposter with a fatal attraction to Zoe's brother.",
+      "popularity": 5.7217,
+      "poster_path": "/jKrIlgfJPIWNeowaOZPBZuOPmq0.jpg",
+      "release_date": "2015-08-24",
+      "title": "Bad Sister",
+      "video": false,
+      "vote_average": 6.624,
+      "vote_count": 233
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wWLUUGtemgrRyH24v8lAkSR58US.jpg",
+      "genre_ids": [
+        10751,
+        10770,
+        12,
+        14
+      ],
+      "id": 506574,
+      "original_language": "en",
+      "original_title": "Descendants 3",
+      "overview": "The teenagers of Disney's most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.",
+      "popularity": 5.4673,
+      "poster_path": "/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
+      "release_date": "2019-08-02",
+      "title": "Descendants 3",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 1537
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gPW90IPq6Go8hlT0n7Es3cFl7ly.jpg",
+      "genre_ids": [
+        18,
+        10770,
+        80
+      ],
+      "id": 550776,
+      "original_language": "en",
+      "original_title": "Believe Me: The Abduction of Lisa McVey",
+      "overview": "On the night she plans on taking her own life, 17-year-old 'Lisa McVey' is kidnapped and finds herself fighting to stay alive and manages to be a victim of rape. She manages to talk her attacker into releasing her, but when she returns home, no one believes her story except for one detective, who suspects she was abducted by a serial killer. Based on horrifying true events.",
+      "popularity": 4.4345,
+      "poster_path": "/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg",
+      "release_date": "2018-09-30",
+      "title": "Believe Me: The Abduction of Lisa McVey",
+      "video": false,
+      "vote_average": 8.061,
+      "vote_count": 637
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/re3ZvlKJg04iLpLRf1xTKHS2wLU.jpg",
+      "genre_ids": [
+        10770,
+        12,
+        16,
+        35,
+        14,
+        10402,
+        878,
+        28,
+        18
+      ],
+      "id": 537061,
+      "original_language": "en",
+      "original_title": "Steven Universe: The Movie",
+      "overview": "Two years after bringing peace to the galaxy, Steven Universe sees his past come back to haunt him in the form of a deranged Gem who wants to destroy the Earth.",
+      "popularity": 4.3595,
+      "poster_path": "/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+      "release_date": "2019-10-07",
+      "title": "Steven Universe: The Movie",
+      "video": false,
+      "vote_average": 8.166,
+      "vote_count": 805
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mLihPIodzSenkZtiUauDy4e9hRs.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        10770,
+        12,
+        10402
+      ],
+      "id": 417320,
+      "original_language": "en",
+      "original_title": "Descendants 2",
+      "overview": "When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula's daughter, has taken her spot as self-proclaimed queen.",
+      "popularity": 4.1459,
+      "poster_path": "/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg",
+      "release_date": "2017-07-21",
+      "title": "Descendants 2",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1688
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1qSo3zT9XAQYcbZaLBn46mTeTHZ.jpg",
+      "genre_ids": [
+        878,
+        9648,
+        18,
+        53,
+        10770
+      ],
+      "id": 569547,
+      "original_language": "en",
+      "original_title": "Black Mirror: Bandersnatch",
+      "overview": "In 1984, a young programmer begins to question reality as he adapts a dark fantasy novel into a video game. A mind-bending tale with multiple endings.",
+      "popularity": 3.8185,
+      "poster_path": "/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg",
+      "release_date": "2018-12-28",
+      "title": "Black Mirror: Bandersnatch",
+      "video": false,
+      "vote_average": 6.76,
+      "vote_count": 3974
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2nqr42Dvh6GMVECYjVG82zzJL7N.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10770
+      ],
+      "id": 1290938,
+      "original_language": "en",
+      "original_title": "South Park: The End of Obesity",
+      "overview": "The advent of new weight loss drugs has a huge impact on everyone in South Park. When Cartman is denied access to the life-changing medicine, the kids jump into action.",
+      "popularity": 3.636,
+      "poster_path": "/qjG4GAsQ89NpYzVtZ06aClxu5aG.jpg",
+      "release_date": "2024-05-24",
+      "title": "South Park: The End of Obesity",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 200
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nVl6SKKzuweWqDo56Iipov2tqm0.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10770
+      ],
+      "id": 839,
+      "original_language": "en",
+      "original_title": "Duel",
+      "overview": "Traveling businessman David Mann angers the driver of a rusty tanker while crossing the California desert. A simple trip turns deadly, as Mann struggles to stay on the road while the tanker plays cat and mouse with his life.",
+      "popularity": 3.5186,
+      "poster_path": "/w9Vk1Txx14vWvACELFYFlixrsfr.jpg",
+      "release_date": "1971-11-13",
+      "title": "Duel",
+      "video": false,
+      "vote_average": 7.421,
+      "vote_count": 1927
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qQ8gvPDWP073sljX9HIbu0ReTsS.jpg",
+      "genre_ids": [
+        10770,
+        18
+      ],
+      "id": 25527,
+      "original_language": "en",
+      "original_title": "The Ron Clark Story",
+      "overview": "A passionate and innovative teacher leaves his small hometown to teach in one of Harlem's toughest schools. But to break through to this students, Ron Clark must use unconventional methods, including his ground-breaking classroom rules, to drive them toward their potential.",
+      "popularity": 3.2661,
+      "poster_path": "/2RJiZzzfG3dT6rNrJnNFTG8GQiQ.jpg",
+      "release_date": "2006-08-13",
+      "title": "The Ron Clark Story",
+      "video": false,
+      "vote_average": 7.441,
+      "vote_count": 135
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tjmBUrys7BkctrkontuoiUiEZ0D.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        10770
+      ],
+      "id": 12536,
+      "original_language": "en",
+      "original_title": "Home Alone 4",
+      "overview": "Kevin McCallister's parents have split up. Now living with his mom, he decides to spend Christmas with his dad at the mansion of his father's rich girlfriend, Natalie. Meanwhile robber Marv Merchants, one of the villains from the first two movies, partners up with a new criminal named Vera to hit Natalie's mansion.",
+      "popularity": 3.2035,
+      "poster_path": "/qRktvMOO2QaCL7gvNyvZDoxPOZj.jpg",
+      "release_date": "2002-11-03",
+      "title": "Home Alone 4",
+      "video": false,
+      "vote_average": 4.498,
+      "vote_count": 1288
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

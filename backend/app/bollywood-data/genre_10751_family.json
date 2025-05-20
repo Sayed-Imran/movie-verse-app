@@ -1,0 +1,411 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
+      "genre_ids": [
+        18,
+        10751,
+        35
+      ],
+      "id": 360814,
+      "original_language": "hi",
+      "original_title": "\u0926\u0902\u0917\u0932",
+      "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+      "popularity": 4.7206,
+      "poster_path": "/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+      "release_date": "2016-12-21",
+      "title": "Dangal",
+      "video": false,
+      "vote_average": 7.894,
+      "vote_count": 1034
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751,
+        10749
+      ],
+      "id": 848116,
+      "original_language": "hi",
+      "original_title": "\u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940",
+      "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+      "popularity": 2.7806,
+      "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
+      "release_date": "2023-07-28",
+      "title": "Rocky Aur Rani Kii Prem Kahaani",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 60
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aVlBErsn8N3vdQPPSBtZFx8Wg05.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        10751
+      ],
+      "id": 611359,
+      "original_language": "hi",
+      "original_title": "\u0924\u0942 \u091d\u0942\u0920\u0940 \u092e\u0948\u0902 \u092e\u0915\u094d\u0915\u093e\u0930",
+      "overview": "To earn extra cash, Mickey helps couples break up \u2014 but life gets complicated when he falls for Tinni, a career woman with an independent streak.",
+      "popularity": 2.1692,
+      "poster_path": "/zHLtNP4KP0GMi6p1ACf2QvVnBvI.jpg",
+      "release_date": "2023-03-08",
+      "title": "Tu Jhoothi Main Makkaar",
+      "video": false,
+      "vote_average": 6.298,
+      "vote_count": 198
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "id": 428227,
+      "original_language": "hi",
+      "original_title": "Motu Patlu: King of Kings",
+      "overview": "Motu and Patlu are your home-grown Laurel and Hardy in an animation avatar. They befriend a circus lion, Guddu and attempt to save the jungle from a greedy poacher.",
+      "popularity": 2.141,
+      "poster_path": "/vCpXMPIiFyG9eoFG644yqGImGbI.jpg",
+      "release_date": "2016-10-14",
+      "title": "Motu Patlu: King of Kings",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lKHV7I0vBOctPFvfztAO5qf1I4S.jpg",
+      "genre_ids": [
+        18,
+        10751,
+        10749
+      ],
+      "id": 338065,
+      "original_language": "hi",
+      "original_title": "\u0926\u093f\u0932 \u0927\u0921\u093c\u0915\u0928\u0947 \u0926\u094b",
+      "overview": "On a cruise to celebrate their parents' 30th wedding anniversary, a brother and sister deal with the impact of family considerations on their romantic lives.",
+      "popularity": 2.1156,
+      "poster_path": "/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg",
+      "release_date": "2015-06-04",
+      "title": "Dil Dhadakne Do",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 144
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iXA5sUMjmBvSsIv0i4tyPI4ZDFU.jpg",
+      "genre_ids": [
+        10751,
+        14
+      ],
+      "id": 348152,
+      "original_language": "hi",
+      "original_title": "Jajantaram Mamantaram",
+      "overview": "A young man lands in the land of little people, who ask him to save them from their enemies.",
+      "popularity": 2.0202,
+      "poster_path": "/sN7WWCY8fKLEIl2oKUiX30gJfwL.jpg",
+      "release_date": "2003-05-30",
+      "title": "Jajantaram Mamantaram",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1st11niUOWTxChJDgQZ6i2xWkrv.jpg",
+      "genre_ids": [
+        10749,
+        10751,
+        18
+      ],
+      "id": 62883,
+      "original_language": "hi",
+      "original_title": "\u0939\u092e \u0938\u093e\u0925 - \u0938\u093e\u0925 \u0939\u0948\u0902",
+      "overview": "A wealthy businessman's traditional family celebrate their togetherness when his three sons get married, but slowly find themselves growing apart after a misunderstanding.",
+      "popularity": 2.0168,
+      "poster_path": "/lEAEzpAfSyBZc5sw1NBnWr5TeZU.jpg",
+      "release_date": "1999-11-05",
+      "title": "Hum Saath Saath Hain",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 85
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fGxaC8xYB8xc33sGGzZfFM3nPq2.jpg",
+      "genre_ids": [
+        10749,
+        10751,
+        35,
+        18
+      ],
+      "id": 4253,
+      "original_language": "hi",
+      "original_title": "\u0939\u092e \u0924\u0941\u092e",
+      "overview": "The encounters of two people who run into each other on several occasions under circumstances ranging from friendly to hostile to loving. Along many years and countless run-ins, the two despise each other, befriend each other, and fall in love with each other\u2014in no particular order.",
+      "popularity": 1.9971,
+      "poster_path": "/b3EQDeg0eQhw1SSzX6msU3yQJ8U.jpg",
+      "release_date": "2004-05-28",
+      "title": "Hum Tum",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 108
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nmQAWG0F3pmRPnHjkVAEdSuV9eI.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751
+      ],
+      "id": 1262530,
+      "original_language": "hi",
+      "original_title": "\u0926 \u092e\u0947\u0939\u0924\u093e \u092c\u0949\u092f\u091c",
+      "overview": "After the loss of his mother, Amay, a struggling young architect is forced to live for 48 hours with the one person he cannot stand, his father. It seems like a recipe for disaster. Wrong! It's much worse. Will the young architect crumble or will this bumpy ride help him rebuild his relationship with his crabby old man?",
+      "popularity": 1.9214,
+      "poster_path": "/ezZWkcI8FOQmJj6aPAADV7dg12.jpg",
+      "release_date": "2024-09-20",
+      "title": "The Mehta Boys",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/laU6VZKhzIcREM7HVHcQ1YUqjl0.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10751
+      ],
+      "id": 48184,
+      "original_language": "hi",
+      "original_title": "\u092c\u093e\u092c\u0941\u0932",
+      "overview": "When his only son dies in an accident, Balraaj urges his depressed daughter-in-law to marry a man who has long loved her in silence.",
+      "popularity": 1.8928,
+      "poster_path": "/301y5k764riqCJIgzs1OIh7d0MA.jpg",
+      "release_date": "2006-12-08",
+      "title": "Baabul",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 31
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6eoOK3C8KsmjQq0gjUzZMHJOQJh.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        10751
+      ],
+      "id": 547768,
+      "original_language": "hi",
+      "original_title": "Mitron",
+      "overview": "Jai (Jackky Bhagnani), born and brought up with middle-class values, has a \u2018take it easy\u2019 approach to life. Since he doesn't believe in herd mentality, he and his two best friends, Raunak (Pratik Gandhi) and Deepu (Shivam Parekh) start looking for unique ways to make it big in the world. During this trial and error phase, Jai realizes his dream. But his decision of choosing an unprofitable career path doesn\u2019t go down too well with his father (Neeraj Sood), who has bigger aspirations for him. Therefore, in order to bring stability in his life, his father decides to get him married. Destiny, however, has something else in store for Jai, when he accidentally meets Avni (Kritika Kamra), an ambitious, MBA graduate, who wants to start her own business. Set in the backdrop of the Gujarati milieu, the film traces Jai and Avni\u2019s personal journey, as they both find themselves and discover the true meaning of friendship in the bargain.",
+      "popularity": 1.8081,
+      "poster_path": "/3mk2MT5w15IeGHGwFrvUtozrjEU.jpg",
+      "release_date": "2018-09-14",
+      "title": "Mitron",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hXqGVk7IGiybUxODz7o3OaD3Gid.jpg",
+      "genre_ids": [
+        35,
+        80,
+        10751
+      ],
+      "id": 20294,
+      "original_language": "hi",
+      "original_title": "Welcome",
+      "overview": "Dubai-based criminal don Uday takes it upon himself to try and get his half-sister Sanjana married - in vain, as no one wants to be associated with a crime family. Uday's associate and best friend Majnu finds a well to do, nice young man, Rajiv, who lives with his maternal uncle and aunt - Dr. and Mrs. Ghunghroo. Through extortion he compels the Ghunghroos to accept this matrimonial alliance. With no escape from this predicament, the wedding is planned, with hilarious consequences.",
+      "popularity": 1.7358,
+      "poster_path": "/fudxnXlTTBIDCkpR7XhlIgkNaUY.jpg",
+      "release_date": "2007-12-21",
+      "title": "Welcome",
+      "video": false,
+      "vote_average": 6.718,
+      "vote_count": 156
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xmh5cqFNSnsIEYH73aBnBTbfJdi.jpg",
+      "genre_ids": [
+        10751,
+        18,
+        10749
+      ],
+      "id": 457714,
+      "original_language": "hi",
+      "original_title": "Dillagi",
+      "overview": "Two brothers -- Ranvir and Rajvir along with their parents move to Mumbai. They endure numerous hardships, but their will to survive prevails and they succeed. Soon, their parents pass away, leaving young Rajvir in the care of Ranvir. Now wealthy beyond any means, Ranvir runs the business and Rajvir lives recklessly. When Rajvir falls in love, Ranvir arranges his marriage, but to his dismay finds out that he has arranged his brother to marry the girl he loves.",
+      "popularity": 1.6665,
+      "poster_path": "/ezesgmVml1VvKoZlPHXzbdSzngY.jpg",
+      "release_date": "1999-11-08",
+      "title": "Dillagi",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gvLBtBXQyeEFYeG5LEIvYa7avVg.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10751,
+        36
+      ],
+      "id": 601635,
+      "original_language": "hi",
+      "original_title": "\u0932\u093e\u0932 \u0938\u093f\u0902\u0939 \u091a\u0921\u094d\u0922\u093e",
+      "overview": "Events in India's history \u2014 from the Emergency and the famous Cricket World Cup win to the Punjab riots \u2014 unfold from the perspective of an innocent Sikh man Laal Singh Chaddha, a person with a low IQ but high optimism. Laal is able to achieve everything under the sun but his childhood love continues to elude him.",
+      "popularity": 1.6615,
+      "poster_path": "/qqBB1tAi345mXMhLwLJpd7LWLRP.jpg",
+      "release_date": "2022-08-11",
+      "title": "Laal Singh Chaddha",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 73
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uh20sr2rIrDyyh4qaYs3jhQFU8J.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        10751,
+        18
+      ],
+      "id": 643534,
+      "original_language": "hi",
+      "original_title": "\u0917\u0941\u0921 \u0928\u094d\u092f\u0942\u095b",
+      "overview": "Two couples with the same surnames pursue in-vitro fertilisation and wait for their upcoming babies. Trouble ensues when they find that the sperms of each couple have been mixed with each other.",
+      "popularity": 1.5348,
+      "poster_path": "/1YWp8MdXZAZvXgnWyv2RgMaG3Ps.jpg",
+      "release_date": "2019-12-27",
+      "title": "Good Newwz",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 85
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/whxg6N0RNh7rF6foXs46BnRLTch.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        10749
+      ],
+      "id": 14165,
+      "original_language": "hi",
+      "original_title": "Ta Ra Rum Pum",
+      "overview": "A poor New York resident, who is of Indian origin, dreams of becoming a fast car race driver. He endeavors, and his efforts are rewarded when he selected by a little-known group called 'RACING SADDLES'. He joins them and soon becomes their ace race driver. This man, whose name is Rajveer, then meets with a rich American woman, also of Indian origin, whose name is Radhika.  Both fall in love with each other. They cannot get married, because Radhika's family hates Rajveer mainly because he is very poor. But Radhika is very stubborn, so she marries him. She loses all her rights to her family's wealth. They get married and become parents of two children. They also become very rich. Then Rajveer has an accident which changes their lives forever. They get into debt and stand to lose everything. Will Radhika be forced to return back to her family?",
+      "popularity": 1.5198,
+      "poster_path": "/2KfeenEAF4rgGW6wX9o6ejzL53G.jpg",
+      "release_date": "2007-04-27",
+      "title": "Ta Ra Rum Pum",
+      "video": false,
+      "vote_average": 6.158,
+      "vote_count": 73
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hWatGQXYRcuaUTllnOqpSQ0oCpF.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10751
+      ],
+      "id": 197483,
+      "original_language": "hi",
+      "original_title": "Laadla",
+      "overview": "Laadla is the story of the kind-hearted Raju, who lives with his disabled mom. One day Raju, on his way to a job interview, saves the life of a rich textile mill owner who offers him a job in his factory. The mill is run by his ambitious daughter Sheetal, whose competitive attitude and open insults have made her many enemies. Raju and Sheetal clash often, until Sheetal tries to get the upper hand by forcing Raju to marry her, even though he has already fallen in love with Kaajal.",
+      "popularity": 1.5004,
+      "poster_path": "/19gxqTBRBYoWxypSihK0qKMphKd.jpg",
+      "release_date": "1994-03-17",
+      "title": "Laadla",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xuF6qhtc7Q79Fh2aJxRJAX3YgbE.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35,
+        10751
+      ],
+      "id": 374173,
+      "original_language": "hi",
+      "original_title": "\u0915\u092a\u0942\u0930 \u090f\u0923\u094d\u0921 \u0938\u0928\u094d\u0938",
+      "overview": "Returning home to visit their ill grandfather, two estranged brothers must confront their unresolved rivalry while their parents\u2019 marriage frays.",
+      "popularity": 1.4419,
+      "poster_path": "/oPdcOInH8TqR5udDTDPiDuLSN90.jpg",
+      "release_date": "2016-03-18",
+      "title": "Kapoor & Sons",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 178
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xKlD7JpdfHRpLwGjztrCe9RPjlP.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751
+      ],
+      "id": 118628,
+      "original_language": "hi",
+      "original_title": "\u0907\u0902\u0917\u094d\u0932\u093f\u0936 \u0935\u093f\u0902\u0917\u094d\u0932\u093f\u0936",
+      "overview": "In the United States for the first time, an Indian housewife with a limited command of English turns Manhattan into her personal language school.",
+      "popularity": 1.3862,
+      "poster_path": "/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+      "release_date": "2012-09-21",
+      "title": "English Vinglish",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 263
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kozAnxdmJLgAux008LztplzhHy1.jpg",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 15974,
+      "original_language": "hi",
+      "original_title": "\u092d\u0942\u0924\u0928\u093e\u0925",
+      "overview": "Banku, his mother, Anjali Sharma and father move in to their new house -- the Nath villa, unaware of the fact that the house is inhabited by a ghost. It is learnt the ghost is not too happy with his new housemates. But what the ghost is not prepared for is his unlikely friendship with Banku. Now Banku must uncover the reason why his ghostly friend is stuck and help him to attain salvation.",
+      "popularity": 1.145,
+      "poster_path": "/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg",
+      "release_date": "2008-05-09",
+      "title": "Bhoothnath",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 107
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

@@ -1,0 +1,409 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "id": 428227,
+      "original_language": "hi",
+      "original_title": "Motu Patlu: King of Kings",
+      "overview": "Motu and Patlu are your home-grown Laurel and Hardy in an animation avatar. They befriend a circus lion, Guddu and attempt to save the jungle from a greedy poacher.",
+      "popularity": 2.141,
+      "poster_path": "/vCpXMPIiFyG9eoFG644yqGImGbI.jpg",
+      "release_date": "2016-10-14",
+      "title": "Motu Patlu: King of Kings",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        28,
+        12
+      ],
+      "id": 329521,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem in Dholakpur to Kathmandu",
+      "overview": "Bheem and his friends are invited to spend their vacations in Kathmandu.Their trip is not without mishap, as a young ape is separated from its father. Bheem defeats the jaguars, and unites the ape with its father.",
+      "popularity": 1.7357,
+      "poster_path": "/xgOG2qkL8CT7msXPMKAc298fMTA.jpg",
+      "release_date": "2012-03-25",
+      "title": "Chhota Bheem: Dholakpur to Kathmandu",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/29ZheY8rPnULStOmJhrO7gINztT.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        10770
+      ],
+      "id": 518972,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem aur Krishna: Pataliputra - City of the Dead",
+      "overview": "The peace of Pataliputra vanishes when Kirmada, the evil starts to hunt people down in order to get his physical form back. When Krishna and Bheem learn that Krimada is finding an opportunity to take revenge on them for destroying his body, they get into swift action to eradicate the scary danger Pataliputra is facing. What will it take for the duo to win?",
+      "popularity": 1.6202,
+      "poster_path": "/nD2VDpLPBJ9tO4vHC1rBTkAktdQ.jpg",
+      "release_date": "2009-09-27",
+      "title": "Chhota Bheem aur Krishna: Pataliputra - City of the Dead",
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rkHHuoxxzN5FlDwNTm9qDFhYpq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16
+      ],
+      "id": 58046,
+      "original_language": "hi",
+      "original_title": "\u091f\u0942\u0928\u092a\u0941\u0930 \u0915\u093e \u0938\u0941\u092a\u0930\u0939\u0940\u0930\u094b",
+      "overview": "There is trouble brewing in the land of cartoons-Toonpur. The good guys of Toonpur and the bad guys are at constant war. That's when Devtoons decide to take superstar action hero Aditya's help and get him down to Toonpur. But things are not as simple as the Devtoons had thought.",
+      "popularity": 1.2121,
+      "poster_path": "/2apBkbLd19aivVAES4lboFeqtwC.jpg",
+      "release_date": "2010-12-24",
+      "title": "Toonpur Ka Superrhero",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iF6eAtycQEcQRHqqfpTPraGzBWM.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12
+      ],
+      "id": 1253556,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem Maha Shaitaan Ka Mahayudh",
+      "overview": "Shaitaan has acquired the powers of all five chakras and has become this ultimate powerful entity that can destroy anything but he can't be too sure of his victory in this universe as a small portion of Chakras went to the chakravees who can destroy Shaitaan so he decides to transport the entire earth into a different dark dimension where Chakravees can't reach. So, Shaitaan sends his four maha villains to create havoc on earth who capture various kingdoms, including Dholakpur.King Inderaverma tells kids that they must travel to Devpur and find Chakrapashus who have the powers of Chakras, with their help Chakras were created in the first place but kids must pass the test to become ultimate Chakra warriors. Kids are on a mission but Zuhu and Damyaan attack them, they somehow manage to reach Devpur, where they meet Kanha disguised as Shamanra who guides them to get their powers form four adbhud Chakra Pashus. In the final face-off kids defeat Shaitaan and save the earth.",
+      "popularity": 0.8551,
+      "poster_path": "/xspXbSYQSusNUTjGQFCma5EBEY3.jpg",
+      "release_date": "2023-08-13",
+      "title": "Chhota Bheem MahaShaitaan Ka Mahayudh",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wity5ST8pRLewrsHRk6vP0R7fIe.jpg",
+      "genre_ids": [
+        12,
+        16,
+        28,
+        36,
+        10751
+      ],
+      "id": 503928,
+      "original_language": "hi",
+      "original_title": "Mahabharat",
+      "overview": "Mahabharat is considered as the greatest and the longest epic in world literature It has all the possible elements that a story could have - conflict, duty, sacrifice, heroism, truth, justice, romance, adventure, fantasy and relationships - making it truly an all-encompassing fascinating saga.",
+      "popularity": 0.8101,
+      "poster_path": "/9gUrGqt1EvfuBsUoTcixU2nJSnj.jpg",
+      "release_date": "2013-12-27",
+      "title": "Mahabharat",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hVPTQRmSw2trr7uWD6Sl7WTNY1t.jpg",
+      "genre_ids": [
+        16,
+        10770
+      ],
+      "id": 218088,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem and Krishna: Mayanagari",
+      "overview": "Young lord Krishna has fallen for demoness Maayandri\u2019s revenge plot against him! Can Bheem rescue him and thwart Maayandri\u2019s other destructive plans?",
+      "popularity": 0.8,
+      "poster_path": "/bfr1AlNOmDbsFJKTxJhDB9dCTJk.jpg",
+      "release_date": "2011-09-02",
+      "title": "Chhota Bheem and Krishna: Mayanagari",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/glvetKZGeeYwJbms1lNKmjpHWOj.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "id": 16111,
+      "original_language": "hi",
+      "original_title": "Hanuman",
+      "overview": "After being granted immortality by the Hindu gods -- including his father, Vayu, the god of the wind -- Hanuman sets off on an epic journey.",
+      "popularity": 0.745,
+      "poster_path": "/xgjarOLCUK6x8dKZu3gJw7jEvBb.jpg",
+      "release_date": "2005-10-21",
+      "title": "Hanuman",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1WCES8hj3IQ086iWM1XOEeb5jvL.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 198556,
+      "original_language": "hi",
+      "original_title": "\u092e\u0948\u0902 \u0915\u0943\u0937\u094d\u0923\u093e \u0939\u0942\u0901",
+      "overview": "In answer to an orphan boy's prayers, the divine Lord Krishna comes to Earth, befriends the boy, and helps him find a loving family.",
+      "popularity": 0.6893,
+      "poster_path": "/4fddOiJPp4Mf0jFXcp2WE8qvNW2.jpg",
+      "release_date": "2013-01-25",
+      "title": "Main Krishna Hoon",
+      "video": false,
+      "vote_average": 6.08,
+      "vote_count": 106
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3deYzoiN32T4or3j0fI9pycxvQX.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        10770
+      ],
+      "id": 256863,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem Aur Hanuman",
+      "overview": "The grouchy Makhichoos, whoe hates Diwali, is digging furiously in the Dholakpur forest searching for a demon.  Soon the demon emerges from the roots of a tree.  Both the evil witch and Makhichoos plan to build a new kingdom on the eve of Diwali and teach Bheem a lesson.  While Bheem and his friends are preparing for the celebrations, Chhota Hanuman also comes there to be a part of the festival.  But something worse happens; Makhichoos and the evil witch kidnap princess Indumati.  Will Bheem and Hanuman together rescue Indumati and triumph over the evil.",
+      "popularity": 0.6375,
+      "poster_path": "/9XlwUJV9Jr0kuDBPsi03u5YpBUO.jpg",
+      "release_date": "2013-11-22",
+      "title": "Chhota Bheem Aur Hanuman",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bldgj2IeKr7poONE7h2wHhomPBA.jpg",
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 117369,
+      "original_language": "hi",
+      "original_title": "Arjun: The Warrior Prince",
+      "overview": "Legend knows him as an archer of unwavering focus, the soldier who fought a battle in his own heart before taking up arms against his enemy. This is the untold story of Arjun, hero of the Mahabharata. A precocious talent plunged from boyhood and innocence into a murky world of deceit and betrayal, coming of age to become the most powerful warrior of his time. From the dusty plains of Hastinapur to the icy peaks of the Himalayas, Arjun: The Warrior Prince is the story of a man discovering what it takes to be a hero.",
+      "popularity": 0.5588,
+      "poster_path": "/bbyNAeBppsHUE0ki5BgikCdb6s.jpg",
+      "release_date": "2012-05-24",
+      "title": "Arjun: The Warrior Prince",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        18
+      ],
+      "id": 888312,
+      "original_language": "hi",
+      "original_title": "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e",
+      "overview": "After the death of their king Taraka at the hands of the devas, the asuras flee their kingdoms and spend years in hiding. Determined to provide a safe haven for them, the great asura architect Maya draws on his vast powers of sorcery to build three magnificent airborne cities, named Tripura, each to be ruled over by one of Taraka's three sons. Fuelling the asuric ambitions of the 3 young princes of Tripura, Brahma the Creator grants them a boon of indestructibility, as the cities can only be destroyed by the one and only Lord Shiva ,the Destroyer. Soon enough the asura kings begin craving greater and greater power. Unknown to Maya, they plan a secret invasion of Devlok, the kingdom of the devas. Now Indra, king of the devas, faces a formidable challenge -- defeating an enemy who is protected by the Gods themselves!",
+      "popularity": 0.5083,
+      "poster_path": "/98ieuXrTQarzi2KZftwvkqTZuo2.jpg",
+      "release_date": "2011-01-30",
+      "title": "Tripura",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vt6ZkHyrrfLlTdiomnoGlNcgcHy.jpg",
+      "genre_ids": [
+        16,
+        35,
+        14
+      ],
+      "id": 150859,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem and the Curse of Damyaan",
+      "overview": "Centuries ago, Damyaan, a Sorcerer was granted a wish to be immortal by the Book of Magi with a rider/curse that he would be confined to the City of Sonapur. To escape from this confinement and to unleash his dark arts over the world, Damyaan lures Raja Indravarma with a map with the directions to the City of Gold. The only way Damyaan can be defeated is to destroy him with the Book of Magi.",
+      "popularity": 0.474,
+      "poster_path": "/wQvja2azMSrxYy30D9Skq76pdhz.jpg",
+      "release_date": "2012-05-18",
+      "title": "Chhota Bheem and the Curse of Damyaan",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fxFRVz23ZfSBy3ZDXMvCbPJ4rLB.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749
+      ],
+      "id": 587317,
+      "original_language": "hi",
+      "original_title": "Bombay Rose",
+      "overview": "Amidst the bustle of a magnetic and multifaceted city, the budding love between two dreamers is tested by duty and religious divides.",
+      "popularity": 0.4732,
+      "poster_path": "/6dXPo495OANEEtzCk9u4wJVpfqw.jpg",
+      "release_date": "2019-08-28",
+      "title": "Bombay Rose",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pQcp3prf6A0x9E13pBgXZvWPtEy.jpg",
+      "genre_ids": [
+        16,
+        10770,
+        28
+      ],
+      "id": 852978,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem: The Rise of Kirmada",
+      "overview": "Bheem and young lord Krishna team up to protect the world against the wicked and powerful Kirmada and his equally dangerous bat army.",
+      "popularity": 0.4691,
+      "poster_path": "/cunykbDmy7ExMMi6J7vEffOZy3G.jpg",
+      "release_date": "2012-11-11",
+      "title": "Chhota Bheem: The Rise of Kirmada",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t5lLjCvwxr83yKneL2fjED6QPxW.jpg",
+      "genre_ids": [
+        10402,
+        16,
+        10751
+      ],
+      "id": 32137,
+      "original_language": "hi",
+      "original_title": "\u0926\u0936\u093e\u0935\u0924\u093e\u0930",
+      "overview": "Two children are transported through time to learn about the 10 avatars of Lord Vishnu and discover that Vishnu took on various incarnations to combat evil in every era.",
+      "popularity": 0.3924,
+      "poster_path": "/i1hOuoNpzbFIa6ZjTAoSkbvfnKv.jpg",
+      "release_date": "2008-06-13",
+      "title": "Dashavatar",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9FxC2f0AwBJTwb5K2w59PTw2LqW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        10770
+      ],
+      "id": 614385,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem Aur Krishna",
+      "overview": "About 500 years ago, the five kingdoms around Dholakpur joined together to end Kirmada`s rule. Now a mysterious force has brought him back from the dead. Don`t miss Bheem beat Kirmada & save the kingdom of Dholakpur once again!",
+      "popularity": 0.3838,
+      "poster_path": "/q5fxgssbSkQDS3McUmIFGAL3ChA.jpg",
+      "release_date": "2008-08-24",
+      "title": "Chhota Bheem Aur Krishna",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        16,
+        28
+      ],
+      "id": 141139,
+      "original_language": "hi",
+      "original_title": "\u0915\u0943\u0937\u094d\u0923 \u0914\u0930 \u0915\u0902\u0938",
+      "overview": "Hailed as India's first stereoscopic animated film, 'Krishna Aur Kans' is an exciting narrative full of action and drama. The movie chronicles Krishna's early years -- from his birth as the nemesis of his tyrannical uncle Kans.",
+      "popularity": 0.3709,
+      "poster_path": "/dH4YP32bNNFjywDGsQJzJ73JrQd.jpg",
+      "release_date": "2012-08-03",
+      "title": "Krishna and Kamsa",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nWV5zPB8yh00ABXZWwfNDc584sE.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12
+      ],
+      "id": 54892,
+      "original_language": "hi",
+      "original_title": "Ramayana: The Epic",
+      "overview": "The film is a retelling of the story of Lord Rama, from his birth until his battle with Ravan at Sri Lanka.",
+      "popularity": 0.3601,
+      "poster_path": "/925qJjlQYgRUbE4lwnLwZuXSeBX.jpg",
+      "release_date": "2010-10-15",
+      "title": "Ramayana: The Epic",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/twnQSW39KDhjjX4luDoYTRMXwjE.jpg",
+      "genre_ids": [
+        16,
+        10770,
+        12
+      ],
+      "id": 817872,
+      "original_language": "hi",
+      "original_title": "Motu Patlu in Hong Kong: Kung Fu Kings 3",
+      "overview": "With a dangerous villain to defeat in Hong Kong, Motu takes his martial arts skills to the next level, training with a boneless master to face the foe.",
+      "popularity": 0.3275,
+      "poster_path": "/rEDrqzlkQk6bknult02QqmbZHMV.jpg",
+      "release_date": "2017-10-19",
+      "title": "Motu Patlu in Hong Kong: Kung Fu Kings 3",
+      "video": false,
+      "vote_average": 4.3,
+      "vote_count": 3
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

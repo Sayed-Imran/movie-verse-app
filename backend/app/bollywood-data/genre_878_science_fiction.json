@@ -1,0 +1,403 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/grsqPFaIOnOERVrDykdcvzjOq4t.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        878
+      ],
+      "id": 1110390,
+      "original_language": "hi",
+      "original_title": "\u0924\u0947\u0930\u0940 \u092c\u093e\u0924\u094b\u0902 \u092e\u0947\u0902 \u0910\u0938\u093e \u0909\u0932\u091d\u093e \u091c\u093f\u092f\u093e",
+      "overview": "A robotics engineer searching for his perfect partner finds himself falling in love with a human-like android.",
+      "popularity": 4.4876,
+      "poster_path": "/8swhiVilkhtQHk5l4aPAuxxnUEt.jpg",
+      "release_date": "2024-02-09",
+      "title": "Teri Baaton Mein Aisa Uljha Jiya",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+      "genre_ids": [
+        35,
+        18,
+        878
+      ],
+      "id": 297222,
+      "original_language": "hi",
+      "original_title": "\u092a\u0940\u0915\u0947",
+      "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+      "popularity": 4.3277,
+      "poster_path": "/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "release_date": "2014-12-18",
+      "title": "PK",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 1031
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c3c9qcUWA9u99RDipH3JL54FT6J.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        878
+      ],
+      "id": 1301632,
+      "original_language": "hi",
+      "original_title": "\u092d\u0942\u0932 \u091a\u0942\u0915 \u092e\u093e\u092b",
+      "overview": "Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli, but forgets to vow to Lord Shiva, causing him to be trapped in a time loop. A hilarious tale of love, fate, and redemption unfolds, as Ranjan tries to end the loop and get married.",
+      "popularity": 3.7175,
+      "poster_path": "/plWzFq6eVXOm8vpgJG0xUGmifHS.jpg",
+      "release_date": "2025-05-23",
+      "title": "Bhool Chuk Maaf",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6DqNe4jKvWyQZjlRi9FaCzgMxyx.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 799155,
+      "original_language": "hi",
+      "original_title": "Attack",
+      "overview": "With the Parliament under siege, India\u2019s first super soldier Arjun Shergill is tasked to get hold of the terrorists in time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi.",
+      "popularity": 3.6486,
+      "poster_path": "/A9FjibQFfkPVrfQcM3dlY6fkYpJ.jpg",
+      "release_date": "2022-04-01",
+      "title": "Attack",
+      "video": false,
+      "vote_average": 6.766,
+      "vote_count": 209
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b795kAB6Vbw0P92tyQwQyr4YzGf.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 936622,
+      "original_language": "hi",
+      "original_title": "\u092c\u0921\u093c\u0947 \u092e\u093f\u092f\u093e\u0901 \u091b\u094b\u091f\u0947 \u092e\u093f\u092f\u093e\u0901",
+      "overview": "Two elite soldiers with troubled pasts are enlisted for a daring mission when a deadly masked madman threatens India's defenses.",
+      "popularity": 2.3743,
+      "poster_path": "/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg",
+      "release_date": "2024-04-11",
+      "title": "Bade Miyan Chote Miyan",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vN2mJ2tvk1TpMiA45ZHMnOCg7q1.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 41517,
+      "original_language": "hi",
+      "original_title": "Ra.One",
+      "overview": "When the titular antagonist of an action game takes on physical form, it's up to the game's less powerful protagonist to save the world.",
+      "popularity": 2.232,
+      "poster_path": "/mXlS41qbd0bzhO44iPDtJqYtQt8.jpg",
+      "release_date": "2011-10-24",
+      "title": "Ra.One",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 340
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7yD0xhcx600Ng2XBElVE4eN4bE7.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 32740,
+      "original_language": "hi",
+      "original_title": "\u0915\u0943\u0937",
+      "overview": "In Singapore, Krishna is forced by circumstances to use his superpowers and become a masked superhero named Krrish, before getting drawn towards his lost legacy.",
+      "popularity": 2.1443,
+      "poster_path": "/Apd4UKesyTmpDutEjNVHP45kvBi.jpg",
+      "release_date": "2006-06-23",
+      "title": "Krrish",
+      "video": false,
+      "vote_average": 6.304,
+      "vote_count": 240
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rG2pFglPrNS1H0UmFu5z5KTTPtJ.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 204435,
+      "original_language": "hi",
+      "original_title": "\u0915\u0943\u0937 \u0969",
+      "overview": "Krrish and his father must team up to save the world from a psychokinetic evil man named Kaal and his army of mutants.",
+      "popularity": 1.8473,
+      "poster_path": "/tuHHTj59CNXGhI9eRZM47aa3zuC.jpg",
+      "release_date": "2013-11-01",
+      "title": "Krrish 3",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 180
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ytQ9bT5TuDbSIXgmOC1wy49dkpM.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 25516,
+      "original_language": "hi",
+      "original_title": "\u0915\u094b\u0908 \u092e\u093f\u0932 \u0917\u092f\u093e",
+      "overview": "A developmentally disabled boy's life changes after he encounters an extraterrestrial being.",
+      "popularity": 1.5419,
+      "poster_path": "/2iJVauDYcYxRRGciTmAOSjiATf9.jpg",
+      "release_date": "2003-08-08",
+      "title": "Koi... Mil Gaya",
+      "video": false,
+      "vote_average": 6.844,
+      "vote_count": 218
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/32RrclFHo3SLvx3o3MDpBeWS9rs.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 496318,
+      "original_language": "hi",
+      "original_title": "Krrish 4",
+      "overview": "",
+      "popularity": 1.0266,
+      "poster_path": "/v0flRsjnl2CaWTHIHlUYJ2UEgq1.jpg",
+      "release_date": "",
+      "title": "Krrish 4",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m79LyVwnqbOWuGCZibqAmdDdfI9.jpg",
+      "genre_ids": [
+        28,
+        878,
+        18
+      ],
+      "id": 41903,
+      "original_language": "hi",
+      "original_title": "\u092e\u093f\u0938\u094d\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e",
+      "overview": "A poor but big-hearted man takes orphans into his home. After discovering his scientist father's invisibility device, he rises to the occasion and fights to save his children and all of India from the clutches of a megalomaniac.",
+      "popularity": 1.0192,
+      "poster_path": "/sU4cOeZ6tqIdl1ON7ToshSXrwGU.jpg",
+      "release_date": "1987-05-25",
+      "title": "Mr. India",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vA9N4eI19uBGE5HOhHxl9kJr5Ph.jpg",
+      "genre_ids": [
+        878,
+        9648,
+        53
+      ],
+      "id": 796207,
+      "original_language": "hi",
+      "original_title": "\u0926\u094b\u092c\u093e\u0930\u093e",
+      "overview": "In the 1990s, during a wild thunderstorm night, 12-year-old Anay dies in a road accident shortly after he sees his next-door neighbor committing a crime. Twenty-five years later, in a strange turn of events, on an identical stormy night, Antara finds herself in front of a TV set through which she attempts to save Anay\u2019s life but her good deed causes a disturbing chain of unexpected consequences.",
+      "popularity": 0.6817,
+      "poster_path": "/5OIuQ4d7YqeQVg9vUnWINSJekB1.jpg",
+      "release_date": "2022-08-19",
+      "title": "Dobaaraa",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oOttkndcBXPbYBqJwicB87tmAFr.jpg",
+      "genre_ids": [
+        878,
+        18,
+        14
+      ],
+      "id": 640421,
+      "original_language": "hi",
+      "original_title": "Cargo",
+      "overview": "Prahastha, a lonely astronaut, works in a spaceship. Every morning, his spaceship comes close to Earth and Cargos are delivered at the arrival bay. These Cargos are people who have just died on Earth and we learn that Prahastha works for Post Death Transition Services \u2014 a large, pioneering, bureaucratic company that stores, transitions, and recycles dead people for rebirth. Today, after many years, a young, popular astronaut \u2014 Yuvishka, trained in cutting edge technology, will join the spaceship as his assistant.",
+      "popularity": 0.5857,
+      "poster_path": "/p8qSsI6g2vSrdumtdbb8c2Q2pV6.jpg",
+      "release_date": "2019-10-18",
+      "title": "Cargo",
+      "video": false,
+      "vote_average": 4.974,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u1JM6DB8nS51KoxehwpG1xiTD5D.jpg",
+      "genre_ids": [
+        878,
+        14,
+        53,
+        18
+      ],
+      "id": 53590,
+      "original_language": "hi",
+      "original_title": "\u0905\u0932\u0917",
+      "overview": "When an old widow passes away, the police searches his house and finds his son locked in the basement. They take the boy to an institution, where it is discovered that he possesses supernatural powers.",
+      "popularity": 0.5728,
+      "poster_path": "/rIMk0bxPJus937pkmp2uEEFP3d7.jpg",
+      "release_date": "2006-06-16",
+      "title": "Alag",
+      "video": false,
+      "vote_average": 4.4,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nfigXYjs8j1Esmfo7ha2jGvxI2A.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 329909,
+      "original_language": "hi",
+      "original_title": "Mr. X",
+      "overview": "After an explosion at a chemical factory gives him the power of invisibility, a former officer of the law becomes a vigilante in order to take revenge on those who have wronged him.",
+      "popularity": 0.5374,
+      "poster_path": "/uNaJnX3LDy6E2HvR50mgQ53Qvu2.jpg",
+      "release_date": "2015-04-17",
+      "title": "Mr. X",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/huTsZULPOjWm8BUmwjWaV1YB7UF.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 43216,
+      "original_language": "hi",
+      "original_title": "Prince",
+      "overview": "A wanted thief races against time to find an antique coin after he commits the biggest heist of his life and wakes up the next day with no memories.",
+      "popularity": 0.5161,
+      "poster_path": "/dWKyB7hJ1SzyVjHoIQESx5lNzoM.jpg",
+      "release_date": "2010-04-09",
+      "title": "Prince",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hduMeCHbr3ISsjyblQ2DxmTRvAb.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 129507,
+      "original_language": "hi",
+      "original_title": "Joker",
+      "overview": "In 1947 when the maps of India and Pakistan were being drawn, an oversight ensured that the village of Paglapur didn't find a place in either country. Over 60 years later, Paglapur is isolated, and in need of help. The residents seek help, but as a direct result of being left off the map, they find no one willing to accept Paglapur, and its problems, as their jurisdiction. The villagers decide they need to draw media attention to Paglapur, and in so doing, gain acceptance and help from those who had previously denied them.",
+      "popularity": 0.4841,
+      "poster_path": "/gA3xoiTWuaqEAiBXUqTv0gfZRSA.jpg",
+      "release_date": "2012-08-31",
+      "title": "Joker",
+      "video": false,
+      "vote_average": 4.2,
+      "vote_count": 46
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 167595,
+      "original_language": "hi",
+      "original_title": "Superman",
+      "overview": "In this Indian take on the classic superhero story, a young baby from the doomed planet Krypton is sent to Earth, where he is adopted by an elderly couple in India who name him Shekhar. After growing to an adult and learning about his origins and powers, he goes to the city in search of his school sweetheart, Gita, who has become a newpaper reporter. At the same time, Verma, Shekhar's rival for Gita's affection in their school days, has gone on to become a crime lord and general super-villain. Verma has hatched at plan to become rich by devastating part of India with natural disasters, then buying up all of the abandoned land. Will Superman/Shekhar be able to put a stop to Verma's evil plan? Will he win Gita's heart? Will he keep his double identity a secret?",
+      "popularity": 0.4522,
+      "poster_path": "/xC7uUL6liwvkATfYs89Ag5TqW3O.jpg",
+      "release_date": "1987-12-31",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kppffPrXqDfi33Y4YwqOAPQe2BN.jpg",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 1086725,
+      "original_language": "hi",
+      "original_title": "Tees",
+      "overview": "Spanning across 90 years, follow a middle-class Muslim family across three generations.  2042. Six months after his manuscript titled Tees (30) is rejected for publication by the Literature and Arts Commission, Anhad Draboo, a young freelance prostitute, meets Niharika, a \u201creader\u201d from the Commission \u2013 who has been searching for Anhad ever since she read his manuscript.  2018. Zia Draboo, a corporate lawyer living in Mumbai and all set to buy the flat she has been renting with her partner Meera, finds out she cannot buy it because of the Housing Society\u2019s resistance to her name.  1989-90. Ayesha, a housebound State Radio newsreader in Srinagar, Kashmir, reaches out to her childhood friend Usha to solicit help from her husband \u2013 a government official. She needs it for her own husband, Ghulam Muhammad, who faces bankruptcy and ruin amongst rising unrest in the city.",
+      "popularity": 0.4421,
+      "poster_path": "/iJJlpYgibomRwxyTjtHuJ018IVB.jpg",
+      "release_date": "2024-11-07",
+      "title": "Tees",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7UjQ5bYDQMZzprL5fUuFZUgZQxc.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        878
+      ],
+      "id": 49679,
+      "original_language": "hi",
+      "original_title": "Action Replayy",
+      "overview": "A young man tries to revive his parents' wilting marriage by traveling to the 1970s when their romance was budding to help make it bloom: something more complex than he expects.",
+      "popularity": 0.4352,
+      "poster_path": "/8YzWja1cgzIaaKys6Ajk95kJxQY.jpg",
+      "release_date": "2010-11-05",
+      "title": "Action Replayy",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 73
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

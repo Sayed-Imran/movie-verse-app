@@ -1,0 +1,409 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pwfXx2O3eFXi5dtWCV5XJPQJgqN.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10752,
+        36
+      ],
+      "id": 1143407,
+      "original_language": "hi",
+      "original_title": "\u0938\u094d\u0915\u093e\u0908 \u092b\u093c\u094b\u0930\u094d\u0938",
+      "overview": "In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes missing after a heroic solo engagement against a superior enemy jet. Ahuja spends 23 years seeking the truth and uncovering a cover-up.",
+      "popularity": 19.0834,
+      "poster_path": "/pmtev9YTlIRDo25G7lN8dzyoszn.jpg",
+      "release_date": "2025-01-24",
+      "title": "Sky Force",
+      "video": false,
+      "vote_average": 6.426,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s37s21YPqS7txyB0x0TRel24vgi.jpg",
+      "genre_ids": [
+        36,
+        28,
+        18
+      ],
+      "id": 1196943,
+      "original_language": "hi",
+      "original_title": "\u091b\u093e\u0935\u093e",
+      "overview": "Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
+      "popularity": 10.3983,
+      "poster_path": "/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",
+      "release_date": "2025-02-14",
+      "title": "Chhaava",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eUEWTtr7WuYrMjXPG8GNfxIlRiJ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 611598,
+      "original_language": "hi",
+      "original_title": "\u0938\u092e\u094d\u0930\u093e\u091f \u092a\u0943\u0925\u094d\u0935\u0940\u0930\u093e\u091c",
+      "overview": "The true story of legendary Hindu warrior king \"Prithviraj Chauhan\" including his early military successes, love story with Sanyogita & clashes with Muhammad of Ghor, a ruler of the Ghurid dynasty who led the foundation of Muslim rule in the Indian subcontinent.",
+      "popularity": 4.2333,
+      "poster_path": "/itjop20yizH1cwB44tIo5JivPSq.jpg",
+      "release_date": "2022-06-03",
+      "title": "Samrat Prithviraj",
+      "video": false,
+      "vote_average": 6.84,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/50reJgWrWTXK3fvGh8idw71gxAO.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10749
+      ],
+      "id": 432527,
+      "original_language": "hi",
+      "original_title": "\u092a\u0926\u094d\u092e\u093e\u0935\u0924",
+      "overview": "Rajputana, India, 13th century. The tyrannical usurper Alauddin Khilji, sultan of Delhi, becomes obsessed with Queen Padmavati, wife of King Ratan Singh of Mewar, and goes to great lengths to satisfy his greed for her.",
+      "popularity": 4.1346,
+      "poster_path": "/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg",
+      "release_date": "2018-01-25",
+      "title": "Padmaavat",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 281
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/notcxmT6RN93g43BnRI8GvRktZ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 498448,
+      "original_language": "hi",
+      "original_title": "\u0915\u0947\u0938\u0930\u0940",
+      "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
+      "popularity": 3.7816,
+      "poster_path": "/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+      "release_date": "2019-03-21",
+      "title": "Kesari",
+      "video": false,
+      "vote_average": 7.086,
+      "vote_count": 105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1CpOFqgxOFOL2MxTWcIRfg6axy4.jpg",
+      "genre_ids": [
+        28,
+        36,
+        18
+      ],
+      "id": 569594,
+      "original_language": "hi",
+      "original_title": "\u092d\u093e\u0930\u0924",
+      "overview": "At the cusp of India's birth as an Independent nation, a family makes an arduous journey to freedom at a cost. A young boy Bharat, makes a promise to his Father that he will keep his family together no matter what.",
+      "popularity": 3.1466,
+      "poster_path": "/aawdjzVsfKvRRIFu9Ni74wZyjc8.jpg",
+      "release_date": "2019-06-05",
+      "title": "Bharat",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n19pClzY673UkZvECNZMDO2ViMP.jpg",
+      "genre_ids": [
+        10749,
+        36,
+        18
+      ],
+      "id": 14073,
+      "original_language": "hi",
+      "original_title": "\u091c\u094b\u0927\u093e \u0905\u0915\u092c\u0930",
+      "overview": "A sixteenth century love story about a marriage of alliance that gave birth to true love between a Mughal emperor and a Rajput princess.",
+      "popularity": 3.0988,
+      "poster_path": "/gPjgeywFNTlh9IUuXWy85nn4h8J.jpg",
+      "release_date": "2008-02-13",
+      "title": "Jodhaa Akbar",
+      "video": false,
+      "vote_average": 7.326,
+      "vote_count": 250
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jyGiG4wcr0BHpqIXiep5MRCQ7Kz.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        36,
+        10749,
+        10752
+      ],
+      "id": 4435,
+      "original_language": "hi",
+      "original_title": "\u0905\u0936\u094b\u0915",
+      "overview": "A young Prince Asoka works to perfect his skills in battle and also deals with family conflict. During a struggle with one of his step-brothers, his mother urges Asoka to escape to stay alive. While away, Asoka meets Kaurwaki and falls in love, but must use his skills as a warrior to protect her. A dangerous and heartbreaking web of conspiracy follows, which leads Asoka to embrace a Buddhist path.",
+      "popularity": 2.9113,
+      "poster_path": "/ckFDMqLjhsYo2kH3X5auV1NnjPM.jpg",
+      "release_date": "2001-09-13",
+      "title": "A\u015boka",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 150
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xjjHH1SxphgYtwCCdAlN5wmYGqR.jpg",
+      "genre_ids": [
+        36,
+        28,
+        12,
+        14
+      ],
+      "id": 734253,
+      "original_language": "hi",
+      "original_title": "\u0906\u0926\u093f\u092a\u0941\u0930\u0941\u0937",
+      "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+      "popularity": 2.778,
+      "poster_path": "/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+      "release_date": "2023-06-16",
+      "title": "Adipurush",
+      "video": false,
+      "vote_average": 4.913,
+      "vote_count": 92
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eWZw0EeMV9Zx3NyEsUGePNH1Zhm.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 965087,
+      "original_language": "hi",
+      "original_title": "\u092b\u0941\u0932\u0947",
+      "overview": "A biopic on Jyotiba and Savitribai Phule, considered to be a pioneering couple in India\u2019s societal history. They are often credited for underlining the importance of the girls\u2019 education and self-dependence.",
+      "popularity": 2.6897,
+      "poster_path": "/A3Jv2F0p56E3XxX8CSRHbgMDEDI.jpg",
+      "release_date": "2025-04-25",
+      "title": "Phule",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pr4MeBoEU5ZHgsmL18uAgTXws5A.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1137339,
+      "original_language": "hi",
+      "original_title": "\u0915\u0947\u0938\u0930\u0940 \u091a\u0948\u092a\u094d\u091f\u0930 2: \u091c\u0932\u093f\u092f\u093e\u0902\u0935\u093e\u0932\u093e \u092c\u093e\u0917 \u0915\u0940 \u0905\u0928\u0915\u0939\u0940 \u0915\u0939\u093e\u0928\u0940",
+      "overview": "A dramatization of the life story of C. Sankaran Nair, the lawyer who fought for the truth behind the Jallianwala Bagh massacre.",
+      "popularity": 2.6634,
+      "poster_path": "/jgGSqe1YgSot6Y1zDVTVkbsZ46z.jpg",
+      "release_date": "2025-04-17",
+      "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh",
+      "video": false,
+      "vote_average": 6.143,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gsKNlRSAjR7oZQyvGBfU110VeC2.jpg",
+      "genre_ids": [
+        53,
+        28,
+        18,
+        36
+      ],
+      "id": 491629,
+      "original_language": "hi",
+      "original_title": "\u0930\u093e\u091c\u093c\u0940",
+      "overview": "An Indian spy is married to a Pakistani military officer during the Indo-Pakistani War of 1971.",
+      "popularity": 2.6548,
+      "poster_path": "/fF2xXApETxZqyluokyJ1x4gIiTf.jpg",
+      "release_date": "2018-05-10",
+      "title": "Raazi",
+      "video": false,
+      "vote_average": 7.204,
+      "vote_count": 170
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10752,
+        36
+      ],
+      "id": 590351,
+      "original_language": "hi",
+      "original_title": "72 Hours: Martyr Who Never Died",
+      "overview": "The story is based on the life of Rifleman Jaswant Singh Rawat. 55 years ago during 1962 Indo-China war , when the destiny of war was pre decided, there stood a brave soldier from 4th Garhwal Rifle against all odds and guarded our post from Nurunaang Base in Arunachal Pradesh then called NEFA border.",
+      "popularity": 2.6286,
+      "poster_path": "/hDGpgkka0QX0eMBklXY9E0Xub1W.jpg",
+      "release_date": "2019-01-19",
+      "title": "72 Hours: Martyr Who Never Died",
+      "video": false,
+      "vote_average": 4.2,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gOAQCgRvwWgu9FyYySxHQG9Wf84.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 1000438,
+      "original_language": "hi",
+      "original_title": "\u0907\u092e\u0930\u091c\u0947\u0902\u0938\u0940",
+      "overview": "Based on true events that unfolded in 1975, the film chronicles incidents that took place under the leadership of Indira Gandhi, one of the most powerful women in Indian history.",
+      "popularity": 2.5497,
+      "poster_path": "/yp5eg70g6LaZoBiApOv9oerzvvX.jpg",
+      "release_date": "2025-01-17",
+      "title": "Emergency",
+      "video": false,
+      "vote_average": 3.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3AzXdOm4Ul4Q9rmge4Otu5hcXZ1.jpg",
+      "genre_ids": [
+        36,
+        10749,
+        18
+      ],
+      "id": 362045,
+      "original_language": "hi",
+      "original_title": "\u092c\u093e\u091c\u0940\u0930\u093e\u0935 \u092e\u0938\u094d\u0924\u093e\u0928\u0940",
+      "overview": "Peshwa Bajirao married to Kashibai, falls in love with Mastani, a warrior princess in distress. They struggle to make their love triumph amid opposition from his conservative family.",
+      "popularity": 2.1544,
+      "poster_path": "/a3kM4CBTSI4NC8KYeSRJCh55liV.jpg",
+      "release_date": "2015-12-18",
+      "title": "Bajirao Mastani",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 284
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oZftUn6yOt61LItXE4zPOz4rca9.jpg",
+      "genre_ids": [
+        80,
+        18,
+        36
+      ],
+      "id": 598826,
+      "original_language": "hi",
+      "original_title": "\u0938\u0930\u0926\u093e\u0930 \u0909\u0927\u092e",
+      "overview": "A young Sardar Udham Singh left deeply scarred by the Jallianwala Bagh massacre, escaped into the mountains of Afghanistan, reaching London in 1933-34. Carrying an unhealed wound for 21 years, the revolutionary assassinated Michael O\u2019Dwyer on 13th March, 1940, the man at the helm of affairs in Punjab, April 1919 to avenge the lost lives of his beloved brethren.",
+      "popularity": 2.0858,
+      "poster_path": "/lAyDLZAVjslmtPC0EW5OSh0BMYA.jpg",
+      "release_date": "2021-10-16",
+      "title": "Sardar Udham",
+      "video": false,
+      "vote_average": 7.131,
+      "vote_count": 103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eryhpwnyvEWnsDapQ9jwbam8itA.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 206324,
+      "original_language": "hi",
+      "original_title": "\u092d\u093e\u0917 \u092e\u093f\u0932\u094d\u0916\u093e \u092d\u093e\u0917",
+      "overview": "The true story of the \"Flying Sikh\" world champion runner and Olympian Milkha Singh who overcame the massacre of his family, civil war during the India-Pakistan partition, and homelessness to become one of India's most iconic athletes.",
+      "popularity": 2.0479,
+      "poster_path": "/bXywc0CEzS1fIshPWWi4V8A58U3.jpg",
+      "release_date": "2013-07-12",
+      "title": "Bhaag Milkha Bhaag",
+      "video": false,
+      "vote_average": 7.421,
+      "vote_count": 254
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fZSBNwHSXO4BF0AYYEQ1ctHzre2.jpg",
+      "genre_ids": [
+        36,
+        18,
+        28
+      ],
+      "id": 491622,
+      "original_language": "hi",
+      "original_title": "i\u092e\u0923\u093f\u0915\u0930\u094d\u0923\u093f\u0915\u093e",
+      "overview": "Story of Rani Lakshmibai, one of the leading figures of the Indian Rebellion of 1857 and her resistance to the British Rule.",
+      "popularity": 1.9679,
+      "poster_path": "/kbTzlKKnZHZ8RYulknO4xqQOJ24.jpg",
+      "release_date": "2019-01-25",
+      "title": "Manikarnika: The Queen of Jhansi",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 51
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zUioX7v6GBZm2TKySkpxitQuPtx.jpg",
+      "genre_ids": [
+        80,
+        18,
+        36
+      ],
+      "id": 664332,
+      "original_language": "hi",
+      "original_title": "\u0917\u0902\u0917\u0942\u092c\u093e\u0908 \u0915\u093e\u0920\u093f\u092f\u093e\u0935\u093e\u0921\u093c\u0940",
+      "overview": "Duped and sold to a brothel, a young woman fearlessly reclaims her power, using underworld connections to preside over the world she was once a pawn in.",
+      "popularity": 1.9485,
+      "poster_path": "/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg",
+      "release_date": "2022-02-24",
+      "title": "Gangubai Kathiawadi",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 163
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/if7JDhEQvCaAyefVL3xSarkkLUi.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1171099,
+      "original_language": "hi",
+      "original_title": "\u092e\u0939\u093e\u0930\u093e\u091c",
+      "overview": "Based on a real-life historic court case, a bold journalist questions a revered leader's immoral behavior.",
+      "popularity": 1.8207,
+      "poster_path": "/h9o8LxGL4YHZKxPrF94Vm1jGuPi.jpg",
+      "release_date": "2024-06-21",
+      "title": "Maharaj",
+      "video": false,
+      "vote_average": 6.716,
+      "vote_count": 44
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

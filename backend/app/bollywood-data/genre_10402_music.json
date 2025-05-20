@@ -1,0 +1,403 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pSWxsQsP0regsf96unAl2cscRCz.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35,
+        10402
+      ],
+      "id": 549829,
+      "original_language": "hi",
+      "original_title": "\u0932\u0935 \u092f\u093e\u0924\u094d\u0930\u0940",
+      "overview": "Romance blossoms between young Sushrut and Michelle when they meet during the festival of Navratri. When Michelle returns home to the United Kingdom, Sushrut embarks on an adventurous journey through a strange land to win back the woman he loves.",
+      "popularity": 3.4646,
+      "poster_path": "/aq5RNE6L8gPSQwSaueur97IbpFR.jpg",
+      "release_date": "2018-10-05",
+      "title": "Loveyatri",
+      "video": false,
+      "vote_average": 5.357,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a4H5TFw7p7hCzED5zKuNzjBbi5h.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 607141,
+      "original_language": "hi",
+      "original_title": "Be Happy",
+      "overview": "A dance-drama film that follows a single father and his witty, wise-beyond-her-years daughter. When his daughter's dream of performing in the country's biggest dance reality show collides with a life-altering crisis, the father is driven to do the unthinkable, showcasing the extraordinary lengths he will go to fulfill her wishes and find happiness.",
+      "popularity": 3.3821,
+      "poster_path": "/6bvW47MtJKo2ipPYJ2xDvdf4zbz.jpg",
+      "release_date": "2025-03-14",
+      "title": "Be Happy",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/omAcS3PpAhvrG10tE9qTLlw8qyh.jpg",
+      "genre_ids": [
+        10402,
+        28
+      ],
+      "id": 460508,
+      "original_language": "hi",
+      "original_title": "\u092e\u0941\u0928\u094d\u0928\u093e \u092e\u093e\u0907\u0915\u0932",
+      "overview": "An expert dancer Munna who idolizes the king of pop, reluctantly tutors a gangster until their developing bond gets disrupted by their common romantic interest towards the same woman.",
+      "popularity": 2.9095,
+      "poster_path": "/p1tdHXmGGLc8o8kTImZi5iPXcu3.jpg",
+      "release_date": "2017-07-20",
+      "title": "Munna Michael",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 46
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m7Iy4Q3CnjTsyZQcErnbBHXagD9.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10402
+      ],
+      "id": 168495,
+      "original_language": "hi",
+      "original_title": "Henna",
+      "overview": "Beautiful Henna Khan lives the life of a gypsy near the river, Jhelum, in Pakistan with her widowed dad, Khan Baba; three brothers, Ashraf, Razzak, and Zaman; and Razzak's wife, Najma. One day she comes across a male body that has been washed ashore. Khan Baba, Bibi Gul, and Henna take this male in, nurse him back to health, only to find out that he has lost his memory. The male in his sleep cries out the name of \"Chand\", and everyone starts calling him by that name.",
+      "popularity": 2.0776,
+      "poster_path": "/vChTvHPB01q4XnrR6wVGAh26pqd.jpg",
+      "release_date": "1991-06-28",
+      "title": "Henna",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gcZbciueHH7WmD03GcVZX7LYqmR.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 491625,
+      "original_language": "hi",
+      "original_title": "\u0917\u0932\u094d\u0932\u0940 \u092c\u0949\u092f",
+      "overview": "A coming-of-age story based on the lives of street rappers in Mumbai.",
+      "popularity": 1.8167,
+      "poster_path": "/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+      "release_date": "2019-02-14",
+      "title": "Gully Boy",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 186
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/orXMLHXSHbSH4este0XKWZ00oTR.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 339796,
+      "original_language": "hi",
+      "original_title": "Mad About Dance",
+      "overview": "Essentially a dance film, it focuses on the youth, their dreams, anxieties, disappointments and hopes for their future. The film is based in the quaint and beautiful university town of Sheffield and brings to light the stories of Asian students who leave their home and country and go to study abroad\u2026Their struggles, their heartbreaks, their trials and triumphs\u2026",
+      "popularity": 1.7908,
+      "poster_path": "/5AzQTuwzYsXQJBicL2gCnWfutzP.jpg",
+      "release_date": "2014-08-22",
+      "title": "Mad About Dance",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Mr0dWZUJYxdUuZ2f7kvoRceQzF.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 39039,
+      "original_language": "hi",
+      "original_title": "\u0906\u0935\u093e\u0930\u093e",
+      "overview": "A petty thief is put on trial for the attempted murder of a lawyer. Through a series of flashbacks, the intertwining lives of the thief, the lawyer, and the thief's defense lawyer are illustrated.",
+      "popularity": 1.6905,
+      "poster_path": "/njaaQO1JZRtypogw5IPLtTlOSLI.jpg",
+      "release_date": "1951-12-14",
+      "title": "Awaara",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uw8XD7pck9LChp1QbNuTzMY7YuT.jpg",
+      "genre_ids": [
+        28,
+        10402,
+        35
+      ],
+      "id": 1043887,
+      "original_language": "hi",
+      "original_title": "Badass Ravi Kumar",
+      "overview": "The Xpose franchise now goes to the next level  with Himesh Reshammiya doing a spin off from his iconic character Ravi Kumar.",
+      "popularity": 1.5859,
+      "poster_path": "/kqdb3ffSsyRlRjddG0XPpssy5ok.jpg",
+      "release_date": "2025-02-07",
+      "title": "Badass Ravi Kumar",
+      "video": false,
+      "vote_average": 2.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3UseBwzKsUmMN37XcahJSVYRWkf.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 79464,
+      "original_language": "hi",
+      "original_title": "Rockstar",
+      "overview": "College student Janardhan is a simpleton who desperately seeks inspiration for the musician inside him. Although heartbreak helps him reach his goal, it also leads him to self-destruction.",
+      "popularity": 1.5148,
+      "poster_path": "/cJZC9riwrdATBUonkZJZD6y9g40.jpg",
+      "release_date": "2011-11-11",
+      "title": "Rockstar",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 197
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d0LvPveoC0Tu2CrvoexOgFcp38F.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        36,
+        10402
+      ],
+      "id": 262120,
+      "original_language": "hi",
+      "original_title": "\u091c\u093c\u0941\u092c\u0947\u0926\u093e",
+      "overview": "Zubeidaa, an aspiring Muslim actress, marries a Hindu prince to become his second wife. Her tumultuous relationship with her husband, and her inner demons lead her to a decision which has fatal consequences for them all.",
+      "popularity": 1.4607,
+      "poster_path": "/mLKbYm0qhjmRbK5lu28mI5Xi3dy.jpg",
+      "release_date": "2001-01-19",
+      "title": "Zubeidaa",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yrQTyiJpki9dCuIU0bGhGXBu7Zh.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 441889,
+      "original_language": "hi",
+      "original_title": "\u0938\u0940\u0915\u094d\u0930\u0947\u091f \u0938\u0941\u092a\u0930\u0938\u094d\u091f\u093e\u0930",
+      "overview": "A talented teenage singer-songwriter living amid domestic abuse becomes a YouTube sensation after a video in which she hides her identity goes viral.",
+      "popularity": 1.1855,
+      "poster_path": "/fkTeziNtc0uwE899uI1hlMOEdZL.jpg",
+      "release_date": "2017-10-19",
+      "title": "Secret Superstar",
+      "video": false,
+      "vote_average": 7.266,
+      "vote_count": 173
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/97s3czqmBGIyDvOH023oVLfYr4M.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10402
+      ],
+      "id": 34369,
+      "original_language": "hi",
+      "original_title": "\u0906\u0936\u093f\u0915\u0940",
+      "overview": "Rahul and Anu Verghese meet on the same day, while both are held by the police on charges of creating a disturbance, and running away respectively. They meet again, and love happens. Rahul helps Anu to be independent, and seek a job. Then Anu is discovered by a talent agent to be a model, which she accepts. Rahul wants to marry Anu, but first must establish himself.",
+      "popularity": 1.1118,
+      "poster_path": "/4we2et0iMkYGYCV3xS6bhTHI55.jpg",
+      "release_date": "1990-07-23",
+      "title": "Aashiqui",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/miKixKo4wgf05yW02eqmK7tlZLt.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10402,
+        10749
+      ],
+      "id": 975533,
+      "original_language": "hi",
+      "original_title": "The Archies",
+      "overview": "Set in 1960s India, Archie and the gang navigate romance, friendship and the future of Riverdale as developers threaten to destroy a beloved park.",
+      "popularity": 1.0988,
+      "poster_path": "/hmhWb4NTj02FyDxwBm4x9x2JxwJ.jpg",
+      "release_date": "2023-12-07",
+      "title": "The Archies",
+      "video": false,
+      "vote_average": 5.955,
+      "vote_count": 55
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v5n8DrD1nVxXaWCpBGu9K9ZaNlC.jpg",
+      "genre_ids": [
+        10749,
+        10402,
+        18
+      ],
+      "id": 166013,
+      "original_language": "hi",
+      "original_title": "\u0938\u093f\u0930\u094d\u092b\u093c \u0924\u0941\u092e",
+      "overview": "Deepak, an ordinary young man with a big heart, and Aarthi, an attractive, middle class girl.",
+      "popularity": 1.0,
+      "poster_path": "/c9w9QOJCVyBBApsD1E16kxG6YBo.jpg",
+      "release_date": "1999-06-11",
+      "title": "Sirf Tum",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/58zBo7rdkVJKECHoExaijVgzVe2.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        10402
+      ],
+      "id": 161834,
+      "original_language": "hi",
+      "original_title": "Jhankaar Beats",
+      "overview": "Deep and Rishi, best friends and passionate musicians, navigate the challenges of their personal and professional lives while preparing for the annual music contest, \"Jhankaar Beats.\" Deep enjoys a stable life with his wife, Shanti, and young daughter, but faces pressures from a demanding job, a quirky client, and a meddlesome mother-in-law. Rishi, on the other hand, is grappling with a failing marriage to his headstrong wife, Nicki, and the emotional toll of living apart.  When Neel, a talented guitarist with his own romantic troubles, joins their advertising agency, he becomes an unlikely ally. Together, the trio juggles work chaos, relationship conflicts, and their unyielding dream of winning the competition. Set against a backdrop of music, camaraderie, and laughter, their journey is one of self-discovery, forgiveness, and the pursuit of harmony both on and off the stage.",
+      "popularity": 0.986,
+      "poster_path": "/m2xDt3HvKBwjlhtqR2Kp4zvyVul.jpg",
+      "release_date": "2003-06-20",
+      "title": "Jhankaar Beats",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qh7PWKRfy2K8rZZP7LzembGgWIU.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 1086729,
+      "original_language": "hi",
+      "original_title": "\u0905\u092e\u0930 \u0938\u093f\u0902\u0939 \u091a\u092e\u0915\u0940\u0932\u093e",
+      "overview": "A humble singer\u2019s brash lyrics ignite fame and fury across Punjab as he grapples with soaring success and brutal criticism before his untimely death.",
+      "popularity": 0.9796,
+      "poster_path": "/t9wSGgaPfbGUBBlne7xw8GaArvu.jpg",
+      "release_date": "2024-04-12",
+      "title": "Amar Singh Chamkila",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iwRZjIftnFy2vjSAQEKU3JUgv3m.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 934419,
+      "original_language": "hi",
+      "original_title": "\u0915\u093c\u0932\u093e",
+      "overview": "Haunted by her past, a talented singer with a rising career copes with the pressure of success, a mother's disdain and the voices of doubt within her.",
+      "popularity": 0.9787,
+      "poster_path": "/4d2xoBGXMpfeQ6QgpVI4qm34bKP.jpg",
+      "release_date": "2022-11-24",
+      "title": "Qala",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 462857,
+      "original_language": "hi",
+      "original_title": "Piya Behrupiya",
+      "overview": "When Viola believes that her twin brother, Sebastian, is dead, she disguises herself as Cesario. She works for Duke Orsino and falls in love with him, but he is in love with Lady Olivia. A filmed musical adaption of Twelfth Night in Hindi by the Company Theatre, Mumbai-INDIA.",
+      "popularity": 0.9767,
+      "poster_path": "/ceUNubfQ1kzqsI96g5uiUHwmBeY.jpg",
+      "release_date": "2019-03-17",
+      "title": "Piya Behrupiya",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hzVQ1bOgrbXgXuoltdDEEO5KFlI.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 54072,
+      "original_language": "hi",
+      "original_title": "\u0905\u0902\u0926\u093e\u091c\u093c",
+      "overview": "Young Raj Malhotra (Akshay Kumar) lives with his elder brother, Rohit; his sister-in-law Kiran, and a niece. After an accident fractures his leg, he is unable to walk for some time. Due to psychological reasons, he cannot walk even after the fracture heals. When the Malhotras move to Dehra Dun, Raj befriends young Kajal (Dutta), as both share a common passion for airplanes. Kajal encourages Raj to walk, and succeeds. Years later the two continue to be fast friends, and everyone expects them to marry soon. Then Raj is recruited by the Indian Air Force and goes for training for a year and a half. After his training gets over, he rushes to Kajal to propose to her, only to find out that she has given her heart to a multimillionaire, Karan Singhania (Verma), who owns several airplanes and choppers. Raj congratulates Kajal and Karan, but does not reveal his true feelings.",
+      "popularity": 0.8649,
+      "poster_path": "/xLUQ9NLnn13rujYqbmdoNvv2dmM.jpg",
+      "release_date": "2003-05-23",
+      "title": "Andaaz",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/futGEoP7sLJyezCODKveZ5aoQY4.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749,
+        10751
+      ],
+      "id": 16283,
+      "original_language": "hi",
+      "original_title": "\u0938\u093e\u0935\u0930\u093f\u092f\u093e",
+      "overview": "Two souls arrive in a small town, one on vacation, the other to meet a lover. They spend the most magical dream-like days of their lives in that town... with each other.",
+      "popularity": 0.8618,
+      "poster_path": "/k5JRtA6Np3n0nTr11QK6Pt9gm4r.jpg",
+      "release_date": "2007-11-09",
+      "title": "Saawariya",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 84
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

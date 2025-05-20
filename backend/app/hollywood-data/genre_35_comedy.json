@@ -1,0 +1,414 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        14
+      ],
+      "id": 950387,
+      "original_language": "en",
+      "original_title": "A Minecraft Movie",
+      "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+      "popularity": 868.2685,
+      "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "release_date": "2025-03-31",
+      "title": "A Minecraft Movie",
+      "video": false,
+      "vote_average": 6.524,
+      "vote_count": 1192
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        35
+      ],
+      "id": 574475,
+      "original_language": "en",
+      "original_title": "Final Destination Bloodlines",
+      "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+      "popularity": 386.4101,
+      "poster_path": "/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "release_date": "2025-05-09",
+      "title": "Final Destination Bloodlines",
+      "video": false,
+      "vote_average": 7.371,
+      "vote_count": 175
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zz6DywhCTRHxrRXCjXU71edNOUX.jpg",
+      "genre_ids": [
+        27,
+        14,
+        35,
+        12,
+        878
+      ],
+      "id": 1153714,
+      "original_language": "en",
+      "original_title": "Death of a Unicorn",
+      "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature\u2019s miraculous curative properties.",
+      "popularity": 110.9931,
+      "poster_path": "/lXR32JepFwD1UHkplWqtBP1K79z.jpg",
+      "release_date": "2025-03-27",
+      "title": "Death of a Unicorn",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 217
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 1241982,
+      "original_language": "en",
+      "original_title": "Moana 2",
+      "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+      "popularity": 106.2829,
+      "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "release_date": "2024-11-21",
+      "title": "Moana 2",
+      "video": false,
+      "vote_average": 7.085,
+      "vote_count": 2359
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 1124620,
+      "original_language": "en",
+      "original_title": "The Monkey",
+      "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+      "popularity": 96.0245,
+      "poster_path": "/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+      "release_date": "2025-02-14",
+      "title": "The Monkey",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 613
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "genre_ids": [
+        28,
+        878,
+        35,
+        10751
+      ],
+      "id": 939243,
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+      "popularity": 76.0109,
+      "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "release_date": "2024-12-19",
+      "title": "Sonic the Hedgehog 3",
+      "video": false,
+      "vote_average": 7.721,
+      "vote_count": 2551
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "id": 1195506,
+      "original_language": "en",
+      "original_title": "Novocaine",
+      "overview": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+      "popularity": 67.5488,
+      "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+      "release_date": "2025-03-12",
+      "title": "Novocaine",
+      "video": false,
+      "vote_average": 6.907,
+      "vote_count": 749
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1151039,
+      "original_language": "en",
+      "original_title": "Nonnas",
+      "overview": "After losing his beloved mother, a man risks everything to honor her by opening an Italian restaurant with actual nonnas \u2014 grandmothers \u2014 as the chefs.",
+      "popularity": 59.7109,
+      "poster_path": "/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
+      "release_date": "2025-05-01",
+      "title": "Nonnas",
+      "video": false,
+      "vote_average": 6.766,
+      "vote_count": 128
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b6e5Nss2QNoQM4wJv2VppChswNP.jpg",
+      "genre_ids": [
+        53,
+        35,
+        80
+      ],
+      "id": 974573,
+      "original_language": "en",
+      "original_title": "Another Simple Favor",
+      "overview": "Stephanie and Emily reunite on the beautiful island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square.",
+      "popularity": 51.0543,
+      "poster_path": "/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
+      "release_date": "2025-03-07",
+      "title": "Another Simple Favor",
+      "video": false,
+      "vote_average": 6.053,
+      "vote_count": 247
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+      "genre_ids": [
+        28,
+        35,
+        878
+      ],
+      "id": 533535,
+      "original_language": "en",
+      "original_title": "Deadpool & Wolverine",
+      "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+      "popularity": 50.2001,
+      "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "release_date": "2024-07-24",
+      "title": "Deadpool & Wolverine",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 7221
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
+      "genre_ids": [
+        878,
+        35,
+        12
+      ],
+      "id": 696506,
+      "original_language": "en",
+      "original_title": "Mickey 17",
+      "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
+      "popularity": 46.4942,
+      "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "release_date": "2025-02-28",
+      "title": "Mickey 17",
+      "video": false,
+      "vote_average": 6.898,
+      "vote_count": 1936
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "id": 1022789,
+      "original_language": "en",
+      "original_title": "Inside Out 2",
+      "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+      "popularity": 44.649,
+      "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "release_date": "2024-06-11",
+      "title": "Inside Out 2",
+      "video": false,
+      "vote_average": 7.554,
+      "vote_count": 5836
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        878
+      ],
+      "id": 519182,
+      "original_language": "en",
+      "original_title": "Despicable Me 4",
+      "overview": "Gru and Lucy and their girls\u2014Margo, Edith and Agnes\u2014welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+      "popularity": 42.9225,
+      "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+      "release_date": "2024-06-20",
+      "title": "Despicable Me 4",
+      "video": false,
+      "vote_average": 7.046,
+      "vote_count": 2757
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 1064486,
+      "original_language": "en",
+      "original_title": "Memoir of a Snail",
+      "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+      "popularity": 42.205,
+      "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+      "release_date": "2024-10-17",
+      "title": "Memoir of a Snail",
+      "video": false,
+      "vote_average": 8.076,
+      "vote_count": 499
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 1064213,
+      "original_language": "en",
+      "original_title": "Anora",
+      "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "popularity": 40.3521,
+      "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+      "release_date": "2024-10-14",
+      "title": "Anora",
+      "video": false,
+      "vote_average": 7.049,
+      "vote_count": 2165
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 11544,
+      "original_language": "en",
+      "original_title": "Lilo & Stitch",
+      "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and \u02bbohana, the Hawaiian tradition of family.",
+      "popularity": 38.0698,
+      "poster_path": "/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg",
+      "release_date": "2002-06-21",
+      "title": "Lilo & Stitch",
+      "video": false,
+      "vote_average": 7.538,
+      "vote_count": 6451
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        28,
+        35,
+        12,
+        14
+      ],
+      "id": 1011985,
+      "original_language": "en",
+      "original_title": "Kung Fu Panda 4",
+      "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+      "popularity": 35.0378,
+      "poster_path": "/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
+      "release_date": "2024-03-02",
+      "title": "Kung Fu Panda 4",
+      "video": false,
+      "vote_average": 7.066,
+      "vote_count": 3068
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
+      "genre_ids": [
+        35,
+        12
+      ],
+      "id": 346698,
+      "original_language": "en",
+      "original_title": "Barbie",
+      "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "popularity": 33.2589,
+      "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "release_date": "2023-07-19",
+      "title": "Barbie",
+      "video": false,
+      "vote_average": 6.975,
+      "vote_count": 9876
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        16
+      ],
+      "id": 502356,
+      "original_language": "en",
+      "original_title": "The Super Mario Bros. Movie",
+      "overview": "While working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "popularity": 32.9504,
+      "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "release_date": "2023-04-05",
+      "title": "The Super Mario Bros. Movie",
+      "video": false,
+      "vote_average": 7.623,
+      "vote_count": 9677
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+      "genre_ids": [
+        28,
+        35,
+        14
+      ],
+      "id": 845781,
+      "original_language": "en",
+      "original_title": "Red One",
+      "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+      "popularity": 32.9149,
+      "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+      "release_date": "2024-10-31",
+      "title": "Red One",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2503
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

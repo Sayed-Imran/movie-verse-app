@@ -1,0 +1,393 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/v4Rvu6BMup3uecXgLjKmxO9SkxK.jpg",
+      "genre_ids": [
+        14,
+        27
+      ],
+      "id": 538858,
+      "original_language": "hi",
+      "original_title": "\u0924\u0941\u092e\u094d\u092c\u093e\u0921",
+      "overview": "India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
+      "popularity": 6.5067,
+      "poster_path": "/6qeRFImDskoIRkSCFatqeM2rM3k.jpg",
+      "release_date": "2018-10-12",
+      "title": "Tumbbad",
+      "video": false,
+      "vote_average": 7.468,
+      "vote_count": 266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v0zWNLExxNzeqvAkaINtYE4o5rM.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 1112426,
+      "original_language": "hi",
+      "original_title": "\u0938\u094d\u0924\u094d\u0930\u0940 2: \u0938\u0930\u0915\u091f\u0947 \u0915\u093e \u0906\u0924\u0902\u0915",
+      "overview": "After the events of Stree, the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and his friends to save their town and loved ones.",
+      "popularity": 4.7218,
+      "poster_path": "/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
+      "release_date": "2024-08-15",
+      "title": "Stree 2",
+      "video": false,
+      "vote_average": 6.595,
+      "vote_count": 58
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v3Vk2hIvQ6jYnFp0H4WbGKWKA3l.jpg",
+      "genre_ids": [
+        27,
+        18
+      ],
+      "id": 1084031,
+      "original_language": "hi",
+      "original_title": "\u091b\u094b\u0930\u0940 2",
+      "overview": "Sakshi must rescue her seven year old daughter from being sacrificed by an evil cult to satisfy their resident leader, while fighting societal superstitions and the horror that continues to haunt her and young women around her.",
+      "popularity": 3.7984,
+      "poster_path": "/mCgKANxZJW645pXdmJdBb4ysRPk.jpg",
+      "release_date": "2025-04-11",
+      "title": "Chhorii 2",
+      "video": false,
+      "vote_average": 4.3,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f9gUtJtjda7Dy1sw3oJ9yWzjJiC.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 533991,
+      "original_language": "hi",
+      "original_title": "\u0938\u094d\u0924\u094d\u0930\u0940",
+      "overview": "Set in the town of Chanderi, Stree is based on the urban legend of Nale Ba that went viral in Karnataka in the 1990s, and features Shraddha Kapoor and Rajkummar Rao in pivotal roles.",
+      "popularity": 3.5887,
+      "poster_path": "/euhgW6hpDYw7nxFDjqHn0eKvQPX.jpg",
+      "release_date": "2018-08-31",
+      "title": "Stree",
+      "video": false,
+      "vote_average": 6.896,
+      "vote_count": 159
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4Yr1efAiQ55YdV9R7N4WOntpmZ5.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 1187058,
+      "original_language": "hi",
+      "original_title": "\u092e\u0941\u0902\u091c\u094d\u092f\u093e",
+      "overview": "A young man's visit to his native village unveils a family secret and a vengeful spirit, Munjya, who wants to get married. Now the young man must fight to protect himself and his love from Munjya's clutches leading to a humorously chaotic and terrifying adventure.",
+      "popularity": 3.1539,
+      "poster_path": "/31zAzJs8O7dXcE0laUcBoaaNvwu.jpg",
+      "release_date": "2024-06-07",
+      "title": "Munjya",
+      "video": false,
+      "vote_average": 5.739,
+      "vote_count": 23
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6rTrCynWuYyUgLiCOZbFgFDgXb6.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 1187619,
+      "original_language": "hi",
+      "original_title": "\u0936\u0948\u0924\u093e\u0928",
+      "overview": "Kabir and his family's fun weekend retreat takes terrifying turn when an intruder takes over the control of the  body of his teenage daughter, putting her at the mercy of his increasingly sinister orders.",
+      "popularity": 3.1205,
+      "poster_path": "/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg",
+      "release_date": "2024-03-08",
+      "title": "Shaitaan",
+      "video": false,
+      "vote_average": 6.254,
+      "vote_count": 59
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e3amyuWjfJ0HRPozbg6mKMlL2P6.jpg",
+      "genre_ids": [
+        35,
+        27,
+        53
+      ],
+      "id": 19025,
+      "original_language": "hi",
+      "original_title": "\u092d\u0942\u0932 \u092d\u0941\u0932\u0948\u092f\u093e",
+      "overview": "NRI Siddharth Chaturvedi and his wife Avni return to Siddharth's family's ancestral Varanasi palace while disregarding warnings of a curse and paranormal phenomena. Soon enough, inexplicable events begin occuring, which forces Siddharth to consult the eccentric psychiatrist Aditya Shrivastav to help solve the mystery.",
+      "popularity": 2.5179,
+      "poster_path": "/soRW3p4GlPphHiFkwbqYGrodQ5S.jpg",
+      "release_date": "2007-10-12",
+      "title": "Bhool Bhulaiyaa",
+      "video": false,
+      "vote_average": 6.633,
+      "vote_count": 181
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1TdCtQaAqZhKRSOSbPi1EPToJxN.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 980599,
+      "original_language": "hi",
+      "original_title": "\u092d\u0942\u0932 \u092d\u0941\u0932\u0948\u092f\u093e 3",
+      "overview": "Rooh Baba ventures into a haunted mansion in the kingdom of Raktaghat in West Bengal, where he confronts two vengeful spirits, both asserting to be Manjulika.",
+      "popularity": 2.507,
+      "poster_path": "/3AfHD1HoaQpQwKH8kxRdBKVmzeU.jpg",
+      "release_date": "2024-11-01",
+      "title": "Bhool Bhulaiyaa 3",
+      "video": false,
+      "vote_average": 5.636,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lQmjP6z2qJFQzjGuCDzyvBecM69.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 711643,
+      "original_language": "hi",
+      "original_title": "\u091b\u094b\u0930\u0940",
+      "overview": "Sakshi is eight months pregnant with her first child when she and Hemant are forced out of their home. They escape from the city and seek refuge in a house located deep inside sugarcane fields. The house is ridden with dark secrets that start unravelling as the story unfolds, posing a threat to Sakshi and her unborn child. Even as Sakshi tries to save herself and her unborn baby, scary sightings of three mysterious kids and a charred monster coupled with an eerie lullaby, emanating from an old transistor, wreak havoc with her sanity.",
+      "popularity": 2.3401,
+      "poster_path": "/sXMwQnF7yEgCY0AwjG49vK1t4dz.jpg",
+      "release_date": "2021-11-26",
+      "title": "Chhorii",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3EyNSc0JqtVf9aOHmaiiPRKUQZ5.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 799177,
+      "original_language": "hi",
+      "original_title": "\u092d\u0947\u0921\u093c\u093f\u092f\u093e",
+      "overview": "Inspired by legendary folklore rooted in Arunachal Pradesh, Bhediya tells the story of Bhaskar, a man who gets bitten by a mythical wolf and begins to transform into the creature himself. As Bhaskar and his ragtag buddies try to find answers, he is worried that the monster in him will wipe out human existence in the local town.",
+      "popularity": 1.9779,
+      "poster_path": "/iZtq44ZmxBW0E3tAeLG6UdJe9aj.jpg",
+      "release_date": "2022-11-25",
+      "title": "Bhediya",
+      "video": false,
+      "vote_average": 6.735,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9DZUbhGuBPFJm8LCSv6TKe619cZ.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 553347,
+      "original_language": "hi",
+      "original_title": "Page 16",
+      "overview": "Page 16 is a Supernatural thriller. It's a story about an ambitious builder Ajay, whose life turned upside down when he bought a book for his son Harsh. It all started with page 16 of that book where his past and present life gets entangled.",
+      "popularity": 1.8483,
+      "poster_path": "/gFwxoWmdKGvIYGvDo4vf7jJeeeF.jpg",
+      "release_date": "2018-08-10",
+      "title": "Page 16",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bJcD8d58JWUpHB2tZl7ykDohtJB.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 695962,
+      "original_language": "hi",
+      "original_title": "\u092d\u0942\u0932 \u092d\u0941\u0932\u0948\u092f\u093e 2",
+      "overview": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for eighteen years.",
+      "popularity": 1.791,
+      "poster_path": "/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
+      "release_date": "2022-05-20",
+      "title": "Bhool Bhulaiyaa 2",
+      "video": false,
+      "vote_average": 6.368,
+      "vote_count": 72
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u6IgBn8OWhVAhqsVMK1dMus25Nv.jpg",
+      "genre_ids": [
+        18,
+        27,
+        53
+      ],
+      "id": 761226,
+      "original_language": "hi",
+      "original_title": "Welcome Home",
+      "overview": "Welcome Home is being touted as a psychological drama with lots of thrills. The movie follows a pregnant woman living in a house. She is visited by a few other ladies presumably some officials and ask her about her lifestyle.",
+      "popularity": 1.7362,
+      "poster_path": "/bwYxdxIc3jUbivBB425MfhkBzw7.jpg",
+      "release_date": "2020-11-06",
+      "title": "Welcome Home",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rfxj5AoOuvbqi0019TVZLy6gyCC.jpg",
+      "genre_ids": [
+        27,
+        14,
+        53
+      ],
+      "id": 714338,
+      "original_language": "hi",
+      "original_title": "\u092c\u0941\u0932\u092c\u0941\u0932",
+      "overview": "A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.",
+      "popularity": 1.5876,
+      "poster_path": "/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg",
+      "release_date": "2020-06-24",
+      "title": "Bulbbul",
+      "video": false,
+      "vote_average": 6.536,
+      "vote_count": 140
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hJHfqLvYPz9nMPEZamjifHiXZbr.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 603673,
+      "original_language": "hi",
+      "original_title": "\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+      "overview": "Aasif's belief in logic and science shatters when he gets possessed by a transgender's ghost.",
+      "popularity": 1.5653,
+      "poster_path": "/6COHwokEERAjjvlmNF44Xg9BK1y.jpg",
+      "release_date": "2020-11-09",
+      "title": "Laxmii",
+      "video": false,
+      "vote_average": 4.378,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tw2ujWwgZMKt1IqzayqCmnODJvi.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 191562,
+      "original_language": "hi",
+      "original_title": "\u0917\u094b \u0917\u094b\u0906 \u0917\u0949\u0928",
+      "overview": "A rave party off the coast of Goa goes horrifyingly and hilariously wrong when the island is overrun with zombies.",
+      "popularity": 1.4238,
+      "poster_path": "/pyaAYAifrZ1jAfbdunSAiK0QbKs.jpg",
+      "release_date": "2013-05-10",
+      "title": "Go Goa Gone",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 107
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aI11r7LiVtjBXUx1pjv9R4uoLU8.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 20731,
+      "original_language": "hi",
+      "original_title": "\u0930\u093e\u091c\u093c",
+      "overview": "Sanjana and Aditya decide to give their marriage one last chance. They plan a holiday in Ooty, but they don't know that a vengeful spirit is waiting for them.",
+      "popularity": 1.2051,
+      "poster_path": "/6dMZIg4hgc5tF50NbmXYb0yIlrj.jpg",
+      "release_date": "2002-02-01",
+      "title": "Raaz",
+      "video": false,
+      "vote_average": 5.846,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2JTqYozAkCUga9LSq64gI9CJ8Bm.jpg",
+      "genre_ids": [
+        35,
+        27,
+        28,
+        14
+      ],
+      "id": 472123,
+      "original_language": "hi",
+      "original_title": "\u0917\u094b\u0932\u092e\u093e\u0932 \u0905\u0917\u0947\u0928",
+      "overview": "Gopal and his best friends are back again, and this time they move back to their old neighborhood in a new palatial house where they learn that it is being haunted by a ghost.",
+      "popularity": 1.151,
+      "poster_path": "/kGx26PL1v658T8XbOk5MfmNpHU3.jpg",
+      "release_date": "2017-10-20",
+      "title": "Golmaal Again",
+      "video": false,
+      "vote_average": 5.404,
+      "vote_count": 99
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/plMoec10AwtyWhVVqRYvcTMyJ0F.jpg",
+      "genre_ids": [
+        53,
+        27,
+        10749
+      ],
+      "id": 158519,
+      "original_language": "hi",
+      "original_title": "1920: Evil Returns",
+      "overview": "This story revolves around a famous poet who meets a woman who is in trouble. In order to treat her, he takes her to Shimla in a big hospital, but soon that woman gets possessed by devil and goes out of control. Now the question remains that what is the relation that poet shares with her which compelled him to go to any extent to save her, why she was possessed by devil and who is the devil.",
+      "popularity": 1.151,
+      "poster_path": "/mGxYnL1fjDdzSbIowzyQTc4QNjY.jpg",
+      "release_date": "2012-11-02",
+      "title": "1920: Evil Returns",
+      "video": false,
+      "vote_average": 5.785,
+      "vote_count": 128
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q4BqSkKRBt5I6STOeGmTkMN98xr.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 726207,
+      "original_language": "hi",
+      "original_title": "\u092b\u094b\u0928 \u092d\u0942\u0924",
+      "overview": "Two crazy, jobless, horror-film addicts Major and Gullu, under immense family pressure to find work, hit upon the idea to float a unique ghost-capturing service when they meet a spirit, Ragini, who makes their business a success but in return asks them for a favour which they are compelled to honour.",
+      "popularity": 1.1132,
+      "poster_path": "/gWfP8YrbqqznOHWbYC2mbqcV2ZR.jpg",
+      "release_date": "2022-11-04",
+      "title": "Phone Bhoot",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 24
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

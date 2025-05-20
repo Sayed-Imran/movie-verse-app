@@ -1,0 +1,415 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fTLZ3H7leVUeBxaqEKDWtn6pIis.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 864692,
+      "original_language": "hi",
+      "original_title": "\u092a\u0920\u093e\u0928",
+      "overview": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+      "popularity": 5.3719,
+      "poster_path": "/cQOuFy19m0B8kpui7enCthaI8rP.jpg",
+      "release_date": "2023-01-25",
+      "title": "Pathaan",
+      "video": false,
+      "vote_average": 6.475,
+      "vote_count": 204
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uuw0PRR4sgGi1IV4CYYpEYtez9y.jpg",
+      "genre_ids": [
+        12,
+        35,
+        18
+      ],
+      "id": 960876,
+      "original_language": "hi",
+      "original_title": "\u0921\u0902\u0915\u0940",
+      "overview": "Four friends from a sleepy little village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier alights from a train one day, and their lives change. He gives them a soldier's promise: He will take them to the land of their dreams. What follows is a hilarious and heartwarming tale of a perilous journey through the desert and the sea, but most crucially through the hinterlands of their mind.",
+      "popularity": 3.1303,
+      "poster_path": "/kPRb1mbVHGop0egQ7153y0lhzGL.jpg",
+      "release_date": "2023-12-21",
+      "title": "Dunki",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jAbyybBSXCyKGFy5EXlwW1NhjM.jpg",
+      "genre_ids": [
+        28,
+        53,
+        12
+      ],
+      "id": 585268,
+      "original_language": "hi",
+      "original_title": "War",
+      "overview": "Khalid, entrusted with the task of eliminating former soldier turned rogue Kabir, engages in an epic battle with his mentor who taught him everything.",
+      "popularity": 3.0549,
+      "poster_path": "/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg",
+      "release_date": "2019-10-02",
+      "title": "War",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 332
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/enSG6SDVjZOktOQbcPk2r2Jy4ND.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 441909,
+      "original_language": "hi",
+      "original_title": "\u091f\u093e\u0907\u0917\u0930 \u095b\u093f\u0902\u0926\u093e \u0939\u0948",
+      "overview": "When a group of Indian and Pakistani nurses are held hostage in Iraq by a terrorist organization, a secret agent is drawn out of hiding to rescue them.",
+      "popularity": 2.9489,
+      "poster_path": "/mdzNLFfCfuBoJz43l0SmMWWdu5t.jpg",
+      "release_date": "2017-12-18",
+      "title": "Tiger Zinda Hai",
+      "video": false,
+      "vote_average": 6.099,
+      "vote_count": 152
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jyGiG4wcr0BHpqIXiep5MRCQ7Kz.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        36,
+        10749,
+        10752
+      ],
+      "id": 4435,
+      "original_language": "hi",
+      "original_title": "\u0905\u0936\u094b\u0915",
+      "overview": "A young Prince Asoka works to perfect his skills in battle and also deals with family conflict. During a struggle with one of his step-brothers, his mother urges Asoka to escape to stay alive. While away, Asoka meets Kaurwaki and falls in love, but must use his skills as a warrior to protect her. A dangerous and heartbreaking web of conspiracy follows, which leads Asoka to embrace a Buddhist path.",
+      "popularity": 2.9113,
+      "poster_path": "/ckFDMqLjhsYo2kH3X5auV1NnjPM.jpg",
+      "release_date": "2001-09-13",
+      "title": "A\u015boka",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 150
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kqSxCsGIT4rqrZTTMpYP8RIzojv.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 720557,
+      "original_language": "hi",
+      "original_title": "Tiger 3",
+      "overview": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+      "popularity": 2.9101,
+      "poster_path": "/fjzpptTwFoIduPrAUGmlqxaLKhm.jpg",
+      "release_date": "2023-11-12",
+      "title": "Tiger 3",
+      "video": false,
+      "vote_average": 5.765,
+      "vote_count": 51
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yw990hqPmdV64mlDMXPOJbVKkTV.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 899718,
+      "original_language": "hi",
+      "original_title": "\u092f\u094b\u0926\u094d\u0927\u093e",
+      "overview": "When terrorists hijack a passenger plane, a suspended commando onboard under mysterious circumstances, crafts a plan to thwart the hijackers and safeguard the passengers' survival despite the engine's failure.",
+      "popularity": 2.8296,
+      "poster_path": "/d4xrJ9mLFEheS8b7HLyAC9GjHxc.jpg",
+      "release_date": "2024-03-15",
+      "title": "Yodha",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xjjHH1SxphgYtwCCdAlN5wmYGqR.jpg",
+      "genre_ids": [
+        36,
+        28,
+        12,
+        14
+      ],
+      "id": 734253,
+      "original_language": "hi",
+      "original_title": "\u0906\u0926\u093f\u092a\u0941\u0930\u0941\u0937",
+      "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+      "popularity": 2.778,
+      "poster_path": "/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+      "release_date": "2023-06-16",
+      "title": "Adipurush",
+      "video": false,
+      "vote_average": 4.913,
+      "vote_count": 92
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5VKTBTheoNKGlMWcJVdYZLPJW9q.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10749,
+        12
+      ],
+      "id": 391629,
+      "original_language": "hi",
+      "original_title": "\u092c\u093e\u0918\u0940",
+      "overview": "Ronny is a rebellious man, who falls in love with Sia but circumstances separate them. Years later, Ronny learns that Sia is abducted by a martial arts champion, Raghav.",
+      "popularity": 2.7177,
+      "poster_path": "/o5VJiWgGp1O2OtjESZVd37gepYQ.jpg",
+      "release_date": "2016-04-29",
+      "title": "Baaghi",
+      "video": false,
+      "vote_average": 6.346,
+      "vote_count": 133
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 1109086,
+      "original_language": "hi",
+      "original_title": "War 2",
+      "overview": "Sequel to the 2019 action-thriller film War, 6th Movie of the YRF Spy Universe",
+      "popularity": 2.6753,
+      "poster_path": null,
+      "release_date": "2025-08-14",
+      "title": "War 2",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9oAqll65ytlOBLzZwUwkmo5RwIK.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 496331,
+      "original_language": "hi",
+      "original_title": "\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0938\u094d\u0924\u094d\u0930 \u092a\u0939\u0932\u093e \u092d\u093e\u0917: \u0936\u093f\u0935\u093e",
+      "overview": "The story of Shiva \u2013 a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahm\u0101stra... and a great power within him that he doesn\u2019t understand just yet - the power of Fire.",
+      "popularity": 2.3124,
+      "poster_path": "/x61qdvHIsr9U53FwoLVDQqAGur0.jpg",
+      "release_date": "2022-09-08",
+      "title": "Brahm\u0101stra Part One: Shiva",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 174
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vN2mJ2tvk1TpMiA45ZHMnOCg7q1.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 41517,
+      "original_language": "hi",
+      "original_title": "Ra.One",
+      "overview": "When the titular antagonist of an action game takes on physical form, it's up to the game's less powerful protagonist to save the world.",
+      "popularity": 2.232,
+      "poster_path": "/mXlS41qbd0bzhO44iPDtJqYtQt8.jpg",
+      "release_date": "2011-10-24",
+      "title": "Ra.One",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 340
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "id": 428227,
+      "original_language": "hi",
+      "original_title": "Motu Patlu: King of Kings",
+      "overview": "Motu and Patlu are your home-grown Laurel and Hardy in an animation avatar. They befriend a circus lion, Guddu and attempt to save the jungle from a greedy poacher.",
+      "popularity": 2.141,
+      "poster_path": "/vCpXMPIiFyG9eoFG644yqGImGbI.jpg",
+      "release_date": "2016-10-14",
+      "title": "Motu Patlu: King of Kings",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tj6yPh5AKh17Tav2QQuk9q8njNI.jpg",
+      "genre_ids": [
+        28,
+        12,
+        80,
+        53
+      ],
+      "id": 965606,
+      "original_language": "hi",
+      "original_title": "\u092d\u094b\u0932\u093e",
+      "overview": "An ex-convict must undertake a perilous, violent journey in order to meet his daughter after ten years of imprisonment.",
+      "popularity": 2.0505,
+      "poster_path": "/chmbRa3tKFq1KNMoyuU8Vf5hlke.jpg",
+      "release_date": "2023-03-30",
+      "title": "Bholaa",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qexAcGjRPKO2NiIMhBGD0XemXSn.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 236007,
+      "original_language": "hi",
+      "original_title": "\u0928\u0915\u094d\u0936\u093e",
+      "overview": "20 years after the death of an archaeologist, Kapil Malhotra, his younger son, Vicky attempts to uncover his father's mission with the help of an ancient map.",
+      "popularity": 1.9277,
+      "poster_path": "/1WdMoSzM8P3ZkmYIo8xzZl7ypZf.jpg",
+      "release_date": "2006-09-08",
+      "title": "Naksha",
+      "video": false,
+      "vote_average": 3.9,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/EZZEeHzS0uzQq81pwJ2HAWgTXe.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        12
+      ],
+      "id": 277432,
+      "original_language": "hi",
+      "original_title": "Happy New Year",
+      "overview": "Six would-be thieves enter a prestigious dance competition as a cover for their larger goal of pulling off a major heist.",
+      "popularity": 1.9203,
+      "poster_path": "/hJRDXUZdFO5bicGpKNObivaPN5X.jpg",
+      "release_date": "2014-10-24",
+      "title": "Happy New Year",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 263
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XHjwauS5MC5tvkrNYWBxtw3Twn.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80,
+        12
+      ],
+      "id": 496320,
+      "original_language": "hi",
+      "original_title": "Race 3",
+      "overview": "The Singh family comprises of Shamsher his step-son Sikandar, twins Suraj and Sanjana. They run a business of illegal arms and trade with the help of their friend Yash. Things get dramatic when Jessica meets Sikandar and the family ties are strained under each character\u2019s ulterior motives.",
+      "popularity": 1.8884,
+      "poster_path": "/wtnA5mmNumYkeevokar6IskyrZP.jpg",
+      "release_date": "2018-06-15",
+      "title": "Race 3",
+      "video": false,
+      "vote_average": 3.757,
+      "vote_count": 72
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wEHviXMwFwpyhsFwPCvxkHRcA0z.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 764081,
+      "original_language": "hi",
+      "original_title": "\u0930\u093e\u092e \u0938\u0947\u0924\u0941",
+      "overview": "An atheist archaeologist turned believer must race against time to prove the true existence of the legendary Ram Setu before evil forces destroy the pillar of India\u2019s heritage.",
+      "popularity": 1.8047,
+      "poster_path": "/qLkSBwLwuHTqdWHg43u2Pn7pEMQ.jpg",
+      "release_date": "2022-10-25",
+      "title": "Ram Setu",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/76VwduxQMkVXOUktps85dE0lLeP.jpg",
+      "genre_ids": [
+        12,
+        18,
+        36
+      ],
+      "id": 19666,
+      "original_language": "hi",
+      "original_title": "\u0932\u0917\u093e\u0928",
+      "overview": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+      "popularity": 1.7392,
+      "poster_path": "/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
+      "release_date": "2001-06-15",
+      "title": "Lagaan: Once Upon a Time in India",
+      "video": false,
+      "vote_average": 7.253,
+      "vote_count": 587
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        28,
+        12
+      ],
+      "id": 329521,
+      "original_language": "hi",
+      "original_title": "Chhota Bheem in Dholakpur to Kathmandu",
+      "overview": "Bheem and his friends are invited to spend their vacations in Kathmandu.Their trip is not without mishap, as a young ape is separated from its father. Bheem defeats the jaguars, and unites the ape with its father.",
+      "popularity": 1.7357,
+      "poster_path": "/xgOG2qkL8CT7msXPMKAc298fMTA.jpg",
+      "release_date": "2012-03-25",
+      "title": "Chhota Bheem: Dholakpur to Kathmandu",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

@@ -1,0 +1,402 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        28
+      ],
+      "id": 1201012,
+      "original_language": "hi",
+      "original_title": "\u0927\u0942\u092e \u0927\u093e\u092e",
+      "overview": "On their wedding night, an oddball couple is thrust into a chaotic chase, dodging goons and cops in a frenzied hunt for the mysterious \"Charlie.\"",
+      "popularity": 9.2035,
+      "poster_path": "/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
+      "release_date": "2025-02-13",
+      "title": "Dhoom Dhaam",
+      "video": false,
+      "vote_average": 6.679,
+      "vote_count": 42
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/niOqGpLXfJJOSzJy23oyvymY2vD.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 11518,
+      "original_language": "hi",
+      "original_title": "\u092e\u094b\u0939\u092c\u094d\u092c\u0924\u0947\u0902",
+      "overview": "At a prestigious all-male university, three friends seek love outside of the school grounds; at the same time, a newly-hired music teacher seeks to befriend and loosen up the militantly strict headmaster.",
+      "popularity": 7.6875,
+      "poster_path": "/zB7zJQgk4pPoxsPzZP0CqUgHuXN.jpg",
+      "release_date": "2000-10-27",
+      "title": "Mohabbatein",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 251
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19404,
+      "original_language": "hi",
+      "original_title": "\u0926\u093f\u0932\u0935\u093e\u0932\u0947 \u0926\u0941\u0932\u094d\u0939\u0928\u093f\u092f\u093e \u0932\u0947 \u091c\u093e\u092f\u0947\u0902\u0917\u0947",
+      "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fianc\u00e9. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "popularity": 7.4012,
+      "poster_path": "/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+      "release_date": "1995-10-20",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 4485
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lFz7HFWLmBVoa7kITzWEsT9tsEL.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 1216780,
+      "original_language": "hi",
+      "original_title": "\u0928\u093e\u0926\u093e\u0928\u093f\u092f\u093e\u0902",
+      "overview": "A privileged Delhi socialite hires a middle-class student to pose as her boyfriend to maintain her social status. Their pretense becomes complicated when genuine feelings develop between them.",
+      "popularity": 5.7101,
+      "poster_path": "/vQsGkLx68lmAdGwNapaaq3qqwKn.jpg",
+      "release_date": "2025-03-01",
+      "title": "Nadaaniyan",
+      "video": false,
+      "vote_average": 6.079,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hkuN8K3S3OlVtDYxTJhuhdw26jJ.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 192558,
+      "original_language": "hi",
+      "original_title": "\u0906\u0936\u093f\u0915\u0940 \u0968",
+      "overview": "A young woman meets a failing musician who launches her singing career, but their relationship is doomed when people assume he's with her for her fame and fortune.",
+      "popularity": 4.7129,
+      "poster_path": "/lMblq8xcQIRRIVdaMg1XC283gU0.jpg",
+      "release_date": "2013-04-26",
+      "title": "Aashiqui 2",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 164
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/grsqPFaIOnOERVrDykdcvzjOq4t.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        878
+      ],
+      "id": 1110390,
+      "original_language": "hi",
+      "original_title": "\u0924\u0947\u0930\u0940 \u092c\u093e\u0924\u094b\u0902 \u092e\u0947\u0902 \u0910\u0938\u093e \u0909\u0932\u091d\u093e \u091c\u093f\u092f\u093e",
+      "overview": "A robotics engineer searching for his perfect partner finds himself falling in love with a human-like android.",
+      "popularity": 4.4876,
+      "poster_path": "/8swhiVilkhtQHk5l4aPAuxxnUEt.jpg",
+      "release_date": "2024-02-09",
+      "title": "Teri Baaton Mein Aisa Uljha Jiya",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qL5MxbkZwHb7u7E0PHeQ8NvvoxW.jpg",
+      "genre_ids": [
+        18,
+        28,
+        10749
+      ],
+      "id": 376812,
+      "original_language": "hi",
+      "original_title": "\u0938\u0941\u0932\u094d\u0924\u093e\u0928",
+      "overview": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
+      "popularity": 4.3015,
+      "poster_path": "/vPTYtKuV8X5uUd3SqnzO14W6Dti.jpg",
+      "release_date": "2016-07-06",
+      "title": "Sultan",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 234
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iQJZMLr5cdn7Al2Av4V1VEzPDoQ.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 11854,
+      "original_language": "hi",
+      "original_title": "\u0915\u0941\u091b \u0915\u0941\u091b \u0939\u094b\u0924\u093e \u0939\u0948",
+      "overview": "Per her mother's last wish, an 8 year old girl sets out to reunite her father with his college best friend who was in love with him.",
+      "popularity": 4.2261,
+      "poster_path": "/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
+      "release_date": "1998-10-16",
+      "title": "Kuch Kuch Hota Hai",
+      "video": false,
+      "vote_average": 7.461,
+      "vote_count": 394
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6JpbbREGqdEtePnCwxJRcTNX2jZ.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        28
+      ],
+      "id": 205022,
+      "original_language": "hi",
+      "original_title": "Chennai Express",
+      "overview": "Rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South. As they find love through this journey in the exuberant lands of South India, an unanticipated drive awaits them.",
+      "popularity": 4.1414,
+      "poster_path": "/9LZgpUyFEvqHaDVuveE002mhgTi.jpg",
+      "release_date": "2013-08-08",
+      "title": "Chennai Express",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 337
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/50reJgWrWTXK3fvGh8idw71gxAO.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10749
+      ],
+      "id": 432527,
+      "original_language": "hi",
+      "original_title": "\u092a\u0926\u094d\u092e\u093e\u0935\u0924",
+      "overview": "Rajputana, India, 13th century. The tyrannical usurper Alauddin Khilji, sultan of Delhi, becomes obsessed with Queen Padmavati, wife of King Ratan Singh of Mewar, and goes to great lengths to satisfy his greed for her.",
+      "popularity": 4.1346,
+      "poster_path": "/5kk71s8Vmvt8XQOojevhTA5QcB0.jpg",
+      "release_date": "2018-01-25",
+      "title": "Padmaavat",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 281
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6wRBtkjf5DCmybSnnQ9PSEPT3s8.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 540620,
+      "original_language": "hi",
+      "original_title": "\u0932\u0948\u0932\u093e \u092e\u091c\u0928\u0942",
+      "overview": "Laila is a free-spirited girl from a conservative family who firmly believes in living for the present. Qais, a spoilt brat, falls head over heels in love with her. Their families, however, are warring over property, which leads to self-destruction, pain and bleeding hearts.",
+      "popularity": 3.9446,
+      "poster_path": "/m21pcuuNY58P7wkxQd3LzZSdXKU.jpg",
+      "release_date": "2018-09-07",
+      "title": "Laila Majnu",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b4SkyhHmlBDwnH7JeTj5LbyCeuJ.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 503129,
+      "original_language": "hi",
+      "original_title": "Student of the Year 2",
+      "overview": "A student must overcome bullies and hardships, both academic and romantic, in order to win his college's coveted Student of the Year trophy.",
+      "popularity": 3.8999,
+      "poster_path": "/upy2LuSohFYnMGJQl3039TPnlmh.jpg",
+      "release_date": "2019-05-10",
+      "title": "Student of the Year 2",
+      "video": false,
+      "vote_average": 4.378,
+      "vote_count": 74
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dcoqmFVrcPw2lTcuJOxsAmZOG9n.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 556271,
+      "original_language": "hi",
+      "original_title": "\u0915\u0932\u0902\u0915",
+      "overview": "Set in 1945, in Pre-Independent India, the elite, opulent and solemn world of the Chaudhry family, and the wild, mysterious and musical underbelly of the town, Hira Mandi, clash when Roop Chaudhry encounters Zafar, a daredevil from Hira Mandi, unleashing deep-buried truths, secrets of betrayal and affairs that threaten to bring both worlds crashing down.",
+      "popularity": 3.8844,
+      "poster_path": "/aU4DMIzR7u3EHqQ123oLmi9JTbL.jpg",
+      "release_date": "2019-04-17",
+      "title": "Kalank",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 53
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c3c9qcUWA9u99RDipH3JL54FT6J.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        878
+      ],
+      "id": 1301632,
+      "original_language": "hi",
+      "original_title": "\u092d\u0942\u0932 \u091a\u0942\u0915 \u092e\u093e\u092b",
+      "overview": "Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli, but forgets to vow to Lord Shiva, causing him to be trapped in a time loop. A hilarious tale of love, fate, and redemption unfolds, as Ranjan tries to end the loop and get married.",
+      "popularity": 3.7175,
+      "poster_path": "/plWzFq6eVXOm8vpgJG0xUGmifHS.jpg",
+      "release_date": "2025-05-23",
+      "title": "Bhool Chuk Maaf",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/emjsLzI7WwCfcEFty4yvA3Bm5AA.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 4251,
+      "original_language": "hi",
+      "original_title": "\u0935\u0940\u0930-\u091c\u093c\u093e\u0930\u093e",
+      "overview": "Squadron Leader Veer Pratap Singh, a pilot in the Indian Air Force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound.",
+      "popularity": 3.608,
+      "poster_path": "/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+      "release_date": "2004-11-12",
+      "title": "Veer-Zaara",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 276
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pSWxsQsP0regsf96unAl2cscRCz.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35,
+        10402
+      ],
+      "id": 549829,
+      "original_language": "hi",
+      "original_title": "\u0932\u0935 \u092f\u093e\u0924\u094d\u0930\u0940",
+      "overview": "Romance blossoms between young Sushrut and Michelle when they meet during the festival of Navratri. When Michelle returns home to the United Kingdom, Sushrut embarks on an adventurous journey through a strange land to win back the woman he loves.",
+      "popularity": 3.4646,
+      "poster_path": "/aq5RNE6L8gPSQwSaueur97IbpFR.jpg",
+      "release_date": "2018-10-05",
+      "title": "Loveyatri",
+      "video": false,
+      "vote_average": 5.357,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lJH4Ml80gkbbyBGTIYVbU64tU5R.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10749
+      ],
+      "id": 25510,
+      "original_language": "hi",
+      "original_title": "\u091c\u0928\u094d\u0928\u0924",
+      "overview": "A gambler turns into a cricket bookie banking on his sixth sense for the game. But his urge to make quick money pushes him into match-fixing and he loses control of his life and love.",
+      "popularity": 3.3666,
+      "poster_path": "/4QRFa5FjA27hC3ZnHfzAjeTUt0Q.jpg",
+      "release_date": "2008-05-16",
+      "title": "Jannat",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 37
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 14072,
+      "original_language": "hi",
+      "original_title": "\u0930\u092c \u0928\u0947 \u092c\u0928\u093e \u0926\u0940 \u091c\u094b\u0921\u093c\u0940",
+      "overview": "A lonely 40-ish man, likely to remain a bachelor, has a chance to find the love of his life when he falls for a vivacious young woman.",
+      "popularity": 3.2701,
+      "poster_path": "/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg",
+      "release_date": "2008-12-11",
+      "title": "Rab Ne Bana Di Jodi",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 288
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3BrGn1hzfT4SlpooyPbpdcajFez.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 504080,
+      "original_language": "hi",
+      "original_title": "\u0927\u0921\u093c\u0915",
+      "overview": "Madhukar and Parthavi fall head over heels in love with each other, but the fact that they belong to different castes of society, becomes an obstacle in their romance. The lovers dare to go against societal norms and battle all odds for the sake of love.",
+      "popularity": 3.2539,
+      "poster_path": "/vIVKzzPA7hrSZpEwofB7Luo83kO.jpg",
+      "release_date": "2018-07-20",
+      "title": "Dhadak",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 50
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yFwn006ETsYVykpI8OKocgY0Bi3.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 577328,
+      "original_language": "hi",
+      "original_title": "\u0915\u092c\u0940\u0930 \u0938\u093f\u0902\u0939",
+      "overview": "Kabir, a genius yet hostile medical student, falls in love with Preeti from his college. When Preeti's father spots the couple kissing, he opposes their relationship and decides to marry her off.",
+      "popularity": 3.2071,
+      "poster_path": "/unqiPjtc6CGqs13zho7ZvWU85zu.jpg",
+      "release_date": "2019-06-20",
+      "title": "Kabir Singh",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 139
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

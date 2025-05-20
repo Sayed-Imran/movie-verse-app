@@ -1,0 +1,418 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648,
+        80
+      ],
+      "id": 1195430,
+      "original_language": "hi",
+      "original_title": "\u0926\u0947\u0935\u093e",
+      "overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+      "popularity": 27.0756,
+      "poster_path": "/qxtXzAlEPxmjHILU8k8wduvBSdo.jpg",
+      "release_date": "2025-01-31",
+      "title": "Deva",
+      "video": false,
+      "vote_average": 6.021,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b0omVIe88I2gPIPmX87VYScMsx5.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18,
+        9648
+      ],
+      "id": 1029827,
+      "original_language": "hi",
+      "original_title": "\u0926\u0943\u0936\u094d\u092f\u092e \u0968",
+      "overview": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
+      "popularity": 3.5383,
+      "poster_path": "/yJNNwHQuKYNeHFbsxSFR6yK9Dda.jpg",
+      "release_date": "2022-11-18",
+      "title": "Drishyam 2",
+      "video": false,
+      "vote_average": 7.933,
+      "vote_count": 82
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+      "genre_ids": [
+        53,
+        80,
+        9648,
+        28
+      ],
+      "id": 1252470,
+      "original_language": "hi",
+      "original_title": "\u0938\u093f\u0915\u0902\u0926\u0930 \u0915\u093e \u092e\u0941\u0915\u0926\u094d\u0926\u0930",
+      "overview": "After an unsolved diamond heist, a hard-nosed cop\u2019s pursuit of his key suspect turns into obsession, until they finally face each other \u2014 and the truth.",
+      "popularity": 3.3609,
+      "poster_path": "/eWUh4rgxtgypgnOa6uGMnUt01ux.jpg",
+      "release_date": "2024-11-29",
+      "title": "Sikandar Ka Muqaddar",
+      "video": false,
+      "vote_average": 5.576,
+      "vote_count": 46
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g0VFxhLingCTYXL1z9nR8YD7WH4.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        18,
+        80
+      ],
+      "id": 1148172,
+      "original_language": "hi",
+      "original_title": "\u0926\u094b \u092a\u0924\u094d\u0924\u0940",
+      "overview": "A puzzling investigation leads a no-nonsense cop down a dark path involving the vicious rivalry between twin sisters and the volatile man they both love.",
+      "popularity": 2.8965,
+      "poster_path": "/cqStHxRVUtFNaNnJtieHeXIackv.jpg",
+      "release_date": "2024-10-24",
+      "title": "Do Patti",
+      "video": false,
+      "vote_average": 7.033,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s8ZGl0h1l2KN6jO0Jm5iqSp5djO.jpg",
+      "genre_ids": [
+        80,
+        53,
+        9648,
+        18
+      ],
+      "id": 581361,
+      "original_language": "hi",
+      "original_title": "\u092c\u0926\u0932\u093e",
+      "overview": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.",
+      "popularity": 2.7988,
+      "poster_path": "/eKpzbERuhogYTwI3PwfVsAHXnuO.jpg",
+      "release_date": "2019-03-08",
+      "title": "Badla",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 145
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ArvKQJv3nEpnBoVyjWDUT7TtJOL.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53,
+        35
+      ],
+      "id": 534780,
+      "original_language": "hi",
+      "original_title": "\u0905\u0902\u0927\u093e\u0927\u0941\u0928",
+      "overview": "A series of mysterious events changes the life of a blind pianist who now must report a crime that was actually never witnessed by him.",
+      "popularity": 2.3489,
+      "poster_path": "/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg",
+      "release_date": "2018-10-05",
+      "title": "Andhadhun",
+      "video": false,
+      "vote_average": 7.639,
+      "vote_count": 539
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pSUTNQeQkpJa8UJvZPXakpgbvid.jpg",
+      "genre_ids": [
+        9648,
+        80
+      ],
+      "id": 403859,
+      "original_language": "hi",
+      "original_title": "Fever",
+      "overview": "An assassin takes on the identity of a writer to escape the law. He has two mysterious and sensuous women masquerading around him - Rhea and Kaavya. Suspense builds as they both uncover the lie.",
+      "popularity": 2.2096,
+      "poster_path": "/qQAlVN4rgMpkFKJLdkRndG6Mi6N.jpg",
+      "release_date": "2016-08-05",
+      "title": "Fever",
+      "video": false,
+      "vote_average": 3.0,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8xnjsw3Oh3zrT6Pu1WVp8dQYatT.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 352173,
+      "original_language": "hi",
+      "original_title": "\u0926\u0943\u0936\u094d\u092f\u092e\u094d",
+      "overview": "A simple street-smart man tries to protect his family from a cop looking for her missing son who was accidently killed by his daughter.",
+      "popularity": 2.0739,
+      "poster_path": "/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
+      "release_date": "2015-07-30",
+      "title": "Drishyam",
+      "video": false,
+      "vote_average": 7.657,
+      "vote_count": 426
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9DZUbhGuBPFJm8LCSv6TKe619cZ.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 553347,
+      "original_language": "hi",
+      "original_title": "Page 16",
+      "overview": "Page 16 is a Supernatural thriller. It's a story about an ambitious builder Ajay, whose life turned upside down when he bought a book for his son Harsh. It all started with page 16 of that book where his past and present life gets entangled.",
+      "popularity": 1.8483,
+      "poster_path": "/gFwxoWmdKGvIYGvDo4vf7jJeeeF.jpg",
+      "release_date": "2018-08-10",
+      "title": "Page 16",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1fwZBpbfD81uSn9pl5Uwx2VvqNl.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        9648,
+        53
+      ],
+      "id": 1447439,
+      "original_language": "hi",
+      "original_title": "\u0926\u0947\u0935\u093e",
+      "overview": "Working on a complicated case, a fierce young police officer goes rogue to dismantle a lethal web of corruption and deceit \u2014 one epic battle at a time.",
+      "popularity": 1.6152,
+      "poster_path": "/27Kiv6jVLX01D4Emwdeb1CUGCAv.jpg",
+      "release_date": "2025-03-28",
+      "title": "Deva",
+      "video": false,
+      "vote_average": 3.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uRZv0aDCIWW8GGILwyXDFouVFHj.jpg",
+      "genre_ids": [
+        28,
+        80,
+        12,
+        9648,
+        53
+      ],
+      "id": 496316,
+      "original_language": "hi",
+      "original_title": "\u092c\u093e\u0917\u0940 2",
+      "overview": "A battle-hardened army officer goes in search of his ex-lover's child who is mysteriously kidnapped. Neha reaches out to the only person who can help her with her plight, Ronnie. He goes deep into the underbelly of Goa, facing off against drug lords, menacing Russian henchmen, and blood thirsty animals. Daring stunts, chase sequences, air strikes, bomb blasts and other large-scale action sequences will be done with a bona-fide, larger than life approach, truly making it a spectacle.",
+      "popularity": 1.5477,
+      "poster_path": "/nkjkHg9yCpPDM7COGCXfDtUJa2X.jpg",
+      "release_date": "2018-03-30",
+      "title": "Baaghi 2",
+      "video": false,
+      "vote_average": 5.825,
+      "vote_count": 77
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xvAY4zRP4J74v1ROIOGjtm07oYA.jpg",
+      "genre_ids": [
+        53,
+        18,
+        9648
+      ],
+      "id": 353464,
+      "original_language": "hi",
+      "original_title": "\u0924\u0932\u0935\u093e\u0930",
+      "overview": "A hardened cop deals with three conflicting perspectives involving a brutal double murder. The case is complicated as the prime suspects are the parents who supposedly killed their teenage daughter.",
+      "popularity": 1.4752,
+      "poster_path": "/vye2RxyxXKeTIJBSHo0HkvFuTCR.jpg",
+      "release_date": "2015-10-02",
+      "title": "Talvar",
+      "video": false,
+      "vote_average": 7.45,
+      "vote_count": 171
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bhtdUsIk4ABtPtTOGMgASZsUuD4.jpg",
+      "genre_ids": [
+        9648,
+        53
+      ],
+      "id": 498594,
+      "original_language": "hi",
+      "original_title": "Nirdosh",
+      "overview": "After a murder is committed, Shinaya Grover (Manjari Fadnis) gets arrested by the police on the basis of being the primary suspect, but as Inspector Lokhande (Arbaaz khan) carries forward the investigation of the case multiple suspects and possibilities emerge.",
+      "popularity": 1.352,
+      "poster_path": "/iO4D1cXwQxKqsvyilHUSGqdD6G4.jpg",
+      "release_date": "2018-01-19",
+      "title": "Nirdosh",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Ijxw19fKxMr6bKEyfK3gQ9lVU1.jpg",
+      "genre_ids": [
+        80,
+        53,
+        9648
+      ],
+      "id": 878926,
+      "original_language": "hi",
+      "original_title": "\u0959\u0941\u095e\u093f\u092f\u093e",
+      "overview": "When a mole in an intelligence unit leads to the murder of an undercover spy, a hardened agent relentlessly pursues him to avenge the death.",
+      "popularity": 1.3312,
+      "poster_path": "/bbHUuTEo2DsYLoXCjkL8kB0oPhy.jpg",
+      "release_date": "2023-10-05",
+      "title": "Khufiya",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 33
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vgQ6JsosGLaNMzrsTEpf4KGH8O7.jpg",
+      "genre_ids": [
+        12,
+        35,
+        9648,
+        10749
+      ],
+      "id": 401285,
+      "original_language": "hi",
+      "original_title": "\u091c\u0917\u094d\u0917\u093e \u091c\u093e\u0938\u0942\u0938",
+      "overview": "A gifted teenage detective searches for his missing father with his ladylove assistant.",
+      "popularity": 1.3058,
+      "poster_path": "/qXZCEyFkNe5cm7xfkUDvV41Xnfh.jpg",
+      "release_date": "2017-07-14",
+      "title": "Jagga Jasoos",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 94
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ohBudODLg90h2R8jQf4DvfGjY4A.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        80,
+        10749
+      ],
+      "id": 695969,
+      "original_language": "hi",
+      "original_title": "\u0939\u0938\u0940\u0928 \u0926\u093f\u0932\u0930\u0941\u092c\u093e",
+      "overview": "Under investigation as a suspect in her husband's murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+      "popularity": 1.2476,
+      "poster_path": "/hYzaef514peQVZRWGkM3ZvJPqpJ.jpg",
+      "release_date": "2021-06-30",
+      "title": "Haseen Dillruba",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 91
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ysChlwbKSeTrvqPZhbFYvN28pcy.jpg",
+      "genre_ids": [
+        9648,
+        35,
+        80,
+        18
+      ],
+      "id": 946025,
+      "original_language": "hi",
+      "original_title": "\u0915\u091f\u0939\u0932",
+      "overview": "When two prized jackfruits disappear from a politician's garden, a spirited cop's investigation takes an unexpected turn as she digs for the truth.",
+      "popularity": 1.1919,
+      "poster_path": "/yzVMUMN3tkLXdGbLHbOJ6sfXYI.jpg",
+      "release_date": "2023-05-19",
+      "title": "Kathal",
+      "video": false,
+      "vote_average": 5.968,
+      "vote_count": 31
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/szov0Tr05mP7rKHlG2VYyWh33wx.jpg",
+      "genre_ids": [
+        80,
+        35,
+        18,
+        9648
+      ],
+      "id": 915831,
+      "original_language": "hi",
+      "original_title": "\u092e\u094b\u0928\u093f\u0915\u093e, \u0913 \u092e\u093e\u092f \u0921\u093e\u0930\u094d\u0932\u093f\u0902\u0917",
+      "overview": "A slick robotics expert joins a murderous plot after a passionate affair takes a sudden turn, but nothing \u2014 not even death \u2014 is what it seems to be.",
+      "popularity": 1.1601,
+      "poster_path": "/3iX8wpLgkx83jCLNR03nW4lpaP2.jpg",
+      "release_date": "2022-11-11",
+      "title": "Monica, O My Darling",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 80
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lwZyObPbSo2t57EsRIm6e8KF5WD.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 589615,
+      "original_language": "hi",
+      "original_title": "\u0930\u093e\u0924 \u0905\u0915\u0947\u0932\u0940 \u0939\u0948",
+      "overview": "When a newly married landlord is murdered, a misfit cop\u2019s investigation is complicated by the victim\u2019s secretive family and his own conflicted heart.",
+      "popularity": 1.1262,
+      "poster_path": "/lQPWcvQiv1D1xBlpnn5o0hepXkX.jpg",
+      "release_date": "2020-07-31",
+      "title": "Raat Akeli Hai",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 69
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hB6ROJ36qUKARCRl1mHyMcHWtsh.jpg",
+      "genre_ids": [
+        80,
+        53,
+        9648
+      ],
+      "id": 464458,
+      "original_language": "hi",
+      "original_title": "\u0907\u0924\u094d\u0924\u0947\u095e\u093e\u0958",
+      "overview": "Police officer Dev investigates a double murder case that has only two witnesses - an acclaimed writer Vikram and a young homemaker Maya, who also happen to be the prime suspects in the case. He finds himself being torn between their own version's of what happened on the fateful night, and takes it upon himself to figure out the real story and capture the real murderer.",
+      "popularity": 1.1115,
+      "poster_path": "/nwLVjxsBpTF6sDs1BJrx5OzJuAA.jpg",
+      "release_date": "2017-11-03",
+      "title": "Ittefaq",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 105
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

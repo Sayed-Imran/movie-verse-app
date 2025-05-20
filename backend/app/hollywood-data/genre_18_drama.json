@@ -1,0 +1,400 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/k32XKMjmXMGeydykD32jfER3BVI.jpg",
+      "genre_ids": [
+        28,
+        9648,
+        18
+      ],
+      "id": 1045938,
+      "original_language": "en",
+      "original_title": "G20",
+      "overview": "After the G20 Summit is overtaken by terrorists, President Danielle Sutton must bring all her statecraft and military experience to defend her family and her fellow leaders.",
+      "popularity": 64.2806,
+      "poster_path": "/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+      "release_date": "2025-04-10",
+      "title": "G20",
+      "video": false,
+      "vote_average": 6.556,
+      "vote_count": 485
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 974576,
+      "original_language": "en",
+      "original_title": "Conclave",
+      "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+      "popularity": 51.8049,
+      "poster_path": "/l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
+      "release_date": "2024-10-25",
+      "title": "Conclave",
+      "video": false,
+      "vote_average": 7.192,
+      "vote_count": 2469
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 558449,
+      "original_language": "en",
+      "original_title": "Gladiator II",
+      "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+      "popularity": 45.6602,
+      "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "release_date": "2024-11-13",
+      "title": "Gladiator II",
+      "video": false,
+      "vote_average": 6.741,
+      "vote_count": 3331
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 302946,
+      "original_language": "en",
+      "original_title": "The Accountant",
+      "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+      "popularity": 45.4706,
+      "poster_path": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+      "release_date": "2016-10-13",
+      "title": "The Accountant",
+      "video": false,
+      "vote_average": 7.109,
+      "vote_count": 6547
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "popularity": 44.2747,
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "release_date": "1972-03-14",
+      "title": "The Godfather",
+      "video": false,
+      "vote_average": 8.686,
+      "vote_count": 21439
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 1064486,
+      "original_language": "en",
+      "original_title": "Memoir of a Snail",
+      "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+      "popularity": 42.205,
+      "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+      "release_date": "2024-10-17",
+      "title": "Memoir of a Snail",
+      "video": false,
+      "vote_average": 8.076,
+      "vote_count": 499
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 1064213,
+      "original_language": "en",
+      "original_title": "Anora",
+      "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "popularity": 40.3521,
+      "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+      "release_date": "2024-10-14",
+      "title": "Anora",
+      "video": false,
+      "vote_average": 7.049,
+      "vote_count": 2165
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "popularity": 40.301,
+      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "release_date": "2023-07-19",
+      "title": "Oppenheimer",
+      "video": false,
+      "vote_average": 8.061,
+      "vote_count": 10223
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l33oR0mnvf20avWyIMxW02EtQxn.jpg",
+      "genre_ids": [
+        12,
+        18,
+        878
+      ],
+      "id": 157336,
+      "original_language": "en",
+      "original_title": "Interstellar",
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "popularity": 39.9062,
+      "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "release_date": "2014-11-05",
+      "title": "Interstellar",
+      "video": false,
+      "vote_average": 8.455,
+      "vote_count": 37115
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1294203,
+      "original_language": "en",
+      "original_title": "My Fault: London",
+      "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William\u2019s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+      "popularity": 34.2349,
+      "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+      "release_date": "2025-02-12",
+      "title": "My Fault: London",
+      "video": false,
+      "vote_average": 7.467,
+      "vote_count": 391
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 597,
+      "original_language": "en",
+      "original_title": "Titanic",
+      "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+      "popularity": 33.1448,
+      "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "release_date": "1997-11-18",
+      "title": "Titanic",
+      "video": false,
+      "vote_average": 7.906,
+      "vote_count": 25980
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "id": 402431,
+      "original_language": "en",
+      "original_title": "Wicked",
+      "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+      "popularity": 32.8957,
+      "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "release_date": "2024-11-20",
+      "title": "Wicked",
+      "video": false,
+      "vote_average": 6.942,
+      "vote_count": 2114
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hbFVmSYKvrqr9JuKVZ8l71kRQew.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1097549,
+      "original_language": "en",
+      "original_title": "Babygirl",
+      "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
+      "popularity": 31.2751,
+      "poster_path": "/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+      "release_date": "2024-12-25",
+      "title": "Babygirl",
+      "video": false,
+      "vote_average": 5.769,
+      "vote_count": 728
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/plDp52MirFHc2PMJRMNWoG0kfr3.jpg",
+      "genre_ids": [
+        18,
+        28,
+        80,
+        53
+      ],
+      "id": 155,
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "popularity": 30.5394,
+      "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "release_date": "2008-07-16",
+      "title": "The Dark Knight",
+      "video": false,
+      "vote_average": 8.519,
+      "vote_count": 33837
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 278,
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "popularity": 30.2137,
+      "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "release_date": "1994-09-23",
+      "title": "The Shawshank Redemption",
+      "video": false,
+      "vote_average": 8.71,
+      "vote_count": 28280
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wi2CEFSyoxoBWdFeVmTeqnlX3qI.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        18
+      ],
+      "id": 1233575,
+      "original_language": "en",
+      "original_title": "Black Bag",
+      "overview": "When intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband \u2013 also a legendary agent \u2013 faces the ultimate test of whether to be loyal to his marriage, or his country.",
+      "popularity": 28.3334,
+      "poster_path": "/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+      "release_date": "2025-03-12",
+      "title": "Black Bag",
+      "video": false,
+      "vote_average": 6.324,
+      "vote_count": 526
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6GGsUgmef5MIfJnnp2fGvkFWRg6.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 1059073,
+      "original_language": "en",
+      "original_title": "Winter Spring Summer or Fall",
+      "overview": "Remi and Barnes, two very different teenagers, meet by chance in the winter of their senior year, then spend four  days together over the course of a year that will change their lives forever.",
+      "popularity": 27.0747,
+      "poster_path": "/eqtMRn27ztlRbFRvfHI9SXHSOns.jpg",
+      "release_date": "2024-12-27",
+      "title": "Winter Spring Summer or Fall",
+      "video": false,
+      "vote_average": 7.37,
+      "vote_count": 100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+      "genre_ids": [
+        28,
+        18,
+        12
+      ],
+      "id": 98,
+      "original_language": "en",
+      "original_title": "Gladiator",
+      "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+      "popularity": 26.8141,
+      "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "release_date": "2000-05-04",
+      "title": "Gladiator",
+      "video": false,
+      "vote_average": 8.22,
+      "vote_count": 19672
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 361743,
+      "original_language": "en",
+      "original_title": "Top Gun: Maverick",
+      "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+      "popularity": 25.8613,
+      "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+      "release_date": "2022-05-21",
+      "title": "Top Gun: Maverick",
+      "video": false,
+      "vote_average": 8.177,
+      "vote_count": 9829
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 146233,
+      "original_language": "en",
+      "original_title": "Prisoners",
+      "overview": "Keller Dover is facing every parent\u2019s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
+      "popularity": 25.346,
+      "poster_path": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+      "release_date": "2013-09-19",
+      "title": "Prisoners",
+      "video": false,
+      "vote_average": 8.098,
+      "vote_count": 12164
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}

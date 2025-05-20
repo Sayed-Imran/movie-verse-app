@@ -1,0 +1,411 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1197306,
+      "original_language": "en",
+      "original_title": "A Working Man",
+      "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+      "popularity": 357.3065,
+      "poster_path": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+      "release_date": "2025-03-26",
+      "title": "A Working Man",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 753
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/65MVgDa6YjSdqzh7YOA04mYkioo.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 668489,
+      "original_language": "en",
+      "original_title": "Havoc",
+      "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+      "popularity": 118.6591,
+      "poster_path": "/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
+      "release_date": "2025-04-25",
+      "title": "Havoc",
+      "video": false,
+      "vote_average": 6.497,
+      "vote_count": 636
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        80
+      ],
+      "id": 7451,
+      "original_language": "en",
+      "original_title": "xXx",
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+      "popularity": 53.0687,
+      "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+      "release_date": "2002-08-09",
+      "title": "xXx",
+      "video": false,
+      "vote_average": 5.942,
+      "vote_count": 4414
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
+      "genre_ids": [
+        80,
+        53,
+        28
+      ],
+      "id": 870028,
+      "original_language": "en",
+      "original_title": "The Accountant\u00b2",
+      "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+      "popularity": 51.5384,
+      "poster_path": "/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
+      "release_date": "2025-04-23",
+      "title": "The Accountant\u00b2",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 163
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b6e5Nss2QNoQM4wJv2VppChswNP.jpg",
+      "genre_ids": [
+        53,
+        35,
+        80
+      ],
+      "id": 974573,
+      "original_language": "en",
+      "original_title": "Another Simple Favor",
+      "overview": "Stephanie and Emily reunite on the beautiful island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square.",
+      "popularity": 51.0543,
+      "poster_path": "/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
+      "release_date": "2025-03-07",
+      "title": "Another Simple Favor",
+      "video": false,
+      "vote_average": 6.053,
+      "vote_count": 247
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 302946,
+      "original_language": "en",
+      "original_title": "The Accountant",
+      "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+      "popularity": 45.4706,
+      "poster_path": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+      "release_date": "2016-10-13",
+      "title": "The Accountant",
+      "video": false,
+      "vote_average": 7.109,
+      "vote_count": 6547
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "popularity": 44.2747,
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "release_date": "1972-03-14",
+      "title": "The Godfather",
+      "video": false,
+      "vote_average": 8.686,
+      "vote_count": 21439
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        12,
+        9648
+      ],
+      "id": 385687,
+      "original_language": "en",
+      "original_title": "Fast X",
+      "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything\u2014and everyone\u2014that Dom loves, forever.",
+      "popularity": 32.6326,
+      "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "release_date": "2023-05-17",
+      "title": "Fast X",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 5889
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/plDp52MirFHc2PMJRMNWoG0kfr3.jpg",
+      "genre_ids": [
+        18,
+        28,
+        80,
+        53
+      ],
+      "id": 155,
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "popularity": 30.5394,
+      "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "release_date": "2008-07-16",
+      "title": "The Dark Knight",
+      "video": false,
+      "vote_average": 8.519,
+      "vote_count": 33837
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 278,
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "popularity": 30.2137,
+      "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "release_date": "1994-09-23",
+      "title": "The Shawshank Redemption",
+      "video": false,
+      "vote_average": 8.71,
+      "vote_count": 28280
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        53,
+        12
+      ],
+      "id": 573435,
+      "original_language": "en",
+      "original_title": "Bad Boys: Ride or Die",
+      "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+      "popularity": 27.5393,
+      "poster_path": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+      "release_date": "2024-06-05",
+      "title": "Bad Boys: Ride or Die",
+      "video": false,
+      "vote_average": 7.379,
+      "vote_count": 2887
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 146233,
+      "original_language": "en",
+      "original_title": "Prisoners",
+      "overview": "Keller Dover is facing every parent\u2019s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
+      "popularity": 25.346,
+      "poster_path": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+      "release_date": "2013-09-19",
+      "title": "Prisoners",
+      "video": false,
+      "vote_average": 8.098,
+      "vote_count": 12164
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1249289,
+      "original_language": "en",
+      "original_title": "Alarum",
+      "overview": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.",
+      "popularity": 24.9177,
+      "poster_path": "/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
+      "release_date": "2025-01-16",
+      "title": "Alarum",
+      "video": false,
+      "vote_average": 5.745,
+      "vote_count": 274
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fvCq1wEwLtiHKCJYm6BfkIO068x.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 26389,
+      "original_language": "en",
+      "original_title": "From Paris with Love",
+      "overview": "James Reese has a good job as an ambassador's aid in France, but his real passion is a side gig\u2014working in a minor role in the CIA. He would love to be a full-fledged agent and can't believe his luck when he lands an assignment with Charlie Wax. Trigger-happy Charlie soon has James crying for his desk job, but when he learns that the same guys they're trying to catch are after him, James realises that Charlie may be his only hope of survival.",
+      "popularity": 24.7868,
+      "poster_path": "/poVoLKLxUqsTLSntA40Po2F78dZ.jpg",
+      "release_date": "2010-02-04",
+      "title": "From Paris with Love",
+      "video": false,
+      "vote_average": 6.305,
+      "vote_count": 2099
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 866398,
+      "original_language": "en",
+      "original_title": "The Beekeeper",
+      "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+      "popularity": 23.2437,
+      "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "release_date": "2024-01-08",
+      "title": "The Beekeeper",
+      "video": false,
+      "vote_average": 7.323,
+      "vote_count": 3539
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 603692,
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 4",
+      "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "popularity": 22.6543,
+      "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "release_date": "2023-03-22",
+      "title": "John Wick: Chapter 4",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 7056
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
+      "genre_ids": [
+        80,
+        18,
+        35
+      ],
+      "id": 106646,
+      "original_language": "en",
+      "original_title": "The Wolf of Wall Street",
+      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "popularity": 22.5947,
+      "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "release_date": "2013-12-25",
+      "title": "The Wolf of Wall Street",
+      "video": false,
+      "vote_average": 8.029,
+      "vote_count": 24595
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 414906,
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "popularity": 22.2134,
+      "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "release_date": "2022-03-01",
+      "title": "The Batman",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 10891
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 156022,
+      "original_language": "en",
+      "original_title": "The Equalizer",
+      "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can\u2019t stand idly by \u2013 he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+      "popularity": 21.8294,
+      "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "release_date": "2014-09-24",
+      "title": "The Equalizer",
+      "video": false,
+      "vote_average": 7.28,
+      "vote_count": 9318
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 807,
+      "original_language": "en",
+      "original_title": "Se7en",
+      "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "popularity": 21.2558,
+      "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "release_date": "1995-09-22",
+      "title": "Se7en",
+      "video": false,
+      "vote_average": 8.375,
+      "vote_count": 21706
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 20
+}
