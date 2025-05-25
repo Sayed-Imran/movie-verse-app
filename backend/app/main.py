@@ -1,11 +1,19 @@
-# filepath: /home/imran/projects/kubernetes/traffic-management/request-response/project/backend-bollywood/app/main.py
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import json
 import os
 import httpx
+import logging
+from datetime import datetime
 from dotenv import load_dotenv
 from pydantic_settings import BaseSettings
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
+)
+logger = logging.getLogger(__name__)
 
 # Load environment variables
 
@@ -225,4 +233,19 @@ async def fetch_from_tmdb(endpoint: str, params: dict = None):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    import logging
+    from uvicorn.config import LOGGING_CONFIG
+    
+    custom_logging_config = LOGGING_CONFIG.copy()
+    
+    custom_logging_config["formatters"]["access"]["fmt"] = "%(asctime)s - %(levelprefix)s %(client_addr)s - \"%(request_line)s\" %(status_code)s"
+    custom_logging_config["formatters"]["access"]["datefmt"] = "%Y-%m-%d %H:%M:%S"
+    custom_logging_config["formatters"]["default"]["fmt"] = "%(asctime)s - %(levelprefix)s %(message)s"
+    custom_logging_config["formatters"]["default"]["datefmt"] = "%Y-%m-%d %H:%M:%S"
+    
+    uvicorn.run(
+        app, 
+        host="0.0.0.0", 
+        port=8000, 
+        log_config=custom_logging_config
+    )
