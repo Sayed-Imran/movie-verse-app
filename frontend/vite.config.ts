@@ -10,7 +10,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://localhost:8000',
+        target: 'https://movie-backend-970633792422.asia-south1.run.app',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, '')
       }
