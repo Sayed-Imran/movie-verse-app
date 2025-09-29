@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create an instance of axios
 const api = axios.create({
-    baseURL: `${window.location.origin}/api`,
+    baseURL: 'https://movie-backend-970633792422.asia-south1.run.app',
 });
 
 // Add a request interceptor
