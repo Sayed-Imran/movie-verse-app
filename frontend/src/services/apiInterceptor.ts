@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create an instance of axios
 const api = axios.create({
-    baseURL: 'https://movie-backend-970633792422.asia-south1.run.app',
+    baseURL: 'http://localhost:8080', // Updated base URL to point directly to backend service
 });
 
 // Add a request interceptor
